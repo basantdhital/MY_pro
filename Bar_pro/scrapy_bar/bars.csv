@@ -1,774 +1,774 @@
-bar_attire,bar_bestnights,bar_category,bar_dancing,bar_happy,bar_name,bar_nhood,bar_outdoor,bar_parking,bar_phone,bar_reservations,bar_tv,bar_wheelchair,creditCard,num_reviews,num_stars,price_range
-N/A,"Fri, Sat, Sun",Cocktail Bars,No,No,The Ship,SoHo,No,N/A,(212) 219-8496,Yes,No,Yes,Yes,246,4,$$
-N/A,N/A,Cocktail Bars,No,No,The Polynesian,"Midtown West, Hell's Kitchen",Yes,N/A,(212) 254-3000,No,No,Yes,Yes,158,3.5,$$
-N/A,"Thu, Fri, Sat",Whiskey Bars,No,Yes,Whiskey Tavern,Chinatown,No,Street,(212) 374-9119,Yes,Yes,N/A,Yes,725,4.5,$$
-N/A,N/A,Cocktail Bars,N/A,Yes,Bar Alaska,Lower East Side,N/A,N/A,(646) 649-5545,Yes,N/A,N/A,Yes,15,5,$$
-Casual,N/A,Pubs,No,N/A,Caledonia Bar,"Yorkville, Upper East Side",No,Street,(212) 734-4300,No,Yes,N/A,Yes,226,4.5,$$
-Dressy,N/A,Cafes,N/A,No,Bar Pleiades,Upper East Side,No,Street,(212) 772-2600,Yes,No,N/A,Yes,78,4.5,$$$
-N/A,N/A,Cocktail Bars,No,N/A,Old Man Hustle,Lower East Side,No,Street,(212) 253-7747,No,Yes,N/A,Yes,146,4.5,$
-N/A,N/A,Cocktail Bars,No,No,Trouble’s Trust,Midtown East,No,N/A,(212) 888-7000,No,No,N/A,Yes,26,4,$$$
-N/A,"Thu, Fri, Sat",Bars,Yes,Yes,Harlem Nights Bar,Harlem,Yes,Street,(646) 820-4603,No,Yes,Yes,Yes,134,4,$$
-Casual,N/A,Cafes,No,Yes,Avocado Appétit,Lower East Side,No,Street,(917) 388-3675,No,No,No,Yes,148,4.5,$$
-N/A,Fri,Irish Pub,No,Yes,Walter’s Cottage,"Hell's Kitchen, Midtown West",No,N/A,(917) 675-6882,No,Yes,N/A,Yes,54,4.5,$$
-Casual,"Tue, Thu, Fri",Bars,No,Yes,Treadwell Park,Upper East Side,Yes,"Garage, Street",(212) 832-1551,No,Yes,No,Yes,315,4,$$
-N/A,"Thu, Fri, Sat",Bars,N/A,N/A,Local 138,Lower East Side,No,Street,(212) 477-0280,Yes,Yes,N/A,Yes,239,4,$
-N/A,"Wed, Thu, Sat",Pubs,N/A,Yes,The Four-Faced Liar,West Village,No,Street,(212) 206-8959,No,Yes,N/A,Yes,207,4,$
-N/A,"Wed, Thu, Fri",Cocktail Bars,No,No,Winnie’s Jazz Bar,Midtown West,No,N/A,(212) 729-0277,Yes,No,Yes,Yes,45,4.5,$$$
-Casual,Fri,American (New),Yes,Yes,The Flower Shop,Lower East Side,No,Street,(212) 257-4072,Yes,Yes,N/A,Yes,80,4,$$
-Casual,"Thu, Fri, Sat",Dive Bars,Yes,N/A,Iron Horse NYC,Financial District,No,Street,(646) 546-5426,No,Yes,N/A,Yes,347,3.5,$
-Casual,"Fri, Sat, Sun",Cuban,No,No,BlackTail,Battery Park,No,Street,(212) 785-0153,Yes,No,Yes,Yes,211,4.5,$$$
-Casual,N/A,Cocktail Bars,No,Yes,Gleason’s Tavern,"Midtown West, Theater District",No,N/A,(212) 302-2167,Yes,Yes,Yes,Yes,95,4,$$
-Casual,"Wed, Thu, Fri",Breakfast & Brunch,No,No,District M,"Midtown West, Theater District",No,Street,(212) 869-3600,No,Yes,Yes,Yes,58,4,$$
-N/A,"Fri, Sat",Cocktail Bars,No,N/A,Bar Fortuna,Greenwich Village,No,N/A,(212) 353-8400,No,No,N/A,Yes,30,4.5,$$$
-N/A,N/A,Bars,No,Yes,Scratcher,East Village,No,Street,(212) 477-0030,No,No,N/A,Yes,136,4,$
-N/A,N/A,Cocktail Bars,No,No,The Rickey,Midtown West,No,N/A,(646) 756-2054,Yes,Yes,Yes,Yes,43,4,$$
-N/A,"Wed, Thu, Fri",Pubs,No,N/A,124 Old Rabbit Club,Greenwich Village,No,Street,(646) 781-9646,No,No,N/A,Yes,292,4,$$
-N/A,N/A,American (New),No,No,Employees Only,West Village,No,Street,(212) 242-3021,Yes,No,N/A,Yes,1346,4,$$$
-Casual,"Fri, Sat",American (New),No,No,The Spaniard,West Village,No,Street,(212) 918-1986,Yes,Yes,No,Yes,164,4,$$
-N/A,N/A,Bars,N/A,N/A,Harbor Bar,"Theater District, Midtown West",No,N/A,(917) 728-5712,N/A,N/A,N/A,Yes,6,4,$$$
-N/A,N/A,Lounges,No,Yes,Mondrian Terrace,Midtown East,Yes,Valet,(212) 804-8880,Yes,N/A,Yes,Yes,11,4.5,$$
-N/A,N/A,Cocktail Bars,No,No,Ophelia,Midtown East,Yes,N/A,(212) 980-4796,Yes,No,N/A,Yes,43,3.5,$$$
-N/A,"Thu, Fri, Sat",Pubs,No,N/A,Valhalla,"Hell's Kitchen, Theater District, Midtown West",No,Street,(212) 757-2747,No,Yes,N/A,Yes,468,4,$$
-Casual,"Thu, Fri, Sat",Wine Bars,No,N/A,The Cellar,Flatiron,No,Street,(212) 466-3340,No,No,N/A,Yes,609,4,$$
-N/A,"Tue, Thu, Sat",Lounges,N/A,No,Two E Bar/Lounge,Upper East Side,No,Street,(212) 940-8113,Yes,No,N/A,Yes,128,4,$$$
-Casual,"Thu, Fri, Sat",Cocktail Bars,No,Yes,The Distillery,"Hell's Kitchen, Theater District, Midtown West",No,Street,(212) 767-0077,Yes,Yes,Yes,Yes,84,4,$$
-N/A,N/A,Lounges,N/A,N/A,The Auction House,"Yorkville, Upper East Side",No,Street,(212) 427-4458,No,Yes,N/A,Yes,390,4,$$
-Casual,"Thu, Fri, Sat",American (New),N/A,Yes,The Stag’s Head,Midtown East,Yes,"Garage, Street",(212) 888-2453,Yes,Yes,Yes,Yes,395,4,$$
-Casual,N/A,Bars,No,Yes,Clinton Hall,Midtown East,No,Street,(212) 695-0036,No,Yes,Yes,Yes,59,4,$$
-N/A,N/A,Lounges,N/A,N/A,Playboy Club NYC,"Hell's Kitchen, Midtown West",N/A,N/A,(212) 644-8227,N/A,N/A,N/A,N/A,6,3,$$$
-N/A,N/A,Cocktail Bars,N/A,N/A,The Terrace,Battery Park,N/A,N/A,(212) 432-1451,Yes,N/A,N/A,Yes,4,4.5,$$
-N/A,"Wed, Thu, Sat",Cocktail Bars,No,No,The 75 Club,TriBeCa,No,N/A,(212) 406-7575,Yes,No,Yes,Yes,25,4.5,$$
-N/A,N/A,Beer Bar,N/A,N/A,Craft + Carry,Gramercy,N/A,N/A,(646) 669-8347,No,N/A,N/A,Yes,4,5,$$
-N/A,N/A,Bars,No,No,Mr Fong’s,Two Bridges,No,Street,(646) 964-4540,No,No,N/A,Yes,63,3.5,$$
-Casual,"Thu, Fri, Sat",Bars,No,Yes,Clinton Hall,Financial District,Yes,Street,(212) 363-6000,No,Yes,Yes,Yes,503,4,$$
-Casual,N/A,American (New),No,No,JoJo,Upper East Side,No,N/A,(212) 223-5656,Yes,No,N/A,Yes,48,4.5,$$$
-Casual,N/A,Bars,No,Yes,Caledonia UWS,Upper West Side,No,N/A,(917) 388-2342,No,No,N/A,Yes,49,4.5,$$
-Casual,N/A,Bars,No,N/A,Hibernia,"Hell's Kitchen, Theater District, Midtown West",Yes,Street,(212) 969-9703,No,Yes,N/A,Yes,154,4.5,$$
-Casual,"Fri, Sat, Sun",Bars,No,No,Grand Banks,Lower East Side,Yes,Street,(212) 660-6312,Yes,No,No,Yes,358,4,$$$
-N/A,"Thu, Fri, Sat",Cocktail Bars,No,No,Middle Branch,"Murray Hill, Kips Bay, Midtown East",No,Street,(212) 213-1350,N/A,No,N/A,Yes,342,4,$$
-N/A,"Tue, Thu, Fri",Lounges,N/A,No,Little Branch,West Village,No,Street,(212) 929-4360,No,No,No,No,998,4,$$$
-N/A,N/A,Pubs,N/A,Yes,Gramercy Park Bar,Gramercy,No,Street,(646) 484-6948,Yes,Yes,N/A,Yes,48,4,$$
-N/A,"Thu, Fri, Sat",Bars,No,No,Bemelmans Bar,Upper East Side,No,Street,(212) 744-1600,Yes,No,N/A,Yes,260,4,$$$$
-N/A,N/A,Lounges,No,Yes,On The Rocks,"Hell's Kitchen, Midtown West",No,Street,(212) 247-2055,No,No,N/A,Yes,220,4,$$
-Dressy,N/A,American (Traditional),N/A,Yes,Monkey Bar,Midtown East,No,N/A,(212) 288-1010,Yes,No,N/A,Yes,246,3.5,$$$
-N/A,N/A,Lounges,N/A,N/A,The Otheroom,West Village,Yes,Street,(212) 645-9758,No,No,N/A,Yes,262,4,$$
-N/A,N/A,Lounges,N/A,Yes,III Pillars Bar,"Theater District, Midtown West",No,N/A,(212) 278-0010,No,No,Yes,Yes,5,5,$$$
-Casual,N/A,American (Traditional),No,N/A,Hudson Bar Room,"Midtown West, Hell's Kitchen",No,N/A,(855) 811-0007,No,No,N/A,Yes,10,4,$$
-N/A,"Wed, Thu, Fri",Lounges,No,No,Please Don’t Tell,"East Village, Alphabet City",No,Street,(212) 614-0386,Yes,No,N/A,Yes,1591,4,$$$
-N/A,"Wed, Fri, Sat",Cocktail Bars,No,Yes,Porchlight,Chelsea,No,"Garage, Street",(212) 981-6188,No,No,Yes,Yes,162,3.5,$$
-Casual,"Thu, Fri, Sat",Bars,Yes,Yes,Prohibition,Upper West Side,Yes,Street,(212) 579-3100,Yes,Yes,Yes,Yes,346,3.5,$$
-N/A,"Thu, Fri, Sat",Bars,N/A,Yes,The Wayland,"Alphabet City, East Village",No,Street,(212) 777-7022,No,No,N/A,Yes,465,4.5,$$
-N/A,N/A,Cocktail Bars,No,No,Bar at Clement,Midtown West,No,N/A,(212) 903-3918,No,No,N/A,Yes,13,4,$$$
-N/A,N/A,Dive Bars,N/A,Yes,Holland Bar,"Midtown West, Hell's Kitchen",No,Street,(212) 502-4609,No,Yes,N/A,No,91,4,$
-N/A,N/A,Lounges,N/A,Yes,Ward III,TriBeCa,No,N/A,(212) 240-9194,Yes,No,Yes,Yes,420,4,$$
-N/A,"Wed, Fri, Sat",Bars,Yes,N/A,Juke Bar,East Village,Yes,Street,(212) 228-7464,N/A,Yes,N/A,Yes,224,4.5,$$
-Casual,"Thu, Fri, Sat",Cocktail Bars,No,Yes,Réunion,"Midtown West, Hell's Kitchen, Theater District",No,Street,(212) 582-3200,No,Yes,N/A,Yes,634,4,$$
-N/A,N/A,Bars,No,Yes,Elsie Rooftop,Midtown West,Yes,N/A,(212) 764-1090,Yes,No,No,Yes,22,4,$$$
-N/A,"Thu, Fri, Sat",Lounges,Yes,Yes,Rooftop 93,"Chinatown, Lower East Side",Yes,Street,(212) 966-9033,Yes,No,Yes,Yes,177,4,$$
-N/A,N/A,Cocktail Bars,N/A,N/A,Lantern’s Keep,Midtown West,No,"Garage, Street",(212) 453-4287,No,No,N/A,Yes,184,4,$$$
-N/A,"Wed, Thu, Sun",Cocktail Bars,No,Yes,Mess Hall,Harlem,Yes,N/A,(646) 692-3098,No,Yes,N/A,Yes,124,4,$$
-N/A,"Mon, Fri, Sat",Wine Bars,No,No,Pocket Bar NYC,"Hell's Kitchen, Midtown West",No,Street,(646) 682-9062,No,No,No,Yes,255,4.5,$$
-N/A,"Thu, Fri, Sat",Beer Bar,No,N/A,Beer Culture,"Midtown West, Theater District, Hell's Kitchen",No,Street,(646) 590-2139,No,Yes,N/A,Yes,317,4,$$
-Casual,"Thu, Fri, Sat",Cocktail Bars,No,Yes,Juniper,Midtown West,No,N/A,(212) 967-2511,Yes,Yes,Yes,Yes,426,4,$$
-Casual,"Wed, Thu, Fri",Lounges,No,No,The Bar Downstairs,Midtown East,No,"Valet, Street",(212) 601-1234,Yes,No,N/A,Yes,328,4,$$$
-N/A,N/A,Pubs,Yes,Yes,The Blasket,Midtown East,No,N/A,(212) 888-7405,No,No,N/A,Yes,36,5,$$
-Casual,"Wed, Sat, Sun",American (New),No,Yes,The Milling Room,Upper West Side,No,Street,(212) 595-0380,Yes,Yes,Yes,Yes,355,4,$$$
-Casual,N/A,Speakeasies,No,Yes,Sugar East,Upper East Side,No,"Garage, Street",(212) 832-4610,Yes,No,No,Yes,50,3.5,$$
-N/A,"Tue, Wed, Thu",Lounges,No,N/A,Apothèke,"Chinatown, Civic Center",No,Street,(212) 406-0400,N/A,No,N/A,Yes,1333,4,$$$
-N/A,"Thu, Fri, Sat",Cocktail Bars,No,Yes,The Belfry,East Village,No,Street,(212) 473-6590,Yes,No,Yes,Yes,458,4,$$
-N/A,"Wed, Fri, Sat",Cocktail Bars,No,No,The Roof,Midtown West,Yes,Garage,(212) 707-8008,Yes,No,Yes,Yes,175,3,$$$
-N/A,"Wed, Thu, Fri",Cocktail Bars,No,N/A,The Skylark,Midtown West,Yes,Street,(212) 257-4577,Yes,Yes,Yes,Yes,406,4,$$$
-N/A,"Thu, Fri, Sat",Lounges,No,Yes,Keybar,"East Village, Alphabet City",No,Street,(212) 478-3021,Yes,No,N/A,Yes,513,4,$
-Casual,"Fri, Sat, Sun",Gastropubs,No,N/A,The Penrose,"Yorkville, Upper East Side",Yes,Street,(212) 203-2751,Yes,No,No,Yes,980,4,$$
-N/A,N/A,Sports Bars,N/A,Yes,Bar263nyc,Kips Bay,N/A,Street,(212) 779-0300,No,Yes,No,Yes,19,4.5,$
-N/A,N/A,Italian,N/A,N/A,Scopa,Chelsea,N/A,N/A,(646) 858-3300,Yes,Yes,N/A,N/A,12,4.5,$$
-Casual,"Thu, Fri, Sat",Sports Bars,No,Yes,District Tap House,Midtown West,No,Street,(212) 221-1822,Yes,Yes,Yes,Yes,727,4,$$
-Casual,N/A,American (Traditional),No,Yes,BH Kitchen & Bar,Midtown East,No,N/A,(212) 755-2166,Yes,Yes,Yes,Yes,56,4.5,$$
-Casual,N/A,Bars,N/A,Yes,Forgtmenot,"Chinatown, Lower East Side",Yes,Street,(646) 707-3195,No,Yes,N/A,Yes,166,4,$$
-N/A,"Wed, Thu, Fri",Irish Pub,No,N/A,Peter Dillon’s,"Murray Hill, Midtown East",No,"Garage, Street",(212) 213-3998,No,Yes,N/A,Yes,184,4,$
-N/A,"Mon, Wed, Sat",Dive Bars,No,N/A,Broadway Dive Bar,Manhattan Valley,No,Street,(212) 865-2662,No,Yes,N/A,Yes,126,4,$
-Casual,Sat,Cocktail Bars,No,No,Oscar Wilde,Flatiron,No,Street,(212) 213-3066,Yes,No,N/A,Yes,366,4,$$
-Casual,"Thu, Fri, Sat",Indian,No,N/A,The Drunken Munkey,"Yorkville, Upper East Side",No,Street,(646) 998-4600,Yes,Yes,N/A,Yes,785,4.5,$$
-N/A,"Fri, Sat",Sports Bars,No,Yes,Bodega 88,Upper West Side,No,Street,(212) 799-1602,No,Yes,Yes,Yes,105,4.5,$$
-N/A,"Thu, Fri, Sat",Pubs,No,Yes,The Waylon,"Hell's Kitchen, Midtown West",Yes,Street,(212) 265-0010,N/A,Yes,Yes,Yes,84,4.5,$$
-N/A,"Thu, Fri, Sat",Lounges,No,N/A,The Press Lounge,"Hell's Kitchen, Midtown West",Yes,"Garage, Street",(212) 757-2224,No,No,N/A,Yes,854,4,$$$
-N/A,N/A,Cocktail Bars,No,Yes,Jack and Fanny’s,"Yorkville, Upper East Side",No,Street,(917) 259-0028,Yes,Yes,Yes,Yes,31,4,$$
-Casual,N/A,Breakfast & Brunch,No,Yes,The Horny Ram,Midtown East,Yes,Street,(917) 261-4136,Yes,Yes,Yes,Yes,259,4,$$
-Dressy,"Thu, Fri, Sat",Cocktail Bars,No,No,Bar SixtyFive,Midtown West,Yes,Garage,(212) 632-5000,Yes,No,Yes,Yes,280,4,$$$
-N/A,"Thu, Fri, Sat",Bars,No,Yes,Botanica Bar,Nolita,No,Street,(212) 343-7251,No,No,N/A,Yes,340,4,$
-Casual,"Mon, Fri, Sat",Korean,No,Yes,The Maze,"Koreatown, Midtown West",No,"Garage, Street",(646) 918-7519,Yes,Yes,Yes,Yes,286,4,$$
-N/A,N/A,Bars,N/A,Yes,Radio Amsterdam,Upper West Side,No,N/A,(212) 875-0008,No,N/A,N/A,Yes,15,4.5,$$
-N/A,"Mon, Fri, Sat",Bars,N/A,Yes,The Pony Bar,"Upper East Side, Yorkville",No,Street,(212) 288-0090,No,Yes,N/A,Yes,326,4,$$
-Casual,"Fri, Sat, Sun",Beer Bar,No,Yes,As Is NYC,"Hell's Kitchen, Midtown West",No,Street,(646) 858-1153,No,No,Yes,Yes,166,4,$$
-N/A,"Thu, Fri, Sat",Dive Bars,No,Yes,The Library,"East Village, Alphabet City",No,Street,(212) 375-1352,No,Yes,Yes,Yes,391,4,$
-N/A,"Thu, Fri, Sat",Cocktail Bars,No,No,The NoMad Bar,Flatiron,No,Street,(212) 796-1500,No,No,No,Yes,391,4.5,$$$
-N/A,"Tue, Wed, Thu",Wine Bars,No,No,Vanguard Wine Bar,Upper West Side,No,Street,(212) 799-9463,No,Yes,N/A,Yes,145,4,$$
-Casual,"Thu, Fri, Sat",Italian,No,Yes,Bar B,Chelsea,No,"Garage, Street",(212) 229-1888,No,No,N/A,Yes,149,4.5,$$
-Casual,"Thu, Fri, Sat",American (New),No,N/A,Bea,"Midtown West, Hell's Kitchen, Theater District",No,Street,(212) 602-1910,Yes,No,N/A,Yes,1964,4,$$
-Casual,"Mon, Thu",Bars,No,Yes,Bedford Falls,Upper East Side,Yes,Street,(212) 717-8181,No,Yes,N/A,Yes,68,4,$$
-N/A,"Fri, Sat",Lounges,No,No,The Living Room,Midtown West,No,N/A,(646) 774-1234,Yes,No,N/A,Yes,24,4,$$$
-N/A,N/A,Beer Bar,N/A,Yes,American Hall,Midtown West,No,N/A,(646) 259-3999,Yes,Yes,Yes,Yes,3,4.5,$$
-N/A,"Tue, Wed, Thu",Cocktail Bars,No,No,Angel’s Share,East Village,No,Street,(212) 777-5415,No,No,No,Yes,1943,4.5,$$
-N/A,"Thu, Fri, Sat",Sports Bars,No,Yes,Jimmy’s Corner,"Theater District, Midtown West",No,Street,(212) 221-9510,No,Yes,N/A,Yes,534,4,$
-N/A,"Thu, Fri, Sat",Bars,No,N/A,Draught 55,Midtown East,No,"Garage, Street",(212) 300-4096,Yes,Yes,N/A,Yes,323,4,$$
-N/A,N/A,Beer Bar,No,No,City Beer,"Murray Hill, Midtown East",No,N/A,(212) 534-2337,No,No,N/A,Yes,14,5,$$
-Casual,"Mon, Tue, Fri",British,No,N/A,Cock & Bull,Midtown West,No,Street,(212) 819-1900,Yes,Yes,N/A,Yes,447,4,$$
-Casual,"Thu, Fri, Sat",Cocktail Bars,No,Yes,Crimson & Rye,Midtown East,Yes,Street,(212) 687-6692,Yes,No,N/A,Yes,115,3.5,$$
-N/A,"Thu, Fri, Sat",Cocktail Bars,No,No,The Up & Up,Greenwich Village,No,Street,(212) 260-3000,N/A,No,No,Yes,347,4,$$
-Casual,"Wed, Sat",Seafood,No,Yes,The Juicy Seafood,Midtown East,No,Street,(646) 850-4080,Yes,Yes,Yes,Yes,25,4.5,$$$
-N/A,N/A,British,N/A,N/A,Bluebird London NYC,"Hell's Kitchen, Midtown West",No,N/A,(347) 682-2100,Yes,No,Yes,Yes,39,4,$$$
-N/A,N/A,Speakeasies,N/A,N/A,Storage Bar,"Yorkville, Upper East Side",N/A,N/A,(646) 559-5889,N/A,N/A,N/A,N/A,5,3,$$
-N/A,N/A,Karaoke,N/A,Yes,Anytime Karaoke,"Koreatown, Midtown West",No,Street,(646) 590-4703,Yes,Yes,No,Yes,16,4.5,$$
-N/A,N/A,Cocktail Bars,N/A,No,Haswell Green’s,"Theater District, Midtown West",No,N/A,(212) 245-2801,Yes,Yes,Yes,Yes,62,5,$$
-N/A,N/A,Bars,N/A,N/A,Sky 55 Bar & Grill,Financial District,N/A,N/A,(646) 590-6556,Yes,N/A,N/A,N/A,8,5,$$
-Casual,"Thu, Fri, Sat",Cocktail Bars,No,No,Dutch Freds,"Theater District, Midtown West, Hell's Kitchen",No,Street,(646) 918-6923,Yes,No,Yes,Yes,949,4.5,$$
-Casual,N/A,American (New),N/A,Yes,Henry’s Rooftop Bar,Midtown East,Yes,N/A,(212) 755-1400,No,No,Yes,Yes,43,4,$$
-N/A,"Tue, Fri, Sat",Speakeasies,No,No,Bathtub Gin,Chelsea,No,Street,(646) 559-1671,Yes,No,N/A,Yes,846,3.5,$$$
-N/A,N/A,Gastropubs,No,Yes,East Village Tavern,"Alphabet City, East Village",No,Street,(646) 590-7929,Yes,Yes,No,Yes,17,5,$$
-Casual,"Tue, Fri, Sat",Bars,No,Yes,e’s BAR,Upper West Side,Yes,Street,(212) 877-0961,No,Yes,Yes,Yes,281,4,$$
-N/A,"Tue, Wed, Thu",Cocktail Bars,No,No,Tavern On 51,Midtown East,No,"Garage, Street",(212) 888-7000,No,Yes,Yes,Yes,13,4,$$$
-N/A,"Thu, Fri, Sat",Dive Bars,N/A,N/A,Barcelona Bar,"Midtown West, Hell's Kitchen",No,Street,(212) 245-3212,No,Yes,N/A,Yes,393,4,$
-Casual,"Fri, Sat, Sun",Cocktail Bars,No,Yes,Ampersand,Gramercy,No,Street,(212) 477-8100,No,No,Yes,Yes,168,4.5,$$
-N/A,"Thu, Fri, Sat",Lounges,No,N/A,The Rum House,"Theater District, Midtown West",No,Street,(646) 490-6924,No,No,N/A,Yes,488,4,$$
-N/A,"Thu, Fri, Sat",Bars,N/A,N/A,One Star,Chelsea,No,Street,(212) 777-0100,No,Yes,N/A,Yes,127,4.5,$
-Casual,N/A,American (New),No,Yes,The Bar Room,Upper East Side,No,Street,(212) 561-5523,Yes,Yes,N/A,Yes,438,4,$$
-N/A,Sat,Bars,N/A,N/A,Our/New York,Chelsea,N/A,N/A,(646) 753-5556,Yes,N/A,N/A,Yes,16,5,$$
-N/A,Fri,Bars,N/A,N/A,Treadwell Park West,"Hell's Kitchen, Midtown West",N/A,N/A,(212) 388-6751,No,N/A,N/A,N/A,10,4.5,$$
-N/A,N/A,Bars,N/A,No,The Wilson,Chelsea,Yes,N/A,(212) 529-2671,Yes,Yes,Yes,Yes,11,5,$$
-N/A,N/A,American (New),N/A,Yes,VERSA,Midtown West,Yes,N/A,(646) 850-2850,Yes,Yes,N/A,Yes,28,4,$$
-N/A,"Thu, Fri, Sat",Sports Bars,No,N/A,The Three Monkeys,"Theater District, Midtown West",Yes,Street,(212) 586-2080,Yes,Yes,N/A,Yes,945,4,$$
-N/A,"Thu, Fri, Sat",Wine Bars,N/A,N/A,The Tippler,"Meatpacking District, Chelsea",No,Street,(212) 206-0000,No,No,N/A,Yes,590,4,$$
-N/A,"Thu, Fri, Sat",Bars,No,Yes,The Ginger Man,Midtown East,No,Street,(212) 532-3740,No,No,N/A,Yes,1272,4,$$
-N/A,N/A,Speakeasies,No,No,Patent Pending,Flatiron,No,Street,(212) 689-4002,No,No,Yes,Yes,98,4,$$$
-N/A,"Mon, Thu",Bars,No,Yes,Sutton Bar Room,Midtown East,No,Street,(212) 980-9850,Yes,Yes,Yes,Yes,37,4.5,$$
-N/A,"Wed, Fri, Sat",Cocktail Bars,No,Yes,The Hamilton,Manhattan Valley,No,Street,(646) 912-9421,No,No,Yes,Yes,106,4.5,$$
-N/A,N/A,Cocktail Bars,N/A,N/A,The Owl’s Tail,Upper West Side,N/A,N/A,(646) 609-3906,N/A,N/A,N/A,Yes,16,5,$$$
-Casual,"Tue, Fri, Sat",Bars,No,Yes,District Social,Midtown West,No,Street,(212) 994-9599,Yes,Yes,Yes,Yes,446,4,$$
-N/A,N/A,Cocktail Bars,N/A,N/A,The 18th Room,Chelsea,No,N/A,(646) 559-1671,Yes,N/A,N/A,Yes,18,4.5,$$$
-N/A,"Thu, Fri, Sat",Cocktail Bars,No,No,The Dead Rabbit,Financial District,No,Street,(646) 422-7906,No,No,No,Yes,1259,4,$$
-N/A,"Thu, Fri, Sat",Bars,No,Yes,The Dead Poet,Upper West Side,Yes,Street,(212) 595-5670,No,Yes,N/A,Yes,387,4,$$
-Casual,"Fri, Sat, Sun",Cocktail Bars,No,No,Tanner Smiths,Midtown West,No,Street,(646) 590-2034,Yes,Yes,Yes,Yes,1251,4,$$
-Casual,N/A,Beer Gardens,N/A,Yes,Clinton Hall,Midtown West,No,N/A,(212) 695-0036,No,Yes,Yes,Yes,13,5,$$
-N/A,"Thu, Fri, Sat",Bars,No,N/A,Frying Pan,Midtown West,Yes,N/A,(212) 989-6363,Yes,No,Yes,Yes,1388,4,$$
-N/A,N/A,Cocktail Bars,No,Yes,Stay Gold,Kips Bay,Yes,Street,(917) 261-7441,Yes,No,No,Yes,25,4,$$
-Casual,Sat,Italian,No,No,Da Capo Columbus,Upper West Side,No,N/A,(646) 882-0197,Yes,No,No,Yes,76,4.5,$$
-Casual,"Wed, Thu, Fri",Gastropubs,Yes,Yes,5th & Mad,Midtown East,No,Street,(212) 725-2353,Yes,Yes,Yes,Yes,174,3.5,$$
-Casual,Thu,Irish Pub,No,Yes,Gramercy Ale House,Gramercy,No,Garage,(212) 260-1129,N/A,Yes,Yes,Yes,66,3.5,$$
-N/A,N/A,Burgers,N/A,Yes,Dive 106,Manhattan Valley,N/A,N/A,(917) 965-2840,No,Yes,N/A,Yes,15,4.5,$$
-N/A,N/A,Bars,N/A,N/A,Mekelburg’s Domino,Williamsburg - South Side,N/A,N/A,(929) 457-6315,No,N/A,N/A,N/A,4,5,$
-N/A,N/A,American (New),N/A,Yes,Harwood on Hudson,West Village,N/A,N/A,(646) 590-0640,Yes,N/A,Yes,Yes,27,4.5,$$$
-N/A,N/A,Pubs,No,Yes,Gaf East,"Yorkville, Upper East Side",Yes,N/A,(212) 722-6300,No,Yes,N/A,Yes,24,4,$
-Casual,N/A,Australian,No,Yes,Burke & Wills,Upper West Side,No,Street,(646) 823-9251,Yes,No,N/A,Yes,372,4,$$$
-Casual,N/A,Pubs,N/A,N/A,Ryan’s Daughter,"Yorkville, Upper East Side",No,Street,(212) 628-2613,No,Yes,N/A,Yes,219,4,$$
-N/A,N/A,Italian,N/A,Yes,A Summer Day Café,TriBeCa,No,N/A,(646) 882-0420,Yes,Yes,Yes,Yes,19,3.5,$$
-Casual,Thu,Irish,No,Yes,John Sullivan’s,Midtown West,No,Street,(212) 993-7223,Yes,Yes,Yes,Yes,141,4,$$
-N/A,"Wed, Thu, Fri",Lounges,N/A,Yes,Vol de Nuit,Greenwich Village,Yes,Street,(212) 982-3388,No,No,N/A,Yes,474,4,$$
-Casual,"Thu, Fri, Sat",Irish,No,N/A,Stout NYC,Midtown West,No,"Garage, Street",(212) 629-6191,Yes,Yes,N/A,Yes,875,3.5,$$
-N/A,N/A,Cocktail Bars,No,No,Slowly Shirley,West Village,No,Street,(212) 243-2827,Yes,No,N/A,Yes,86,3.5,$$
-Casual,"Thu, Fri, Sat",Bars,Yes,Yes,The Mean Fiddler,"Theater District, Midtown West",No,Street,(212) 354-2950,Yes,Yes,Yes,Yes,392,4,$$
-N/A,N/A,Lounges,No,Yes,Azul On the Rooftop,South Village,Yes,N/A,(212) 608-4848,Yes,No,N/A,Yes,41,3,$$$
-Casual,N/A,American (New),No,Yes,The Wooly Public,"Financial District, TriBeCa",No,N/A,(212) 571-2930,Yes,No,N/A,Yes,57,4,$$
-N/A,"Thu, Fri, Sat",Pubs,No,N/A,Bloom’s Tavern,Midtown East,No,"Garage, Street",(212) 308-9400,Yes,Yes,N/A,Yes,108,3.5,$$
-Casual,"Thu, Fri, Sat",Pubs,N/A,N/A,George Keeley,Upper West Side,No,Street,(212) 873-0251,No,Yes,N/A,Yes,320,4,$$
-N/A,Sun,Cocktail Bars,N/A,Yes,Botte Bar,Astoria,N/A,N/A,(718) 433-9079,N/A,N/A,N/A,N/A,21,4.5,$$
-N/A,"Thu, Fri, Sat",Bars,No,Yes,The Craftsman,Harlem,No,Street,(212) 933-0602,No,No,N/A,Yes,104,4,$$
-N/A,"Thu, Fri, Sat",Lounges,No,N/A,Pioneers,"Chelsea, Midtown West",No,Street,(212) 714-2222,No,Yes,N/A,Yes,233,3.5,$$
-Casual,"Thu, Fri, Sat",Bars,No,No,Pier A Harbor House,Battery Park,Yes,Street,(212) 785-0153,Yes,Yes,Yes,Yes,571,3,$$
-N/A,N/A,Bars,No,Yes,Park Bar,"Union Square, Flatiron",No,Street,(212) 367-9085,No,No,Yes,Yes,166,3.5,$$
-N/A,"Thu, Fri, Sat",Cocktail Bars,No,No,The Garret,West Village,No,N/A,(212) 675-6157,No,No,N/A,Yes,201,3.5,$$
-Casual,"Thu, Sat",Seafood,No,Yes,Hudson’s At Pier 81,Hell's Kitchen,Yes,"Garage, Private Lot",(212) 630-8840,Yes,No,Yes,Yes,105,4,$$
-N/A,"Thu, Fri, Sat",Lounges,Yes,Yes,On Now Lounge,Midtown West,No,N/A,(646) 863-2352,Yes,Yes,No,Yes,52,4,$$
-Casual,"Fri, Sat, Sun",American (New),No,Yes,The Smith,Midtown East,No,Street,(212) 644-2700,Yes,No,N/A,Yes,2137,4,$$
-N/A,N/A,Cocktail Bars,No,Yes,The Mockingbird,"Alphabet City, East Village",No,N/A,(646) 882-0593,Yes,Yes,N/A,Yes,21,4,$$
-Casual,"Thu, Fri, Sat",Sports Bars,No,Yes,McGettigan’s NYC,Midtown West,Yes,Street,(212) 913-0533,Yes,Yes,Yes,Yes,184,4,$$
-N/A,"Wed, Thu, Fri",Cocktail Bars,No,No,The Campbell,Midtown East,Yes,Street,(212) 297-1781,Yes,No,Yes,Yes,819,4,$$$
-N/A,"Thu, Fri, Sat",Coffee & Tea,No,Yes,Five & Dime,"Civic Center, Financial District, TriBeCa",No,N/A,(212) 433-3463,No,Yes,Yes,Yes,44,4.5,$$
-Casual,"Thu, Fri, Sat",Pubs,No,N/A,Tavern29,"Flatiron, Midtown East",Yes,"Garage, Street",(212) 685-4422,Yes,Yes,N/A,Yes,784,3.5,$$
-Casual,N/A,Pubs,No,N/A,Toad Hall,SoHo,No,N/A,(212) 431-8145,No,Yes,N/A,Yes,89,4,$$
-N/A,N/A,Cafes,N/A,N/A,Noted Tribeca,TriBeCa,N/A,N/A,(636) 398-7807,N/A,N/A,N/A,N/A,9,5,$$
-N/A,N/A,Irish Pub,N/A,Yes,Grace’s,West Village,No,N/A,(646) 870-0333,Yes,N/A,Yes,Yes,8,4.5,$$
-N/A,"Thu, Fri, Sat",Cocktail Bars,No,No,Cedar Local,Financial District,No,"Garage, Street",(212) 344-3467,Yes,No,No,Yes,108,4,$$
-N/A,N/A,American (New),N/A,Yes,Wanderlust,Midtown East,N/A,N/A,(646) 596-7855,N/A,N/A,N/A,Yes,29,3.5,$$
-Casual,"Mon, Fri, Sun",Pubs,No,Yes,The Shakespeare,"Murray Hill, Midtown East",Yes,"Garage, Street",(646) 837-6779,Yes,Yes,Yes,Yes,318,4,$$
-N/A,"Thu, Fri, Sat",Cocktail Bars,No,Yes,Roof at Park South,Flatiron,Yes,N/A,(212) 204-5222,No,No,Yes,Yes,149,3.5,$$$
-N/A,"Thu, Fri, Sat",Whiskey Bars,N/A,Yes,The Whiskey Ward,Lower East Side,No,Street,(212) 477-2998,No,Yes,Yes,Yes,280,4,$$
-Casual,"Thu, Fri, Sat",Bars,N/A,N/A,Rattle and Hum,Midtown East,No,Street,(212) 481-1586,Yes,Yes,N/A,Yes,679,4,$$
-Casual,N/A,Cocktail Bars,No,Yes,The Gray Mare,East Village,Yes,N/A,(212) 388-0662,Yes,Yes,N/A,Yes,49,4.5,$$
-Casual,N/A,Bars,N/A,Yes,Mother’s Ruin,Nolita,No,Street,(212) 219-0942,No,No,N/A,Yes,406,3.5,$$
-N/A,N/A,Whiskey Bars,N/A,N/A,Blue Bar,Midtown West,No,Street,(212) 840-6800,Yes,No,N/A,Yes,141,3.5,$$$
-Casual,N/A,Korean,N/A,N/A,Soju Haus,"Koreatown, Midtown East, Midtown West",No,Street,(212) 213-2177,Yes,No,N/A,Yes,456,4,$$
-N/A,"Mon, Tue, Wed",Cocktail Bars,No,N/A,Amor y Amargo,"East Village, Alphabet City",No,Street,(212) 614-6818,No,No,N/A,Yes,425,4.5,$$
-N/A,"Thu, Fri, Sat",Cocktail Bars,No,N/A,Subject,Lower East Side,No,Street,(646) 422-7898,Yes,No,N/A,Yes,145,4.5,$$
-Casual,"Fri, Sat, Sun",Pubs,N/A,Yes,The Winslow,Gramercy,Yes,Street,(212) 777-7717,Yes,Yes,N/A,Yes,444,4.5,$$
-N/A,"Thu, Fri, Sat",Cocktail Bars,No,Yes,Sweetwater Social,Greenwich Village,No,"Garage, Street",(212) 253-0477,Yes,Yes,No,Yes,115,3.5,$$
-N/A,N/A,Cocktail Bars,N/A,Yes,Beacon Bar,Upper West Side,No,N/A,(212) 787-1100,Yes,Yes,N/A,Yes,47,3.5,$$
-Casual,"Wed, Thu, Sat",Irish,N/A,N/A,The Beekman Pub,Financial District,No,Street,(212) 732-7333,Yes,Yes,N/A,Yes,100,3,$$
-N/A,N/A,Cocktail Bars,No,No,Banzarbar,Lower East Side,No,N/A,(212) 420-0012,Yes,No,N/A,Yes,13,5,$$$
-Casual,"Wed, Thu, Sat",Cocktail Bars,No,No,Bar Goto,Lower East Side,No,Street,(212) 475-4411,No,No,N/A,Yes,176,4.5,$$
-Casual,"Thu, Fri, Sat",Cocktail Bars,No,Yes,Ted’s Corner Tavern,"Murray Hill, Midtown East",No,Garage,(212) 689-2676,No,No,N/A,Yes,169,4.5,$$
-N/A,"Thu, Fri, Sat",Cocktail Bars,No,No,Maison Pickle,Upper West Side,Yes,Street,(212) 496-9100,Yes,No,Yes,Yes,568,4,$$
-N/A,"Wed, Fri, Sat",Cocktail Bars,No,Yes,Good Night Sonny,East Village,No,Street,(646) 692-3254,No,No,Yes,Yes,213,4,$$
-N/A,"Wed, Thu, Fri",Bars,No,No,Copper & Oak,Lower East Side,Yes,Street,(212) 460-5546,No,No,Yes,Yes,82,4.5,$$$
-N/A,"Thu, Fri, Sat",Dive Bars,No,Yes,Billymark’s West,"Chelsea, Midtown West",No,"Garage, Street",(347) 986-3866,No,Yes,N/A,No,158,3.5,$
-N/A,N/A,American (New),N/A,Yes,Doyler’s 37,"Midtown West, Hell's Kitchen",Yes,Garage,(917) 409-5065,Yes,Yes,Yes,Yes,5,3.5,$$
-N/A,"Thu, Fri, Sat",Cocktail Bars,Yes,Yes,Ascent Lounge,Midtown West,No,N/A,(212) 823-9770,Yes,Yes,Yes,Yes,42,4,$$$
-Casual,N/A,American (Traditional),No,Yes,TGA NYC,"Midtown West, Hell's Kitchen",Yes,N/A,(212) 651-4842,Yes,Yes,Yes,Yes,39,4,$$
-Casual,"Fri, Sat, Sun",Bars,No,Yes,The Brazen Tavern,"Midtown West, Hell's Kitchen, Theater District",Yes,Street,(646) 678-5989,Yes,Yes,Yes,Yes,233,4.5,$$
-N/A,N/A,Pubs,N/A,N/A,Perdition,"Hell's Kitchen, Midtown West",No,Street,(212) 582-5660,N/A,Yes,N/A,Yes,85,4,$$
-N/A,"Thu, Fri, Sat",Lounges,No,N/A,Refinery Rooftop,Midtown West,Yes,Street,(646) 664-0372,Yes,No,N/A,Yes,665,3.5,$$$
-N/A,"Thu, Fri, Sat",Bars,No,N/A,Wood and Ales,West Village,No,Street,(212) 206-0430,Yes,Yes,N/A,Yes,128,4,$
-Casual,"Fri, Sat, Sun",Pubs,No,N/A,Smithfield Hall,Chelsea,No,"Garage, Street",(212) 929-9677,Yes,Yes,N/A,Yes,419,4,$$
-N/A,"Thu, Fri, Sat",Dive Bars,N/A,Yes,The Duck,East Harlem,No,Street,(212) 831-3464,No,Yes,N/A,No,93,3.5,$
-Casual,N/A,Cocktail Bars,No,No,Bar Moga,Greenwich Village,No,N/A,(929) 399-5853,No,No,N/A,Yes,99,4,$$
-N/A,N/A,Venues & Event Spaces,N/A,N/A,Duende,West Village,N/A,N/A,(212) 463-0090,N/A,N/A,N/A,N/A,2,5,$$$
-N/A,Wed,Bars,No,Yes,GENUINE Liquorette,Little Italy,No,N/A,(646) 726-4633,No,No,N/A,Yes,112,4,$$
-N/A,N/A,Desserts,N/A,No,The Dessert Bar,Flatiron,N/A,N/A,(929) 423-8880,Yes,N/A,N/A,Yes,16,4.5,$$
-N/A,N/A,Cocktail Bars,Yes,No,Good Behavior,"Flatiron, Midtown West",N/A,N/A,(212) 213-4429,Yes,N/A,N/A,Yes,11,4,$$
-Casual,"Thu, Fri, Sat",American (New),No,N/A,Parker & Quinn,Midtown West,No,Street,(212) 729-0277,Yes,Yes,N/A,Yes,1109,4,$$
-Casual,N/A,Bars,N/A,N/A,The Ear Inn,South Village,No,Street,(212) 226-9060,No,Yes,N/A,Yes,363,4,$$
-Casual,Tue,Sports Bars,Yes,Yes,Offside Tavern,Chelsea,No,Street,(917) 388-3956,Yes,Yes,Yes,Yes,60,4.5,$
-N/A,N/A,Lounges,N/A,Yes,Anotheroom,TriBeCa,Yes,Street,(212) 226-1418,No,No,N/A,Yes,148,4,$$
-N/A,"Wed, Thu, Sat",Wine Bars,No,N/A,Lelabar,West Village,No,Street,(212) 206-0594,No,No,N/A,Yes,340,4,$$
-N/A,N/A,Bars,N/A,No,Bar Seine,Upper East Side,No,N/A,(212) 606-4647,Yes,No,N/A,Yes,7,3.5,$$$
-N/A,N/A,Coffee & Tea,N/A,Yes,Stella & Fly,"Yorkville, Upper East Side",No,Street,(646) 678-3947,Yes,No,No,Yes,17,5,$
-N/A,"Thu, Fri, Sat",Dive Bars,Yes,Yes,Snafu,Midtown East,No,Street,(212) 317-9100,Yes,Yes,N/A,Yes,235,3.5,$
-N/A,"Thu, Fri, Sat",Sports Bars,N/A,Yes,Whiskey Trader,Midtown West,No,Street,(212) 582-2223,Yes,Yes,No,Yes,203,3.5,$$
-N/A,"Fri, Sat, Sun",Cocktail Bars,No,No,Mace,"Alphabet City, East Village",No,N/A,(347) 866-7739,No,No,Yes,Yes,144,4.5,$$
-Casual,"Thu, Fri, Sat",Irish,No,Yes,The Milton,"Yorkville, Upper East Side",Yes,Street,(212) 369-1900,Yes,Yes,Yes,Yes,339,4,$$
-Casual,"Fri, Sat, Sun",Cocktail Bars,No,N/A,Harding’s,Flatiron,No,"Garage, Street",(212) 600-2105,Yes,Yes,N/A,Yes,309,4,$$
-N/A,N/A,Beer Bar,N/A,Yes,Proletariat,"East Village, Alphabet City",No,Street,(212) 777-6707,No,No,N/A,Yes,275,4,$$
-N/A,N/A,Bars,N/A,Yes,Tom & Jerry’s,NoHo,No,Street,(212) 260-5045,N/A,Yes,N/A,No,244,4,$$
-N/A,N/A,Bars,Yes,Yes,High Bar NYC,"Midtown West, Theater District, Hell's Kitchen",Yes,N/A,(212) 607-8888,No,Yes,N/A,Yes,20,3,$$
-Casual,"Wed, Thu, Sat",Bars,N/A,Yes,Lion’s Head Tavern,Manhattan Valley,No,Street,(212) 866-1030,No,Yes,N/A,Yes,194,4,$
-Casual,N/A,Tapas/Small Plates,No,Yes,Bubo,"Murray Hill, Midtown East",Yes,Garage,(212) 532-3300,No,No,N/A,Yes,120,4.5,$$$
-N/A,"Thu, Fri, Sat",Bars,Yes,N/A,Brass Monkey,"Meatpacking District, West Village",Yes,Street,(212) 675-6686,No,Yes,N/A,Yes,716,3,$$
-Dressy,"Thu, Fri, Sat",Lounges,No,N/A,The Flatiron Room,Flatiron,No,Street,(212) 725-3860,Yes,No,N/A,Yes,681,4.5,$$$
-N/A,"Fri, Sat",Cocktail Bars,No,Yes,The Garret,"East Village, Alphabet City",No,N/A,(212) 228-6231,No,No,N/A,Yes,72,3.5,$$
-N/A,N/A,Lounges,N/A,N/A,Bar Thalia,Upper West Side,No,Street,(646) 597-7340,No,No,Yes,Yes,24,4,$$
-N/A,N/A,Lounges,N/A,N/A,Blue Ribbon Hi-Bar,"Hell's Kitchen, Midtown West",Yes,N/A,(212) 397-0404,No,N/A,N/A,Yes,5,4,$$
-N/A,N/A,Dive Bars,No,N/A,Dive 75,Upper West Side,No,Street,(212) 362-7518,No,Yes,N/A,Yes,249,3.5,$$
-Dressy,"Thu, Sat, Sun",American (Traditional),No,No,The Polo Bar,Midtown East,No,Street,(212) 207-8562,Yes,No,N/A,Yes,327,4,$$$
-Casual,"Wed, Thu, Fri",Cocktail Bars,No,Yes,Dante,Greenwich Village,Yes,N/A,(212) 982-5275,Yes,No,No,Yes,205,4,$$
-N/A,N/A,Bars,No,Yes,FERNS,East Village,No,N/A,(646) 998-5034,Yes,No,Yes,Yes,43,4.5,$$
-N/A,N/A,Cocktail Bars,N/A,N/A,The Dancer,Lower East Side,N/A,N/A,(646) 876-1174,N/A,N/A,N/A,N/A,5,5,$$
-N/A,N/A,Wine Bars,No,Yes,Evening Bar,TriBeCa,No,N/A,(212) 587-7000,No,No,N/A,Yes,15,4.5,$$$
-N/A,"Wed, Thu, Fri",Bars,No,Yes,Gaf West,"Hell's Kitchen, Midtown West",No,Street,(212) 307-7536,No,Yes,N/A,Yes,83,4,$
-Casual,Sat,Dive Bars,No,Yes,The Hard Swallow,East Village,No,Street,(212) 256-0124,Yes,Yes,Yes,Yes,32,4.5,$
-Casual,"Wed, Thu, Sat",American (Traditional),No,Yes,Park Avenue Tavern,"Murray Hill, Midtown East",No,Street,(212) 867-4484,Yes,Yes,Yes,Yes,643,4,$$
-N/A,"Tue, Wed, Thu",Lounges,No,N/A,Death & Co,"East Village, Alphabet City",No,Street,(212) 388-0882,No,No,N/A,Yes,1367,4,$$$
-N/A,N/A,Cocktail Bars,N/A,Yes,The Blue Rooftop,"Murray Hill, Midtown East",Yes,Street,(646) 838-9498,Yes,No,Yes,Yes,21,3.5,$$
-Casual,N/A,Bars,N/A,N/A,Carlow East,Upper East Side,No,Street,(212) 744-6397,No,Yes,N/A,Yes,80,4,$$
-N/A,"Wed, Fri, Sat",Dive Bars,N/A,N/A,Clockwork Bar,"Lower East Side, Chinatown",No,"Valet, Street",(212) 677-4545,No,No,N/A,Yes,67,4,$
-Casual,N/A,British,N/A,N/A,The Spotted Dog,Upper East Side,Yes,Street,(646) 649-5331,Yes,Yes,Yes,Yes,90,4,$$
-N/A,N/A,Cocktail Bars,No,Yes,Due West,West Village,N/A,Street,(646) 687-4609,No,Yes,N/A,Yes,53,4,$$$
-N/A,Fri,Wine Bars,No,Yes,142 Sullivan,South Village,Yes,N/A,(212) 477-2404,No,No,Yes,Yes,34,4.5,$$
-N/A,N/A,Pubs,No,Yes,The Woodlot,"Theater District, Hell's Kitchen, Midtown West",Yes,N/A,(212) 974-2003,Yes,No,N/A,Yes,32,4,$$
-Casual,"Fri, Sat, Sun",Bars,No,Yes,The Flying Cock,"Murray Hill, Kips Bay, Midtown East",Yes,Street,(212) 689-6900,Yes,Yes,Yes,Yes,354,4.5,$$
-N/A,N/A,Cocktail Bars,No,Yes,Underballs,Chelsea,No,N/A,(212) 257-4363,N/A,No,N/A,Yes,11,3.5,$$
-Casual,"Thu, Fri, Sat",Dive Bars,No,N/A,Dive Bar,Upper West Side,Yes,Street,(212) 749-4358,No,Yes,N/A,Yes,409,4,$$
-N/A,N/A,Cocktail Bars,N/A,N/A,The Dakota Bar,Upper West Side,Yes,Street,(212) 787-0700,Yes,Yes,N/A,Yes,180,3.5,$$
-N/A,"Tue, Fri, Sat",Dive Bars,No,Yes,Johnny’s Bar,West Village,No,Street,(212) 741-5279,No,Yes,N/A,Yes,225,4,$
-N/A,N/A,Steakhouses,N/A,No,Holy Ground,TriBeCa,No,N/A,(646) 882-0666,Yes,No,N/A,Yes,23,4.5,$$
-N/A,N/A,American (New),N/A,N/A,Nightingale,West Village,No,N/A,(646) 429-8153,Yes,No,N/A,Yes,29,4.5,$$
-N/A,N/A,Cocktail Bars,No,Yes,LOCL Bar,Upper West Side,No,N/A,(212) 362-1100,No,Yes,Yes,Yes,60,3,$$
-N/A,Thu,Sports Bars,No,Yes,Albion,"Kips Bay, Murray Hill, Midtown East",Yes,N/A,(212) 679-6716,No,Yes,N/A,Yes,94,4.5,$$
-Casual,N/A,Cocktail Bars,Yes,No,The Crown,Chinatown,Yes,Street,(646) 630-8057,No,No,Yes,Yes,102,3.5,$$
-N/A,N/A,Lounges,No,N/A,Flatiron Lounge,Flatiron,No,Street,(212) 727-7741,Yes,No,N/A,Yes,546,4,$$$
-N/A,N/A,French,N/A,N/A,Le Prive,"Hell's Kitchen, Midtown West",Yes,N/A,(212) 837-2795,Yes,Yes,Yes,Yes,41,4.5,$$
-N/A,N/A,Bars,N/A,Yes,Swift,NoHo,No,Street,(212) 260-3600,No,No,N/A,Yes,351,4,$$
-N/A,"Thu, Fri, Sat",Dive Bars,N/A,N/A,Rudy’s Bar & Grill,"Midtown West, Hell's Kitchen, Theater District",Yes,Street,(646) 707-0890,No,Yes,N/A,No,994,4,$
-N/A,N/A,Cocktail Bars,No,No,Straylight,"Chinatown, Civic Center",No,Street,(646) 590-2111,No,No,No,Yes,18,4.5,$$
-N/A,"Thu, Fri, Sat",Irish Pub,No,N/A,Peter Dillon’s,Midtown East,No,"Garage, Street",(212) 300-4091,No,Yes,N/A,Yes,67,4,$
-Casual,"Fri, Sat, Sun",Bars,No,N/A,Upright Brew House,West Village,Yes,Street,(212) 810-9944,No,Yes,N/A,Yes,209,4,$$
-Casual,"Thu, Fri, Sat",Lounges,No,Yes,Russian Vodka Room,"Theater District, Midtown West",No,Street,(212) 307-5835,Yes,No,N/A,Yes,508,4,$$
-Casual,N/A,Sports Bars,No,N/A,Turnmill,Flatiron,Yes,Street,(646) 524-6060,Yes,Yes,N/A,Yes,128,3.5,$$
-Casual,"Fri, Sat",American (New),No,Yes,The Wild Son,"Meatpacking District, West Village",No,Street,(212) 727-7900,Yes,No,Yes,Yes,334,4.5,$$
-Casual,"Wed, Thu, Fri",Cocktail Bars,No,No,Pilot,Gowanus,Yes,"Garage, Street",(917) 810-8550,Yes,No,N/A,Yes,74,3.5,$$$
-Dressy,"Fri, Sat, Sun",American (New),No,No,Fine & Rare,Midtown East,No,N/A,(212) 725-3866,Yes,No,Yes,Yes,179,4,$$$
-Casual,N/A,American (New),N/A,N/A,The Fitz,Midtown East,No,"Valet, Street",(212) 784-2641,Yes,Yes,N/A,Yes,20,3.5,$$
-Casual,"Wed, Fri, Sat",Bars,No,Yes,Excuse My French,Lower East Side,No,"Garage, Street",(212) 780-9600,Yes,No,No,Yes,220,4.5,$$
-Casual,"Fri, Sat, Sun",American (Traditional),No,Yes,Amity Hall Uptown,Manhattan Valley,Yes,"Street, Private Lot",(646) 930-2501,Yes,Yes,Yes,Yes,140,3.5,$$
-Casual,N/A,Caribbean,No,Yes,Kingston,Harlem,No,N/A,(646) 861-1082,Yes,Yes,Yes,Yes,92,4,$$
-N/A,N/A,Pubs,No,Yes,Biddy’s Pub,"Yorkville, Upper East Side",No,Street,(212) 534-4785,No,Yes,N/A,Yes,84,4,$
-Dressy,"Fri, Sat",Latin American,No,No,Fifty,West Village,No,Street,(212) 524-4104,Yes,No,Yes,Yes,124,4.5,$$$
-Casual,"Thu, Fri, Sat",Irish,No,Yes,The Keg Room,Midtown West,No,Street,(212) 643-1400,Yes,Yes,Yes,Yes,301,3.5,$$
-Casual,N/A,Seafood,No,Yes,The Shadmoor,Midtown East,Yes,"Garage, Street",(212) 385-9195,Yes,Yes,Yes,Yes,161,4.5,$$
-Casual,"Thu, Fri, Sat",Mediterranean,No,No,Gato,NoHo,No,Street,(212) 334-6400,Yes,No,N/A,Yes,995,4,$$$
-N/A,N/A,Lounges,No,No,Club Macanudo,Upper East Side,No,Street,(212) 752-8200,Yes,Yes,N/A,Yes,149,4,$$$
-N/A,"Wed, Fri, Sat",Pool Halls,No,Yes,Space Billiards,"Koreatown, Midtown West",No,Street,(212) 239-4166,Yes,Yes,Yes,Yes,167,4,$$
-Casual,"Mon, Fri, Sat",Bars,No,Yes,Belle Reve,TriBeCa,Yes,Street,(212) 680-0101,Yes,No,Yes,Yes,129,4,$$
-N/A,N/A,Dive Bars,Yes,N/A,Paris Blues,Harlem,Yes,Street,(917) 257-7831,Yes,Yes,N/A,Yes,92,3.5,$$
-Casual,"Thu, Fri, Sat",Bars,No,Yes,Cask Bar & Kitchen,"Murray Hill, Kips Bay, Midtown East",Yes,"Garage, Street",(212) 300-4924,Yes,Yes,No,Yes,1248,4,$$
-N/A,"Tue, Fri, Sat",Pubs,N/A,N/A,Bailey’s Corner Pub,"Yorkville, Upper East Side",No,Street,(212) 650-1341,No,Yes,N/A,Yes,67,4,$
-N/A,N/A,Bars,N/A,Yes,M Bar,Midtown West,No,Street,(212) 277-8700,No,Yes,No,Yes,36,3.5,$$
-N/A,N/A,Japanese,N/A,N/A,Pado,East Village,N/A,N/A,(646) 476-6101,N/A,N/A,N/A,N/A,2,5,$$
-N/A,"Thu, Fri, Sat",Irish Pub,No,N/A,The Perfect Pint,Midtown East,Yes,Street,(212) 867-8159,Yes,Yes,N/A,Yes,299,3.5,$$
-Casual,N/A,Pubs,N/A,N/A,Emerald Inn,Upper West Side,No,Street,(212) 874-8840,Yes,Yes,N/A,Yes,68,3.5,$$
-Casual,"Thu, Fri, Sat",American (Traditional),N/A,Yes,Foley’s NY,"Koreatown, Midtown West",No,Street,(212) 290-0080,Yes,Yes,N/A,Yes,227,4,$$
-Casual,"Thu, Fri, Sat",Cocktail Bars,No,Yes,Pinks,East Village,No,Street,(646) 918-6231,Yes,No,Yes,Yes,163,4,$$
-Casual,"Fri, Sat",Cocktail Bars,Yes,Yes,Vida Verde,Midtown West,Yes,"Garage, Street",(646) 657-0565,Yes,No,Yes,Yes,619,4.5,$$
-Casual,N/A,Lounges,No,Yes,B Flat,TriBeCa,No,Street,(212) 219-2970,Yes,No,N/A,Yes,337,4,$$
-N/A,"Thu, Fri, Sat",Bars,N/A,Yes,Bua,"East Village, Alphabet City",Yes,Street,(212) 979-6276,No,No,Yes,Yes,508,4,$$
-Casual,"Fri, Sat",Cocktail Bars,No,Yes,The Binc,Brooklyn Heights,No,Street,(718) 624-1444,No,No,N/A,Yes,50,4.5,$$
-N/A,"Thu, Fri, Sat",Cocktail Bars,No,No,Bar 54,"Theater District, Midtown West",Yes,Valet,(646) 364-1234,Yes,Yes,Yes,Yes,146,3.5,$$$
-Casual,Sat,Sports Bars,No,Yes,Mustang Harry’s,"Chelsea, Midtown West",Yes,N/A,(212) 268-8930,Yes,Yes,Yes,Yes,72,4.5,$$
-Casual,"Thu, Fri, Sat",Sports Clubs,N/A,Yes,SPiN,Flatiron,No,Street,(212) 982-8802,Yes,Yes,N/A,Yes,422,4,$$
-Casual,"Wed, Fri, Sat",Pubs,N/A,N/A,Murphy’s Tavern,Financial District,No,Street,(212) 425-1700,Yes,Yes,N/A,Yes,160,4,$$
-Casual,N/A,Vegan,No,No,Ladybird,"East Village, Alphabet City",No,Street,(917) 261-5524,Yes,No,N/A,Yes,165,4,$$
-Casual,N/A,American (New),N/A,N/A,The Brooklyneer,South Village,No,Street,(646) 692-4911,Yes,Yes,N/A,Yes,214,3.5,$$
-Casual,Fri,American (New),No,Yes,The Smith,Flatiron,No,Street,(212) 685-4500,Yes,No,Yes,Yes,675,4,$$
-Dressy,N/A,Bars,N/A,N/A,The Heath,Chelsea,No,Street,(212) 564-1662,Yes,No,N/A,Yes,228,4,$$$
-N/A,N/A,Diners,No,Yes,Walker’s,TriBeCa,Yes,Street,(212) 941-0142,Yes,Yes,N/A,Yes,273,4,$$
-Casual,N/A,Latin American,Yes,Yes,La Pulperia 57th,Midtown East,No,N/A,(917) 475-1001,Yes,Yes,N/A,Yes,113,4,$$
-N/A,Fri,Bars,Yes,Yes,The Living Room,"Theater District, Midtown West",No,"Valet, Garage, Street, Private Lot",(212) 930-7447,Yes,Yes,Yes,Yes,11,3,$$$
-N/A,Fri,Sports Bars,No,Yes,The Weir,"Yorkville, Upper East Side",No,Street,(646) 895-9581,No,Yes,N/A,Yes,54,3.5,$$
-Casual,"Wed, Thu, Sun",American (New),No,Yes,Slane,Kips Bay,Yes,Street,(212) 725-4110,Yes,Yes,Yes,Yes,433,4,$$
-Casual,N/A,Lounges,No,N/A,Smith and Mills,TriBeCa,No,Street,(212) 226-2515,No,No,N/A,Yes,269,4,$$
-Casual,N/A,American (New),No,No,Tavern on the Green,Central Park,Yes,"Street, Validated",(212) 877-8684,Yes,No,Yes,Yes,1122,3.5,$$$
-N/A,"Wed, Thu, Fri",Bars,N/A,N/A,Nurse Bettie,Lower East Side,No,Street,(347) 956-7556,Yes,No,N/A,Yes,275,4,$$
-N/A,Sun,Cocktail Bars,No,Yes,Bar Hugo,South Village,Yes,Valet,(212) 608-1211,No,No,Yes,Yes,78,3,$$
-N/A,"Thu, Fri, Sat",Karaoke,Yes,Yes,Karaoke City,"Koreatown, Midtown West",No,Street,(646) 791-8318,N/A,Yes,Yes,Yes,153,4.5,$$
-N/A,"Thu, Fri",Lounges,N/A,N/A,Ty Bar,Midtown East,No,Valet,(212) 758-5700,Yes,Yes,N/A,Yes,32,3.5,$$$$
-N/A,N/A,Lounges,N/A,No,The Mark Hotel Bar,Upper East Side,No,N/A,(212) 744-4300,No,No,N/A,Yes,44,3.5,$$$
-N/A,"Fri, Sat, Sun",Beer Bar,No,Yes,Top Hops,Lower East Side,No,Street,(212) 254-4677,No,No,N/A,Yes,293,4.5,$$
-N/A,N/A,Pubs,N/A,N/A,Trinity Pub,"Yorkville, Upper East Side",No,Street,(212) 327-4450,No,Yes,N/A,Yes,106,4,$$
-N/A,N/A,Tapas Bars,N/A,N/A,Better Days,Lower East Side,N/A,N/A,(646) 869-1130,Yes,N/A,N/A,Yes,11,3.5,$$
-Casual,"Tue, Wed, Thu",Mediterranean,N/A,N/A,Entwine,West Village,Yes,Street,(212) 727-8765,Yes,No,N/A,Yes,186,4,$$
-N/A,Tue,Sandwiches,No,Yes,Workshop,"Upper East Side, Yorkville",No,N/A,(646) 861-0999,No,Yes,N/A,Yes,34,4,$$
-N/A,N/A,Jazz & Blues,N/A,No,The 55 Bar,West Village,No,Street,(212) 929-9883,No,No,N/A,No,151,4,$$
-Casual,"Thu, Fri, Sat",Cocktail Bars,No,N/A,Gallow Green,Chelsea,Yes,Street,(212) 564-1662,Yes,No,N/A,Yes,703,3.5,$$$
-N/A,"Tue, Thu, Fri",Bars,No,Yes,DTUT,"Yorkville, Upper East Side",No,Street,(212) 410-6449,Yes,No,N/A,Yes,445,4,$
-N/A,"Thu, Fri, Sat",Pubs,No,N/A,Stone Street Tavern,Financial District,Yes,Garage,(212) 785-5658,Yes,Yes,N/A,Yes,380,3.5,$$
-Casual,"Thu, Fri, Sat",Cocktail Bars,No,Yes,Sel Rrose,Lower East Side,Yes,Street,(212) 226-2510,Yes,No,Yes,Yes,400,4,$$
-Casual,"Mon, Sat, Sun",Japanese,No,No,Hi-Collar,East Village,No,Street,(212) 777-7018,No,No,N/A,Yes,432,4,$$
-N/A,"Fri, Sat, Sun",Pubs,N/A,Yes,Vig Bar,Nolita,No,Street,(212) 625-0011,No,No,N/A,Yes,142,3.5,$$
-Casual,"Thu, Fri, Sat",Bars,No,Yes,Barcade,Chelsea,No,Street,(212) 390-8455,No,No,Yes,Yes,359,3.5,$$
-N/A,N/A,Cocktail Bars,No,N/A,Katana Kitten,West Village,N/A,N/A,(212) 243-3000,No,N/A,N/A,Yes,14,4.5,$$
-N/A,"Thu, Fri, Sat",Bars,No,Yes,Drexler’s,"East Village, Alphabet City",No,Street,(646) 524-5226,Yes,No,Yes,Yes,78,4,$$
-Casual,N/A,Bars,N/A,Yes,Broome Street Bar,SoHo,No,Street,(212) 925-2086,No,Yes,N/A,Yes,226,3.5,$$
-N/A,"Thu, Fri, Sat",Cocktail Bars,N/A,N/A,Bonnie Vee,Lower East Side,Yes,Street,(917) 639-3352,No,No,N/A,Yes,125,4,$$
-N/A,"Wed, Fri, Sat",Cocktail Bars,N/A,N/A,The Third Man,"Alphabet City, East Village",Yes,Street,(212) 598-1040,Yes,No,N/A,Yes,92,4,$$
-N/A,"Wed, Fri, Sat",Irish Pub,Yes,Yes,The Late Late,Lower East Side,No,N/A,(212) 633-2000,Yes,No,N/A,Yes,106,3.5,$$
-N/A,"Wed, Fri, Sat",Cocktail Bars,No,N/A,Carnegie Club,Midtown West,No,Street,(212) 957-9676,Yes,Yes,N/A,Yes,190,4,$$$
-N/A,"Fri, Sat, Sun",Bars,No,Yes,Livingston Manor,"Boerum Hill, Downtown Brooklyn",Yes,Street,(347) 987-3292,No,No,Yes,Yes,100,4,$$
-N/A,N/A,Lounges,N/A,N/A,Bar Felice,"Yorkville, Upper East Side",Yes,N/A,(212) 249-4080,Yes,Yes,N/A,Yes,25,3.5,$$$
-Dressy,N/A,American (New),N/A,N/A,Brandy Library,TriBeCa,Yes,Street,(212) 226-5545,Yes,No,N/A,Yes,545,4,$$$
-Casual,"Fri, Sat, Sun",Irish,No,N/A,O’Lunney’s,"Theater District, Midtown West",No,Street,(212) 840-6688,Yes,Yes,N/A,Yes,328,4,$$
-Casual,"Tue, Wed, Fri",Cocktail Bars,No,Yes,The Happiest Hour,West Village,No,Street,(212) 243-2827,Yes,Yes,N/A,Yes,283,3,$$
-N/A,N/A,Lounges,N/A,N/A,Dutch Kills,Long Island City,No,Street,(718) 383-2724,No,No,N/A,Yes,695,4,$$
-Casual,"Wed, Fri, Sat",Cajun/Creole,No,Yes,Infirmary,"Yorkville, Upper East Side",No,Street,(917) 388-2512,Yes,Yes,Yes,Yes,454,4,$$
-N/A,N/A,Bars,N/A,Yes,Weather Up,TriBeCa,No,Street,(212) 766-3202,Yes,No,N/A,Yes,150,3.5,$$$
-Casual,"Thu, Fri, Sat",German,No,N/A,Bierhaus NYC,Midtown East,Yes,"Garage, Street",(212) 867-2337,Yes,Yes,N/A,Yes,597,3.5,$$
-N/A,N/A,Dive Bars,N/A,N/A,The Green Door,"Hell's Kitchen, Midtown West",No,N/A,(212) 974-3169,No,Yes,N/A,No,11,2.5,$$$
-Dressy,N/A,Bars,N/A,N/A,The Crosby Bar,SoHo,Yes,Valet,(212) 226-6400,Yes,No,N/A,Yes,136,3.5,$$$
-N/A,Sat,Cocktail Bars,No,Yes,The Moonlight Mile,Greenpoint,Yes,Street,(718) 389-3904,No,No,Yes,Yes,61,5,$$
-N/A,N/A,Venues & Event Spaces,N/A,Yes,The Wooly,"Civic Center, Financial District, TriBeCa",No,N/A,(212) 571-2930,Yes,No,N/A,Yes,66,4,$$
-Casual,"Wed, Thu, Sun",American (New),No,Yes,White Oak Tavern,Greenwich Village,No,Street,(212) 260-2604,Yes,Yes,Yes,Yes,269,4,$$
-Casual,N/A,American (New),No,Yes,Clay,Harlem,No,N/A,(212) 729-1850,Yes,No,N/A,Yes,102,4.5,$$$
-N/A,"Thu, Fri, Sat",Cocktail Bars,No,No,Garfunkel’s,Lower East Side,No,Street,(212) 529-6900,Yes,No,No,Yes,154,4.5,$$
-N/A,"Thu, Fri, Sat",Bars,N/A,N/A,Black Door,Chelsea,No,Street,(212) 645-0215,N/A,No,N/A,Yes,152,3.5,$$
-N/A,N/A,Bars,No,N/A,Dick and Jane’s,Fort Greene,No,Street,(347) 739-1027,No,No,N/A,Yes,100,4,$$
-Casual,"Thu, Fri, Sat",Cocktail Bars,No,No,Ghost Donkey,NoHo,No,Street,(212) 254-0350,No,No,Yes,Yes,85,3.5,$$
-N/A,N/A,Bars,N/A,N/A,Gibson and Luce,"Koreatown, Midtown West",N/A,N/A,(212) 615-9910,No,N/A,N/A,N/A,16,4.5,$$
-Casual,"Thu, Fri, Sat",Cocktail Bars,No,No,Yves,TriBeCa,Yes,Street,(212) 431-3385,Yes,No,Yes,Yes,42,4,$$
-Casual,"Thu, Fri, Sat",Bars,No,No,The Wren,"NoHo, East Village",No,Street,(212) 388-0148,Yes,No,Yes,Yes,469,4,$$
-N/A,"Thu, Fri, Sat",Lounges,No,Yes,Lovers of Today,"East Village, Alphabet City",No,Street,(212) 420-9517,No,No,N/A,Yes,227,4,$$
-Dressy,N/A,American (New),No,Yes,The Harrow New York,"Hell's Kitchen, Midtown West",No,Street,(212) 757-6977,Yes,No,N/A,Yes,83,4.5,$$
-N/A,"Thu, Fri, Sat",Pubs,No,Yes,Reif’s Tavern,"Yorkville, Upper East Side",Yes,Street,(212) 426-0519,No,Yes,No,Yes,45,4,$
-N/A,"Thu, Fri, Sat",Irish Pub,No,Yes,Hudson Hound,West Village,Yes,Street,(212) 796-6213,Yes,Yes,No,Yes,81,4,$$
-N/A,"Wed, Thu, Fri",Venues & Event Spaces,Yes,Yes,310 Bowery Bar,"NoHo, East Village",No,N/A,(212) 477-1166,Yes,Yes,Yes,Yes,101,3.5,$$
-N/A,N/A,Lounges,N/A,N/A,48 Lounge,"Theater District, Midtown West",No,Street,(212) 554-4848,Yes,Yes,N/A,Yes,190,3.5,$$$
-Casual,"Wed, Thu, Fri",Gastropubs,No,Yes,The Malt House,Financial District,No,Street,(646) 682-7577,Yes,Yes,N/A,Yes,382,4,$$
-N/A,N/A,Pubs,N/A,N/A,Lily’s Bar,Midtown East,N/A,N/A,(212) 838-0844,Yes,N/A,N/A,Yes,5,3,$$
-N/A,"Thu, Fri, Sat",Lounges,No,N/A,67 Orange Street,Harlem,No,Street,(212) 662-2030,Yes,No,N/A,Yes,335,4,$$
-N/A,Sat,Cocktail Bars,Yes,Yes,ER Bar And Lounge,"Murray Hill, Kips Bay, Midtown East",No,N/A,(917) 388-2923,No,Yes,N/A,Yes,48,4,$$
-N/A,N/A,Wine Bars,N/A,Yes,Bar Veloce,West Village,Yes,N/A,(212) 933-4973,N/A,N/A,N/A,Yes,8,5,$$
-N/A,"Thu, Fri, Sat",Music Venues,Yes,N/A,Bar Nine,"Hell's Kitchen, Theater District, Midtown West",No,Street,(212) 399-9336,Yes,Yes,N/A,Yes,294,3.5,$$
-N/A,"Thu, Fri, Sat",Lounges,N/A,Yes,Greenwich Treehouse,West Village,No,Street,(212) 675-0395,No,Yes,No,Yes,269,3.5,$
-Casual,"Thu, Fri, Sat",Pubs,N/A,N/A,Amsterdam Ale House,Upper West Side,Yes,Street,(212) 362-7260,Yes,Yes,N/A,Yes,333,3,$$
-N/A,N/A,Bars,No,Yes,Drop Off Service,"East Village, Alphabet City",No,Street,(212) 260-2914,No,No,N/A,Yes,288,4,$
-Casual,N/A,Pubs,N/A,Yes,Landmark Tavern,"Hell's Kitchen, Midtown West",No,Street,(212) 247-2562,Yes,Yes,N/A,Yes,250,4,$$
-N/A,N/A,Sports Bars,N/A,N/A,American Trash,"Upper East Side, Yorkville",No,Valet,(212) 988-9008,No,Yes,N/A,No,96,4,$
-Casual,N/A,Bars,No,Yes,Gin Parlour,Midtown East,No,N/A,(212) 755-5900,Yes,Yes,N/A,Yes,24,3.5,$$
-Casual,"Thu, Fri, Sat",Bars,No,N/A,Reichenbach Hall,Midtown West,No,Street,(212) 302-7744,Yes,Yes,N/A,Yes,620,4,$$
-N/A,N/A,Japanese,N/A,N/A,Toriko NY,West Village,N/A,N/A,(646) 596-8198,N/A,N/A,N/A,N/A,8,4,$$$
-Casual,Sat,Mexican,No,Yes,Barnacho,Midtown East,Yes,"Garage, Street",(212) 832-9426,No,Yes,Yes,Yes,136,4,$$
-N/A,"Fri, Sat, Sun",Cocktail Bars,No,Yes,Kobrick Coffee,"Meatpacking District, West Village",Yes,N/A,(212) 255-5588,Yes,No,N/A,Yes,276,4.5,$$
-N/A,N/A,Beer Bar,No,Yes,Harlem Hops,Harlem,Yes,Street,(646) 998-3444,No,Yes,Yes,Yes,55,4.5,$$
-Casual,"Thu, Fri, Sat",American (New),No,N/A,Trinity Place,Financial District,No,Street,(212) 964-0939,Yes,Yes,N/A,Yes,308,4,$$
-N/A,N/A,Bars,No,N/A,The Black Hound,Battery Park,No,Garage,(212) 945-0562,No,Yes,N/A,Yes,65,3.5,$$
-Casual,N/A,American (New),No,No,Sugar Momma,Financial District,Yes,Garage,(212) 602-9991,Yes,Yes,Yes,Yes,33,4.5,$$
-N/A,"Thu, Fri, Sat",Cocktail Bars,N/A,N/A,Analogue,Greenwich Village,No,Street,(212) 432-0200,Yes,No,N/A,Yes,223,4,$$$
-Casual,"Thu, Fri, Sat",American (Traditional),No,N/A,Trading Post,South Street Seaport,Yes,Street,(646) 370-3337,Yes,Yes,N/A,Yes,344,4,$$
-Casual,N/A,American (Traditional),No,N/A,Woodrow’s,TriBeCa,No,Garage,(212) 676-0300,Yes,Yes,N/A,Yes,299,4,$$
-Casual,"Thu, Fri, Sat",Sports Bars,N/A,N/A,The Junction,"Murray Hill, Midtown East",No,Street,(212) 682-7700,No,Yes,N/A,Yes,144,4,$$
-N/A,"Thu, Fri, Sat",Cocktail Bars,Yes,Yes,Mr Jones,South Village,No,N/A,(212) 842-4566,Yes,Yes,Yes,Yes,12,3.5,$$
-N/A,N/A,American (New),N/A,N/A,Market Hall,South Street Seaport,N/A,N/A,(212) 732-8257,Yes,N/A,N/A,Yes,5,3,$$
-Casual,N/A,Cocktail Bars,No,Yes,SuperNova,"Theater District, Midtown West",Yes,Street,(646) 459-5820,Yes,Yes,Yes,Yes,91,3.5,$$
-Dressy,"Wed, Fri, Sat",Lounges,No,No,The Bar Room,Midtown West,No,"Garage, Street",(212) 333-1220,Yes,No,Yes,Yes,441,4,$$$
-N/A,"Wed, Thu, Fri",Lounges,No,Yes,The West End,Manhattan Valley,Yes,N/A,(212) 531-4759,No,Yes,No,Yes,73,3.5,$$
-N/A,N/A,Cocktail Bars,N/A,N/A,RARE View Rooftop,"Murray Hill, Midtown East",Yes,"Garage, Street",(212) 481-1999,Yes,Yes,Yes,Yes,155,3.5,$$
-Casual,N/A,Gastropubs,No,Yes,Highlands NYC,West Village,No,Street,(212) 229-2670,Yes,No,Yes,Yes,374,4,$$
-N/A,N/A,Karaoke,No,Yes,MUSES 35,Midtown West,No,Street,(646) 669-8050,Yes,Yes,Yes,Yes,13,4,$$
-N/A,Tue,Lounges,Yes,No,The Blond,SoHo,No,N/A,(212) 235-1111,Yes,No,Yes,Yes,60,2.5,$$$
-Casual,"Thu, Fri, Sat",Italian,No,N/A,Sofia Wine Bar,Midtown East,No,"Garage, Street",(212) 888-8660,No,No,N/A,Yes,585,4,$$
-N/A,N/A,Lounges,Yes,Yes,The Empire Rooftop,Upper West Side,Yes,N/A,(212) 265-2600,Yes,Yes,N/A,Yes,28,3.5,$$$
-N/A,N/A,Dive Bars,N/A,Yes,B Side,"East Village, Alphabet City",No,Street,(212) 475-4600,No,Yes,N/A,Yes,91,4,$
-Casual,"Thu, Fri, Sat",Korean,No,N/A,Bangia,Midtown East,No,Street,(212) 679-6790,Yes,Yes,N/A,Yes,275,4,$$
-N/A,N/A,"Beer, Wine & Spirits",No,Yes,The Gordon Bar,South Village,Yes,N/A,(212) 219-3200,Yes,No,N/A,Yes,13,2.5,$$$
-Casual,"Thu, Fri, Sat",Southern,No,Yes,Printers Alley,"Midtown West, Theater District",Yes,Street,(212) 419-2770,Yes,Yes,Yes,Yes,67,3.5,$$
-N/A,N/A,Wine Bars,N/A,Yes,Bar Veloce,"Hell's Kitchen, Midtown West",N/A,N/A,(917) 261-5435,N/A,N/A,N/A,N/A,3,2.5,$$
-Casual,N/A,Sports Bars,Yes,Yes,Stax Sports Bar,"Upper East Side, Yorkville",No,"Street, Private Lot",(646) 998-3560,Yes,Yes,Yes,Yes,56,4.5,$$
-N/A,"Mon, Tue, Thu",Dive Bars,N/A,Yes,1020 Bar,Manhattan Valley,No,Street,(212) 531-3468,No,Yes,Yes,Yes,122,3.5,$
-N/A,N/A,Venues & Event Spaces,N/A,N/A,The Red Room,East Village,N/A,N/A,(212) 777-6088,N/A,N/A,N/A,Yes,12,4,$$
-Casual,"Thu, Fri, Sat",Cocktail Bars,No,N/A,The Summit Bar,"Alphabet City, East Village",Yes,Street,(347) 465-7911,Yes,No,N/A,Yes,380,4,$$
-N/A,N/A,Sushi Bars,N/A,Yes,Minami Lounge,Williamsburg - South Side,Yes,N/A,(917) 909-1896,Yes,Yes,Yes,Yes,12,4.5,$$
-N/A,N/A,Cigar Bars,N/A,N/A,Grand Havana Room,Midtown West,N/A,Garage,(212) 245-1600,Yes,Yes,N/A,Yes,52,4,$$$$
-N/A,"Thu, Fri, Sat",Cocktail Bars,No,Yes,Diamond Dogs,Astoria,Yes,Street,(929) 522-0061,No,No,N/A,Yes,118,4,$$
-Casual,"Fri, Sat, Sun",Speakeasies,No,N/A,Chumley’s,West Village,No,Street,(212) 675-2081,Yes,No,N/A,Yes,166,3.5,$$$
-Casual,N/A,Southern,No,Yes,Mr White,"East Village, Alphabet City",No,N/A,(212) 510-7229,Yes,No,Yes,Yes,81,4.5,$$
-Casual,"Wed, Fri, Sat",Japanese,No,Yes,Tomi Jazz,Midtown East,No,Street,(646) 497-1254,Yes,No,N/A,Yes,323,4,$$
-Casual,N/A,Bars,Yes,Yes,Island Oyster,South Village,Yes,N/A,(917) 268-0200,No,No,Yes,Yes,50,3.5,$$
-Casual,"Mon, Wed, Fri",Wine Bars,No,Yes,Wined Up,Flatiron,No,"Garage, Street",(212) 673-6333,Yes,Yes,Yes,Yes,115,4,$$
-Casual,N/A,American (New),No,Yes,Maysville,Flatiron,No,"Garage, Street",(646) 490-8240,Yes,No,Yes,Yes,516,4,$$$
-N/A,Sat,Cocktail Bars,No,Yes,Robert,Boerum Hill,Yes,Street,(347) 853-8687,No,No,Yes,Yes,43,4,$$
-N/A,N/A,Bars,N/A,Yes,The Trump Bar,"Midtown East, Midtown West",No,N/A,(212) 836-3200,No,Yes,N/A,Yes,33,3.5,$$$
-N/A,N/A,Pizza,No,Yes,The Woodstock,"Meatpacking District, West Village",No,N/A,(212) 633-2000,Yes,No,N/A,Yes,46,3.5,$$
-Casual,"Thu, Fri, Sat",Pubs,No,N/A,Pig ‘N’ Whistle,Midtown East,Yes,"Garage, Street",(212) 688-4646,Yes,Yes,N/A,Yes,234,3.5,$$
-Casual,Fri,American (New),N/A,Yes,American Whiskey,Midtown West,No,Street,(212) 967-1070,Yes,Yes,Yes,Yes,296,3.5,$$
-N/A,"Mon, Fri, Sun",Dive Bars,No,Yes,The Local,Astoria,Yes,Street,(917) 832-6797,No,Yes,N/A,Yes,43,4.5,$
-N/A,Thu,Dance Clubs,Yes,Yes,LivePlayLove,Astoria,Yes,"Garage, Street",(646) 606-3689,Yes,Yes,No,Yes,1,5,$$
-Casual,N/A,Bars,N/A,Yes,Rye House,Flatiron,No,Street,(212) 255-7260,Yes,Yes,N/A,Yes,434,3.5,$$
-Casual,"Wed, Thu, Sun",Bars,No,N/A,The Hideaway,TriBeCa,No,Street,(212) 334-5775,No,Yes,N/A,Yes,93,3.5,$$
-N/A,Mon,Wine Bars,No,Yes,Vanguard Wine Bar,"Upper East Side, Yorkville",No,N/A,(212) 288-9463,No,No,N/A,Yes,31,4,$$
-N/A,Sat,Pubs,Yes,Yes,The Commissioner,Park Slope,No,N/A,(347) 689-3968,No,Yes,N/A,Yes,108,5,$
-N/A,N/A,Bars,N/A,Yes,Bar D’eau,South Village,Yes,"Valet, Garage, Street",(212) 842-5500,Yes,Yes,Yes,Yes,21,3,$$$$
-Casual,N/A,Tapas/Small Plates,No,Yes,The Tuck Room,South Street Seaport,No,Street,(212) 776-8273,Yes,Yes,N/A,Yes,189,4,$$$
-N/A,N/A,Cocktail Bars,N/A,Yes,Adriaen Block,"Steinway, Astoria",Yes,N/A,(718) 606-1391,No,Yes,Yes,Yes,16,3.5,$$
-N/A,N/A,Bars,N/A,N/A,The Crow’s Nest,"Kips Bay, Stuyvesant Town",Yes,"Valet, Private Lot",(212) 545-1155,N/A,No,N/A,Yes,27,3.5,$$
-N/A,N/A,Cocktail Bars,N/A,N/A,Blue Quarter,East Village,N/A,N/A,(212) 432-2232,No,N/A,N/A,Yes,12,4.5,$$$
-N/A,"Thu, Fri, Sat",Lounges,No,Yes,Art Bar,West Village,No,Street,(212) 727-0244,No,Yes,N/A,Yes,465,3.5,$$
-Casual,Thu,Wine Bars,No,Yes,Somm Time,Midtown East,Yes,N/A,(212) 888-7404,Yes,Yes,Yes,Yes,67,4.5,$$
-Casual,Sat,Seafood,No,No,Simon & The Whale,"Flatiron, Kips Bay",No,Street,(212) 475-1924,Yes,No,Yes,Yes,89,4,$$
-N/A,N/A,Lounges,Yes,Yes,Sweet & Vicious,Nolita,Yes,Street,(212) 334-7915,No,Yes,N/A,Yes,515,3,$$
-N/A,N/A,Lounges,Yes,N/A,Tropical 128,Little Italy,No,Street,(212) 925-8219,No,Yes,N/A,Yes,171,3.5,$
-Casual,N/A,Venues & Event Spaces,N/A,Yes,W XYZ Bar,Harlem,Yes,Street,(212) 749-4000,No,Yes,N/A,Yes,37,3.5,$$
-N/A,"Thu, Fri, Sat",Lounges,No,N/A,The Back Room,Lower East Side,No,Street,(212) 228-5098,Yes,No,N/A,Yes,781,3.5,$$
-Casual,"Thu, Fri, Sat",Wine Bars,No,N/A,Ten Degrees Bar,"East Village, Alphabet City",No,Street,(212) 358-8600,Yes,Yes,N/A,Yes,807,4,$$
-N/A,N/A,Wine Bars,Yes,N/A,Von,NoHo,No,Street,(212) 473-3039,No,No,N/A,Yes,300,3.5,$$
-Casual,"Tue, Thu, Fri",Pubs,No,N/A,Flight 151,Chelsea,No,Street,(212) 229-1868,No,Yes,N/A,Yes,233,3.5,$
-Casual,"Thu, Fri, Sat",American (New),No,Yes,Bar Sardine,West Village,No,Street,(646) 360-3705,No,No,N/A,Yes,195,4,$$
-N/A,N/A,Pubs,Yes,Yes,The Hairy Lemon Pub,"Alphabet City, East Village",No,N/A,(646) 869-2151,Yes,Yes,N/A,Yes,39,4.5,$
-N/A,"Tue, Fri, Sat",Lounges,No,N/A,Pouring Ribbons,"Alphabet City, East Village",No,Street,(917) 656-6788,No,No,N/A,Yes,356,4,$$$
-N/A,N/A,Pubs,N/A,Yes,McSwiggan’s Bar,Gramercy,No,Street,(212) 683-3180,No,Yes,N/A,Yes,72,3.5,$
-Casual,N/A,Irish,No,Yes,Bayard’s Ale House,"Yorkville, Upper East Side",No,N/A,(212) 879-1500,No,Yes,N/A,Yes,42,3.5,$$
-Casual,"Thu, Fri, Sat",American (Traditional),No,N/A,The Gin Mill,Upper West Side,Yes,Street,(212) 580-9080,No,Yes,N/A,Yes,357,3.5,$$
-Casual,"Thu, Fri, Sat",Pubs,N/A,Yes,The Full Shilling,Financial District,No,Street,(212) 422-3855,Yes,Yes,N/A,Yes,78,3.5,$$
-Casual,"Thu, Fri, Sat",American (New),No,Yes,Bondurants,"Yorkville, Upper East Side",No,Street,(212) 249-1509,No,Yes,Yes,Yes,435,4,$$
-N/A,N/A,Irish Pub,No,Yes,Jack Jones Bar,Astoria,No,Street,(929) 424-3180,No,No,Yes,Yes,14,5,$$
-N/A,N/A,American (New),No,No,Amused,Upper West Side,No,Garage,(347) 298-8200,No,No,Yes,No,31,4.5,$$
-N/A,"Tue, Wed, Thu",Bars,Yes,Yes,Birdy’s,Bushwick,No,Street,(347) 365-2677,No,No,N/A,No,48,4,$
-Casual,"Wed, Fri, Sat",Lounges,No,N/A,Haven Rooftop,"Theater District, Midtown West",Yes,"Garage, Street",(212) 466-9000,Yes,Yes,N/A,Yes,498,3,$$
-Casual,N/A,Wine Bars,No,Yes,Da Capo,East Harlem,Yes,Street,(646) 707-0684,Yes,No,Yes,Yes,171,4.5,$$
-N/A,N/A,Wine Bars,No,Yes,Narcbar,East Village,Yes,N/A,(212) 441-3555,Yes,No,N/A,Yes,14,4,$$
-N/A,"Thu, Fri, Sat",Lounges,No,No,Mr. Purple,Lower East Side,Yes,N/A,(212) 237-1790,Yes,No,Yes,Yes,405,3,$$$
-N/A,N/A,Pubs,N/A,N/A,Burp Castle,East Village,Yes,Street,(212) 982-4576,No,No,N/A,Yes,534,4,$$
-N/A,N/A,Wine Bars,No,Yes,Vin Sur Vingt,Upper West Side,Yes,N/A,(646) 895-9944,Yes,No,N/A,Yes,37,4.5,$$
-N/A,"Fri, Sat, Sun",Pubs,No,N/A,Finnerty’s,East Village,No,Street,(212) 677-2655,No,Yes,N/A,Yes,332,4,$
-N/A,"Thu, Fri, Sat",Sports Bars,No,Yes,Plug Uglies,Gramercy,No,N/A,(212) 780-1944,No,Yes,N/A,Yes,32,3.5,$$
-N/A,"Thu, Fri, Sat",Irish Pub,No,N/A,The Irish American,Financial District,No,Street,(646) 414-6223,Yes,Yes,N/A,Yes,222,3.5,$$
-Casual,N/A,Seafood,N/A,N/A,Bar Belly,"Chinatown, Lower East Side",No,Street,(917) 488-0943,Yes,No,N/A,Yes,145,3.5,$$
-Casual,"Fri, Sat, Sun",American (Traditional),No,N/A,Molly’s,Gramercy,No,Street,(212) 889-3361,No,Yes,N/A,Yes,482,4,$$
-N/A,"Wed, Fri, Sat",Dive Bars,No,Yes,Milano’s Bar,Nolita,No,Street,(212) 226-8844,No,Yes,N/A,Yes,150,4,$
-N/A,N/A,Cocktail Bars,N/A,No,River Lounge,South Street Seaport,Yes,N/A,(212) 732-8257,N/A,N/A,N/A,Yes,14,4,$$$
-Casual,"Thu, Fri, Sat",American (Traditional),N/A,Yes,Dark Horse,"Civic Center, TriBeCa",No,"Garage, Street",(212) 608-3900,Yes,Yes,N/A,Yes,373,4,$$
-N/A,"Thu, Fri, Sat",Bars,N/A,Yes,Shrine,Harlem,Yes,Street,(212) 690-7807,Yes,Yes,N/A,Yes,229,4,$$
-N/A,N/A,Cocktail Bars,Yes,No,The Seville,"Flatiron, Midtown East",No,N/A,(212) 226-2833,Yes,No,Yes,Yes,31,3.5,$$
-Casual,"Thu, Fri, Sat",Pubs,No,N/A,The Storehouse,Flatiron,No,Street,(212) 243-8898,N/A,Yes,N/A,Yes,143,3.5,$$
-Casual,"Mon, Sat, Sun",Bars,No,Yes,The Copper Still,East Village,Yes,N/A,(212) 510-8469,Yes,Yes,Yes,Yes,145,4,$$
-Casual,"Tue, Fri, Sat",Gastropubs,No,Yes,Fools Gold NYC,Lower East Side,No,N/A,(212) 673-2337,Yes,Yes,N/A,Yes,269,4,$$
-N/A,N/A,Cocktail Bars,N/A,N/A,The Hidden Pearl,Greenpoint,N/A,N/A,(718) 383-3291,Yes,N/A,N/A,Yes,15,4.5,$$
-Dressy,N/A,American (Traditional),N/A,N/A,Aretsky’s Patroon,Midtown East,Yes,Street,(212) 883-7373,Yes,Yes,N/A,Yes,200,4,$$$
-Casual,"Thu, Fri, Sat",Wine Bars,No,N/A,Anfora,West Village,No,Street,(212) 518-2722,No,No,N/A,Yes,152,4,$$
-Casual,N/A,Wine Bars,N/A,Yes,YN,Nolita,No,Street,(212) 226-3330,No,No,Yes,Yes,179,4,$$
-N/A,"Thu, Fri, Sat",Dive Bars,N/A,Yes,Nancy Whiskey Pub,TriBeCa,No,Street,(212) 226-9943,No,Yes,N/A,Yes,196,3.5,$
-N/A,"Tue, Wed, Sat",Dive Bars,No,Yes,Rusty Knot,West Village,No,Street,(212) 645-5668,No,Yes,Yes,Yes,244,3.5,$$
-N/A,"Tue, Wed, Sun",Irish Pub,N/A,Yes,11th Street Bar,"East Village, Alphabet City",No,Street,(212) 982-3929,Yes,Yes,Yes,Yes,131,4,$
-N/A,"Thu, Fri, Sat",Pubs,Yes,Yes,Maggie Mae’s,Sunnyside,No,Street,(718) 433-3067,No,Yes,N/A,Yes,113,4.5,$$
-N/A,N/A,Bars,N/A,Yes,"Floyd, NY","Cobble Hill, Brooklyn Heights",No,Street,(718) 858-5810,No,Yes,N/A,Yes,200,4,$
-N/A,"Fri, Sat, Sun",Bars,No,N/A,The Duplex,West Village,Yes,Street,(212) 255-5438,No,No,N/A,Yes,267,3.5,$$
-N/A,"Thu, Fri, Sat",Cocktail Bars,Yes,N/A,Dream Baby,"East Village, Alphabet City",No,Street,(646) 807-3754,Yes,No,N/A,Yes,105,4,$$
-N/A,N/A,Wine Bars,N/A,N/A,The Fitting Room,Lower East Side,N/A,N/A,(212) 804-8088,Yes,N/A,N/A,N/A,2,5,$$
-N/A,N/A,Bars,N/A,N/A,Primo’s,TriBeCa,N/A,N/A,(917) 512-3432,Yes,N/A,N/A,Yes,2,4,$$$
-Casual,N/A,Tapas Bars,N/A,Yes,El Kallejon,East Harlem,No,Street,(646) 649-4795,Yes,Yes,No,Yes,231,4.5,$$
-Casual,"Thu, Fri, Sat",American (New),No,Yes,Union Bar & Kitchen,South Village,Yes,Street,(646) 791-0005,Yes,Yes,Yes,Yes,287,4,$$
-N/A,N/A,Pubs,No,Yes,The Whiskey Rebel,"Kips Bay, Flatiron",No,Street,(212) 686-3800,Yes,Yes,N/A,Yes,105,3.5,$$
-N/A,"Thu, Fri, Sat",Lounges,No,N/A,Rose Bar,"Gramercy, Flatiron",No,"Valet, Street",(212) 920-3300,Yes,No,N/A,Yes,286,3.5,$$$
-N/A,"Thu, Fri, Sat",Dive Bars,No,Yes,Lucky,"East Village, Alphabet City",Yes,N/A,(212) 777-3111,Yes,No,Yes,Yes,39,3.5,$
-Casual,"Tue, Thu, Fri",Bars,No,N/A,Overlook,Midtown East,Yes,Street,(212) 682-7266,Yes,Yes,N/A,Yes,233,3.5,$$
-N/A,N/A,Pubs,N/A,Yes,Mona’s,"East Village, Alphabet City",No,Street,(212) 353-3780,No,Yes,N/A,Yes,92,4,$
-Casual,N/A,Cafes,No,No,La Mercerie,"SoHo, TriBeCa",No,Street,(212) 852-9097,Yes,No,Yes,Yes,68,3,$$
-Casual,"Fri, Sat",Bars,No,Yes,The Roost,"East Village, Alphabet City",No,Street,(646) 918-6700,No,Yes,N/A,Yes,126,4,$
-Casual,N/A,Tacos,No,Yes,Flats Fix,Flatiron,No,Street,(212) 353-2400,No,Yes,N/A,Yes,44,4,$$
-Casual,N/A,American (New),No,No,The Loyal,West Village,No,Street,(212) 488-5800,Yes,No,N/A,Yes,103,4,$$
-Casual,"Fri, Sat",Bars,No,Yes,The Beast Next Door,Long Island City,No,Street,(718) 482-7507,Yes,No,N/A,Yes,144,4.5,$$
-Casual,"Thu, Fri, Sat",Dive Bars,N/A,N/A,Jeremy’s Ale House,"South Street Seaport, Financial District",Yes,Street,(212) 964-3537,No,Yes,N/A,Yes,257,4,$
-Casual,N/A,Bars,No,Yes,Treadwell Park,Battery Park,Yes,N/A,(212) 945-0528,No,Yes,Yes,Yes,87,3.5,$$
-Casual,N/A,Wine Bars,No,N/A,The Drunken Horse,Chelsea,No,Street,(212) 604-0505,No,No,N/A,Yes,106,4,$$
-Casual,"Thu, Fri, Sat",American (Traditional),No,Yes,Boilermaker,East Village,No,Street,(212) 995-5400,No,Yes,N/A,Yes,209,4,$$
-Casual,"Thu, Fri, Sat",Beer Gardens,No,Yes,West End Hall,Manhattan Valley,Yes,Street,(212) 662-7200,Yes,Yes,Yes,Yes,197,3.5,$$
-N/A,N/A,Mediterranean,N/A,N/A,Cleo,Midtown East,N/A,N/A,(646) 948-2370,Yes,N/A,N/A,Yes,31,4,$$$
-N/A,N/A,Lounges,N/A,N/A,The Spring Lounge,Nolita,No,Street,(212) 965-1774,No,Yes,N/A,Yes,227,3.5,$$
-N/A,N/A,Karaoke,N/A,N/A,Baby Grand,SoHo,No,Street,(212) 219-8110,No,No,N/A,Yes,177,4,$$
-N/A,Fri,Cocktail Bars,No,No,St. Cloud,"Theater District, Midtown West",Yes,Valet,(212) 204-4980,Yes,No,Yes,Yes,63,3,$$$
-N/A,N/A,Cocktail Bars,No,No,The Bar Room,Financial District,No,N/A,(212) 658-1848,No,No,Yes,Yes,27,3.5,$$$
-N/A,N/A,Lounges,N/A,Yes,Top of the Strand,Midtown West,Yes,Street,(646) 368-6426,No,Yes,N/A,Yes,157,3.5,$$
-Casual,"Thu, Fri, Sat",Sports Bars,No,Yes,Proper West,Midtown West,No,"Garage, Street",(212) 997-9000,Yes,Yes,Yes,Yes,278,3.5,$$
-N/A,N/A,Beer Bar,N/A,N/A,d.b.a.,East Village,Yes,Street,(212) 475-5097,No,Yes,N/A,Yes,430,3.5,$$
-N/A,"Thu, Fri, Sat",Pubs,N/A,N/A,Ulysses Folk House,Financial District,Yes,Street,(212) 482-0400,Yes,Yes,N/A,Yes,716,3,$$
-N/A,N/A,Bars,N/A,N/A,Edge of Astoria,Astoria,Yes,Street,(929) 331-4231,N/A,Yes,Yes,Yes,3,5,$$
-Casual,"Mon, Fri, Sat",Lounges,Yes,Yes,Iron Bar & Lounge,"Midtown West, Theater District, Hell's Kitchen",No,"Valet, Street, Private Lot",(212) 247-1970,Yes,Yes,No,Yes,365,3,$$
-N/A,"Wed, Thu, Fri",Lounges,No,Yes,La Biblioteca,"Murray Hill, Midtown East",No,Street,(212) 808-8110,Yes,No,N/A,Yes,376,3.5,$$
-Casual,"Thu, Fri, Sat",Pubs,N/A,Yes,Niall’s,Midtown East,No,Street,(212) 888-4648,No,Yes,N/A,Yes,116,4,$$
-Dressy,N/A,Lounges,N/A,No,Pegu Club,SoHo,No,Street,(212) 473-7348,Yes,No,N/A,Yes,930,4,$$$
-Casual,"Thu, Fri, Sat",Sports Bars,N/A,N/A,Manhattan Proper,"Civic Center, TriBeCa",No,Street,(646) 559-4445,Yes,Yes,N/A,Yes,221,3.5,$$
-N/A,N/A,Sports Bars,N/A,N/A,Play Sport Club,TriBeCa,N/A,N/A,(646) 355-0707,N/A,N/A,N/A,N/A,1,5,$$
-Casual,N/A,American (Traditional),No,Yes,AWOL Bar & Grill,Kips Bay,No,Street,(646) 682-9405,No,Yes,N/A,Yes,30,4,$$
-Casual,N/A,American (New),No,Yes,The Smith,Upper West Side,Yes,Street,(212) 496-5700,Yes,No,N/A,Yes,1378,3.5,$$
-Casual,"Thu, Fri, Sat",Bars,No,Yes,The Supply House,"Yorkville, Upper East Side",No,Street,(646) 861-3585,No,Yes,N/A,Yes,292,4,$$
-Casual,N/A,Wine Bars,No,Yes,City Vineyard,West Village,Yes,N/A,(347) 349-1204,Yes,Yes,Yes,Yes,392,3.5,$$
-Casual,"Thu, Fri, Sat",American (New),No,No,Till & Sprocket,"Chelsea, Midtown West",No,Street,(212) 239-0570,Yes,No,Yes,Yes,143,4,$$
-N/A,N/A,Pubs,N/A,Yes,Dublin House,Upper West Side,No,Street,(212) 874-9528,No,Yes,N/A,Yes,64,3.5,$$
-Casual,"Fri, Sat",Bars,No,Yes,Oppa,West Village,No,N/A,(646) 410-0503,No,Yes,Yes,Yes,71,4,$$
-N/A,N/A,Cocktail Bars,N/A,Yes,Mailroom,Financial District,No,N/A,(646) 476-5004,Yes,N/A,Yes,Yes,13,3.5,$$
-N/A,"Thu, Fri, Sat",Dive Bars,No,Yes,The Patriot Saloon,TriBeCa,No,Street,(212) 748-1162,No,Yes,N/A,No,318,3.5,$
-N/A,N/A,Bars,N/A,N/A,Mercy,Gramercy,Yes,Street,(212) 253-8061,Yes,Yes,N/A,Yes,257,3.5,$$
-Casual,N/A,American (Traditional),N/A,N/A,The Perfect Pint,"Theater District, Midtown West",Yes,Street,(212) 354-1099,Yes,Yes,N/A,Yes,355,3.5,$$
-N/A,"Thu, Fri, Sat",Dive Bars,No,Yes,Tile Bar,East Village,No,Street,(212) 254-4317,No,Yes,Yes,No,88,4,$
-N/A,N/A,Lounges,No,Yes,Hudson Bar,"Hell's Kitchen, Midtown West",Yes,N/A,(212) 554-6217,Yes,Yes,N/A,Yes,15,3,$$
-Casual,"Fri, Sat, Sun",Lounges,Yes,N/A,Cantina Rooftop,"Hell's Kitchen, Midtown West",Yes,Street,(212) 957-1700,Yes,Yes,N/A,Yes,337,2.5,$$
-N/A,"Thu, Sat, Sun",Sports Bars,N/A,N/A,Bar-Coastal NYC,"Upper East Side, Yorkville",Yes,Street,(212) 288-6635,No,Yes,N/A,Yes,256,4,$$
-Casual,"Fri, Sat, Sun",Bars,No,Yes,The Chelsea Bell,Chelsea,No,N/A,(212) 242-2425,Yes,Yes,Yes,Yes,70,3.5,$$
-N/A,N/A,Bars,N/A,Yes,Brady’s Bar,"Yorkville, Upper East Side",No,Street,(212) 861-6070,No,Yes,N/A,Yes,58,3.5,$
-N/A,"Thu, Fri, Sat",Sports Bars,No,Yes,Bleecker Street Bar,NoHo,No,Street,(212) 334-0244,Yes,Yes,Yes,Yes,149,3.5,$
-Casual,"Mon, Tue, Sat",Bars,No,Yes,The Topaz,East Williamsburg,Yes,Street,(347) 770-7217,Yes,No,No,Yes,90,4.5,$$
-N/A,N/A,Bars,No,Yes,L.I.C. Bar,"Hunters Point, Long Island City",Yes,Street,(718) 786-5400,No,Yes,N/A,Yes,296,3.5,$$
-Casual,"Thu, Fri, Sat",Irish,N/A,N/A,Cuckoo’s Nest,Woodside,No,Street,(718) 426-5684,Yes,Yes,N/A,Yes,157,4,$$
-N/A,N/A,Lounges,N/A,N/A,Goldbar,Little Italy,No,Street,(212) 274-1568,Yes,No,N/A,Yes,225,3,$$$
-Casual,"Thu, Fri, Sat",American (New),N/A,Yes,The Liberty,Midtown West,No,Street,(212) 967-4000,Yes,Yes,Yes,Yes,340,3.5,$$
-N/A,N/A,Lounges,N/A,Yes,Max Bar,Midtown East,No,Street,(212) 407-2947,Yes,Yes,Yes,Yes,138,2.5,$$$
-N/A,N/A,American (Traditional),N/A,Yes,Oxbow Tavern,Upper West Side,Yes,Street,(646) 490-4075,Yes,N/A,N/A,Yes,34,3,$$$
-N/A,N/A,Bars,N/A,N/A,Sunita Bar,Lower East Side,Yes,Street,(212) 253-8860,No,No,N/A,Yes,135,4.5,$$
-Casual,N/A,American (New),No,Yes,Bar180,Washington Heights,Yes,Street,(646) 928-3283,Yes,Yes,Yes,Yes,79,4,$$
-N/A,N/A,Lounges,N/A,No,Living Room Bar,Financial District,Yes,N/A,(646) 826-8642,Yes,Yes,N/A,Yes,57,3,$$$
-Casual,"Thu, Fri, Sat",Tapas/Small Plates,No,Yes,Verlaine,Lower East Side,No,Street,(212) 614-2494,Yes,No,Yes,Yes,1335,4,$$
-N/A,"Thu, Fri, Sat",Lounges,No,N/A,Watermark,South Street Seaport,Yes,Street,(212) 742-8200,Yes,Yes,N/A,Yes,164,3,$$
-Casual,"Fri, Sat, Sun",American (New),No,N/A,Tír na Nóg,"Midtown West, Hell's Kitchen",No,"Garage, Street",(212) 760-0072,Yes,Yes,N/A,Yes,336,4,$$
-Casual,"Thu, Fri, Sat",American (New),Yes,Yes,Five Mile Stone,"Yorkville, Upper East Side",Yes,Street,(212) 933-0913,Yes,Yes,Yes,Yes,350,3.5,$$
-Casual,"Fri, Sat, Sun",American (New),No,Yes,The Cannibal,"Flatiron, Midtown East",Yes,Street,(212) 686-5480,Yes,Yes,Yes,Yes,566,4,$$
-N/A,"Fri, Sat, Sun",Bars,No,Yes,Luckydog,Williamsburg - South Side,Yes,Street,(347) 294-4971,No,No,N/A,Yes,263,4,$
-Casual,"Fri, Sat, Sun",Cocktail Bars,N/A,Yes,Blueprint,Park Slope,Yes,Street,(718) 622-6644,No,No,N/A,Yes,301,4.5,$$
-Casual,Fri,Cafes,No,Yes,Kind Regards,Lower East Side,No,N/A,(212) 253-0036,Yes,No,Yes,Yes,37,3,$$
-N/A,"Tue, Fri, Sat",Bars,No,Yes,Solid State,Woodside,No,N/A,(347) 935-3042,Yes,No,N/A,Yes,49,5,$$
-N/A,N/A,Dive Bars,Yes,Yes,Bar None,East Village,No,Street,(212) 777-6663,No,Yes,N/A,Yes,335,3,$
-N/A,"Thu, Fri, Sat",Dive Bars,N/A,N/A,Point Break,Midtown West,No,Street,(212) 391-8053,Yes,Yes,N/A,Yes,214,3.5,$$
-N/A,N/A,Bars,No,Yes,Doris,"Clinton Hill, Bedford Stuyvesant",Yes,Street,(347) 240-3350,No,No,N/A,Yes,81,4,$$
-Casual,"Thu, Fri, Sat",American (Traditional),No,Yes,Fraunces Tavern,Financial District,No,Street,(212) 968-1776,Yes,No,N/A,Yes,731,3.5,$$
-N/A,N/A,Pubs,N/A,N/A,Halyards,Gowanus,Yes,Street,(718) 532-8787,Yes,Yes,N/A,Yes,88,4,$$
-N/A,N/A,Lounges,N/A,N/A,SoHo Cigar Bar,South Village,No,Street,(212) 941-1781,Yes,Yes,N/A,Yes,196,4.5,$$
-Casual,"Mon, Fri, Sat",Pubs,N/A,Yes,PJ Carneys,Midtown West,No,N/A,(212) 664-0056,No,Yes,N/A,Yes,124,3.5,$$
-Casual,"Thu, Fri, Sat",American (New),No,Yes,Distilled,TriBeCa,Yes,Street,(646) 809-9490,Yes,Yes,Yes,Yes,726,4,$$
-Casual,N/A,Middle Eastern,No,Yes,Kubeh,Greenwich Village,Yes,"Garage, Street",(646) 448-6688,Yes,No,Yes,Yes,106,4,$$
-N/A,Fri,Dance Clubs,Yes,No,Friday Night Blues,Flatiron,No,Street,(929) 352-5837,N/A,No,No,No,10,5,$
-Casual,N/A,Pubs,N/A,Yes,Sly Fox,East Village,No,Street,(212) 614-3283,No,Yes,N/A,Yes,82,3.5,$
-N/A,N/A,Bars,N/A,Yes,The Magician,Lower East Side,No,Street,(212) 673-7851,No,No,N/A,No,164,3.5,$
-Casual,"Thu, Fri, Sat",Bars,No,N/A,Hill and Dale,Lower East Side,No,Street,(212) 420-1115,Yes,Yes,N/A,Yes,419,4,$$
-Casual,"Thu, Fri, Sat",Bars,Yes,Yes,Fat Buddha,"East Village, Alphabet City",No,Street,(212) 598-0500,Yes,Yes,Yes,Yes,590,4,$$
-N/A,"Thu, Fri, Sat",Jazz & Blues,No,Yes,Zinc Bar,Greenwich Village,No,"Valet, Garage, Street",(212) 477-9462,Yes,No,N/A,Yes,171,4,$$
-Casual,"Fri, Sat, Sun",Cocktail Bars,No,Yes,The Rookery,Bushwick,Yes,Street,(718) 483-8048,No,Yes,Yes,Yes,202,4,$$
-N/A,N/A,Cocktail Bars,No,Yes,The Armory,"Gowanus, Park Slope",Yes,N/A,(929) 337-8476,Yes,No,No,Yes,36,4.5,$$
-N/A,N/A,Music Venues,Yes,No,Pier 17,South Street Seaport,Yes,N/A,(212) 732-7678,Yes,Yes,Yes,Yes,46,3.5,$$
-Casual,"Fri, Sat, Sun",Bars,No,Yes,The Bonnie,Astoria,Yes,Street,(718) 274-2105,Yes,No,Yes,Yes,487,4,$$
-N/A,N/A,Bars,N/A,N/A,Gem-Bar,Midtown West,N/A,N/A,(212) 869-9238,N/A,N/A,N/A,N/A,1,5,$$
-Casual,"Tue, Wed, Thu",Gastropubs,N/A,No,Wilfie & Nell,West Village,No,Street,(212) 242-2990,No,No,No,Yes,331,3.5,$$
-Casual,Fri,American (New),No,No,While We Were Young,West Village,Yes,Street,(917) 675-6272,No,Yes,No,Yes,196,3.5,$$
-N/A,"Tue, Fri, Sat",Jazz & Blues,Yes,No,The Django,TriBeCa,No,N/A,(212) 519-6649,N/A,No,Yes,Yes,74,3.5,$$$
-Casual,"Thu, Fri, Sat",American (New),No,Yes,Ivy,"Midtown West, Hell's Kitchen",No,Street,(212) 459-9444,Yes,Yes,N/A,Yes,316,4,$$
-Casual,"Thu, Fri, Sun",American (Traditional),No,Yes,Stout NYC FiDi,Financial District,No,Street,(212) 240-9122,Yes,Yes,Yes,Yes,205,3.5,$$
-N/A,"Thu, Fri, Sat",Cocktail Bars,No,Yes,La Sala,Astoria,No,Street,(718) 606-6121,N/A,Yes,Yes,Yes,97,4.5,$$
-N/A,N/A,Venues & Event Spaces,N/A,N/A,W XYZ Bar,Long Island City,N/A,N/A,(718) 433-9305,No,N/A,N/A,Yes,2,5,$$
-Casual,"Thu, Fri, Sat",Mediterranean,No,No,Covina,Flatiron,No,Garage,(212) 204-0225,Yes,No,N/A,Yes,267,4.5,$$$
-Casual,"Mon, Wed, Fri",Lounges,No,N/A,Shalel Kitchen,Upper West Side,Yes,Street,(212) 873-2300,Yes,No,N/A,Yes,571,4,$$
-Casual,"Wed, Fri, Sat",Bars,No,Yes,The Gem Saloon,Kips Bay,No,N/A,(646) 612-7757,Yes,Yes,N/A,Yes,125,4,$$
-N/A,"Wed, Thu, Fri",Pubs,N/A,Yes,Killarney Rose,Financial District,No,Street,(212) 422-1486,No,Yes,N/A,Yes,139,3.5,$$
-Casual,N/A,Irish,No,N/A,The Long Room,"Theater District, Midtown West",No,"Garage, Street",(212) 997-3933,Yes,Yes,Yes,Yes,271,3.5,$$
-N/A,N/A,Cocktail Bars,N/A,N/A,Peachy’s,"Chinatown, Civic Center",N/A,N/A,(646) 895-9301,N/A,N/A,N/A,Yes,9,4,$$
-Casual,"Tue, Wed, Thu",Chinese,No,No,Decoy,West Village,No,Street,(212) 691-9700,Yes,No,N/A,Yes,333,4.5,$$$
-N/A,"Wed, Thu",Bars,N/A,Yes,RPM Bar,Lower East Side,No,N/A,(646) 918-6529,No,Yes,N/A,Yes,66,3.5,$
-Casual,"Thu, Fri, Sat",Pubs,No,N/A,McGee’s Pub,Midtown West,No,"Garage, Street",(212) 957-3536,Yes,Yes,N/A,Yes,552,3.5,$$
-N/A,"Thu, Fri, Sat",Lounges,Yes,Yes,Home Sweet Home,Lower East Side,No,Street,(212) 226-5709,No,No,Yes,Yes,393,3,$
-Casual,N/A,Bars,N/A,Yes,Jake’s Saloon,"Hell's Kitchen, Midtown West",No,Street,(212) 333-3100,No,Yes,N/A,Yes,91,2.5,$$
-Casual,"Thu, Fri, Sat",American (New),No,N/A,The Park,Chelsea,Yes,Street,(212) 352-3313,Yes,No,Yes,Yes,1696,3,$$
-N/A,N/A,Cocktail Bars,No,Yes,The Honey Well,Harlem,No,N/A,(646) 861-0489,Yes,No,No,Yes,84,4.5,$$
-N/A,N/A,Pubs,N/A,N/A,Queen Vic,East Village,No,Street,(212) 228-5357,No,Yes,N/A,Yes,76,4,$
-Casual,"Wed, Fri, Sat",American (New),N/A,N/A,Formerly Crow’s,Greenwich Village,No,Street,(212) 361-0077,Yes,Yes,N/A,Yes,65,4,$$
-N/A,N/A,Venues & Event Spaces,N/A,N/A,Rose Gold,East Williamsburg,N/A,N/A,(718) 821-2580,N/A,N/A,N/A,N/A,3,4.5,$
-Casual,"Thu, Fri, Sat",American (New),No,Yes,Spoon Table & Bar,"Murray Hill, Midtown East",No,Street,(646) 230-7000,Yes,No,Yes,Yes,278,4,$$
-Casual,"Wed, Fri, Sat",American (Traditional),No,N/A,Phebe’s,East Village,No,Street,(212) 358-1902,Yes,Yes,N/A,Yes,531,3.5,$$
-Casual,N/A,Burgers,No,Yes,Hudson Common,"Hell's Kitchen, Midtown West",Yes,"Valet, Street",(212) 554-6217,Yes,Yes,N/A,Yes,153,3.5,$$
-N/A,N/A,Wine Bars,No,Yes,BIN No. 220,South Street Seaport,Yes,Street,(212) 374-9463,Yes,Yes,N/A,Yes,74,4,$$
-Casual,"Thu, Fri, Sat",Sports Bars,N/A,N/A,Warren 77,TriBeCa,No,Street,(212) 227-8994,Yes,Yes,N/A,Yes,172,3,$$
-Casual,"Thu, Fri, Sat",Bars,N/A,No,Sake Bar Decibel,East Village,No,Street,(212) 979-2733,No,No,N/A,Yes,895,4,$$
-N/A,"Thu, Fri, Sat",Cocktail Bars,Yes,Yes,The Lately,Chelsea,No,N/A,(212) 206-1096,Yes,Yes,Yes,Yes,50,2.5,$$
-N/A,N/A,Bars,N/A,N/A,Manitoba’s,"Alphabet City, East Village",No,Street,(212) 982-2511,No,Yes,N/A,Yes,199,4,$
-N/A,Thu,Bars,No,Yes,Left Hand Path,Bushwick,Yes,Street,(718) 417-1262,Yes,No,No,Yes,40,4.5,$$
-N/A,N/A,Cocktail Bars,N/A,Yes,The Lovelace,Financial District,Yes,N/A,(212) 425-7171,Yes,No,N/A,Yes,22,3.5,$$
-Casual,"Mon, Fri",Bars,N/A,Yes,Linen Hall,East Village,Yes,Street,(646) 602-9316,Yes,Yes,N/A,Yes,154,4,$$
-Dressy,"Sat, Sun",American (New),No,No,Robert,"Hell's Kitchen, Midtown West",No,Street,(212) 299-7730,Yes,Yes,N/A,Yes,800,4,$$$
-N/A,"Thu, Fri, Sat",Pool Halls,N/A,N/A,Fat Cat Music,West Village,No,Street,(212) 675-6056,N/A,No,N/A,Yes,1046,4,$
-Casual,N/A,Burgers,N/A,N/A,The Randolph,Little Italy,Yes,"Garage, Street",(646) 383-3623,No,Yes,N/A,Yes,146,3.5,$$
-N/A,"Thu, Fri, Sat",Sports Bars,No,Yes,Triona’s On Third,Gramercy,No,Street,(646) 448-4671,No,Yes,N/A,Yes,86,4,$$
-N/A,N/A,Venues & Event Spaces,N/A,No,The Mayflower,Clinton Hill,No,N/A,(718) 576-3584,No,No,N/A,Yes,44,4,$$
-Casual,Sat,Bars,No,No,Motel Morris,Chelsea,Yes,N/A,(646) 880-4810,Yes,Yes,Yes,Yes,125,4,$$$
-N/A,N/A,Bars,N/A,Yes,Puffy’s Tavern,TriBeCa,No,Street,(212) 227-3912,No,Yes,N/A,Yes,85,4,$
-N/A,N/A,Bars,N/A,N/A,Featherweight,East Williamsburg,No,Street,(646) 257-0946,No,No,N/A,No,122,4.5,$$
-N/A,N/A,Cocktail Bars,Yes,No,Mood Ring,Bushwick,No,Street,(917) 818-1738,Yes,No,Yes,Yes,28,4,$$
-Casual,"Wed, Thu, Sat",American (Traditional),No,Yes,Industry Kitchen,Financial District,Yes,N/A,(212) 487-9600,Yes,Yes,Yes,Yes,423,3.5,$$
-Casual,Sun,Hookah Bars,No,Yes,Gardenia Terrace,"Hell's Kitchen, Midtown West",Yes,"Garage, Street",(212) 334-0489,Yes,Yes,Yes,Yes,109,4.5,$$$
-N/A,"Thu, Fri, Sat",Lounges,No,No,Vandal,Lower East Side,No,Street,(212) 400-0199,Yes,No,Yes,Yes,1085,3.5,$$$
-N/A,N/A,Bars,N/A,N/A,Pata Paplean Bar,Elmhurst,No,Street,(718) 651-2076,No,Yes,N/A,No,51,4,$$
-N/A,N/A,Cocktail Bars,N/A,No,The Long Island Bar,Cobble Hill,No,Street,(718) 625-8908,Yes,No,N/A,Yes,117,4,$$
-Casual,"Thu, Fri, Sat",Breakfast & Brunch,No,Yes,The Ditty,Astoria,Yes,Street,(347) 617-1747,No,No,Yes,Yes,171,4,$$
-Casual,N/A,American (Traditional),No,No,Sister Jane NYC,East Village,No,Street,(917) 265-8234,Yes,Yes,Yes,Yes,26,4,$$
-Casual,"Thu, Fri, Sat",American (Traditional),No,N/A,The Stumble Inn,"Upper East Side, Yorkville",Yes,Street,(212) 650-0561,No,Yes,N/A,Yes,418,3.5,$$
-N/A,N/A,Dive Bars,Yes,Yes,duckduck,East Williamsburg,No,Street,(347) 799-1449,No,No,N/A,No,210,4,$
-Casual,"Thu, Fri, Sat",Lounges,No,N/A,Donna,South Williamsburg,No,"Garage, Street",(646) 568-6622,Yes,No,N/A,Yes,143,4,$$
-Casual,"Fri, Sat, Sun",Mexican,No,Yes,Lalito,Chinatown,No,Street,(646) 998-3408,Yes,No,N/A,Yes,108,4,$$
-Casual,N/A,Steakhouses,No,Yes,Boucherie - Park,"Gramercy, Flatiron",No,Street,(800) 437-6189,Yes,No,Yes,Yes,272,4.5,$$$
-Casual,"Thu, Fri, Sat",Pubs,No,N/A,Peculier Pub,Greenwich Village,No,Street,(212) 353-1327,No,Yes,N/A,No,376,3.5,$
-N/A,N/A,Dive Bars,N/A,Yes,Mulberry Street Bar,Civic Center,Yes,Street,(212) 226-9345,No,Yes,N/A,Yes,137,3.5,$$
-N/A,"Thu, Fri, Sat",Sports Bars,No,N/A,Lansdowne Road,"Hell's Kitchen, Midtown West",No,Street,(212) 239-8020,No,Yes,N/A,Yes,401,4,$$
-Casual,"Thu, Fri, Sat",Irish Pub,No,N/A,Dylan Murphy’s,"Upper East Side, Yorkville",No,Street,(212) 988-9434,Yes,Yes,N/A,Yes,146,4,$$
-N/A,N/A,Pubs,N/A,N/A,The Upstairs Pub,"Midtown East, Murray Hill",No,N/A,(212) 986-0500,No,Yes,N/A,Yes,12,3.5,$
-N/A,"Thu, Fri, Sat",Beer Bar,No,Yes,Rattle N Hum West,"Midtown West, Hell's Kitchen",No,Street,(917) 262-0423,No,Yes,Yes,Yes,95,3.5,$$
-N/A,Sat,Lounges,No,Yes,Madison Club Lounge,Midtown East,No,N/A,(212) 661-9600,Yes,Yes,N/A,Yes,28,4,$$
-N/A,N/A,Lounges,N/A,N/A,Lizard Lounge,"Theater District, Midtown West",Yes,N/A,(212) 265-6900,N/A,Yes,N/A,Yes,9,3.5,$$
-Casual,"Fri, Sat",Mexican,No,Yes,Empellón,Midtown East,No,Street,(212) 858-9365,Yes,No,Yes,Yes,220,4,$$$
-Casual,Fri,Irish,No,Yes,The Grafton,East Village,Yes,Street,(929) 226-0464,Yes,Yes,Yes,Yes,60,4,$$
-N/A,N/A,Lounges,N/A,No,King Cole Bar,Midtown East,No,N/A,(212) 339-6857,Yes,No,N/A,Yes,215,3.5,$$$
-N/A,N/A,Venues & Event Spaces,N/A,Yes,W XYZ Bar,Financial District,Yes,Garage,(212) 513-0003,No,Yes,Yes,Yes,1,5,$$
-Casual,N/A,Greek,No,Yes,The Greek,TriBeCa,No,"Garage, Street",(646) 476-3941,Yes,No,Yes,Yes,444,4.5,$$$
-Casual,"Thu, Fri, Sun",Lounges,N/A,N/A,Antique Garage,SoHo,Yes,Street,(212) 219-1019,Yes,No,Yes,Yes,361,3.5,$$
-N/A,"Thu, Fri, Sat",Cocktail Bars,No,Yes,Lion Lion,East Harlem,Yes,"Garage, Street",(917) 262-0517,No,No,N/A,Yes,57,4.5,$$
-N/A,N/A,Cocktail Bars,No,Yes,The Green Room,"Gramercy, Kips Bay",No,N/A,(212) 477-6161,No,No,N/A,Yes,25,4,$$
-N/A,"Thu, Fri, Sat",Pizza,No,Yes,Loverboy,"Alphabet City, East Village",No,Street,(212) 539-1900,No,No,N/A,Yes,35,4.5,$$
-Casual,N/A,Dive Bars,No,Yes,Tempest Bar,"Chelsea, Midtown West",No,Street,(212) 643-1502,No,Yes,N/A,Yes,108,3.5,$$
-N/A,N/A,Tacos,No,Yes,Bar Taco,"Alphabet City, East Village",No,Street,(646) 559-4648,No,Yes,Yes,Yes,17,4,$$
-N/A,"Thu, Fri, Sat",Breweries,No,No,LIC Beer Project,Long Island City,No,Street,(917) 832-6840,No,No,Yes,Yes,91,4,$
-Casual,N/A,Wine Bars,No,Yes,Cello Wine Bar,Midtown East,No,Street,(917) 475-1131,Yes,Yes,N/A,Yes,179,4,$$
-N/A,"Thu, Fri, Sat",Pubs,N/A,N/A,Walter’s Bar,"Chelsea, Midtown West",No,Street,(212) 502-4023,N/A,Yes,N/A,Yes,64,3.5,$
-Casual,N/A,Burgers,No,N/A,Bravest,"Murray Hill, Midtown East",No,Street,(212) 683-3766,No,Yes,N/A,Yes,179,4,$$
-N/A,Thu,Lounges,No,No,Grand Salon,Midtown West,No,N/A,(212) 790-8800,Yes,No,N/A,Yes,20,4,$$$$
-N/A,N/A,Dive Bars,N/A,N/A,Dave’s Tavern,"Midtown West, Hell's Kitchen, Theater District",No,Street,(212) 244-4408,No,Yes,N/A,Yes,61,3.5,$$
-N/A,N/A,Brewpubs,N/A,Yes,Braven Brewing,"East Williamsburg, Bushwick",N/A,Street,(929) 295-6673,N/A,N/A,Yes,Yes,7,5,$
-N/A,"Thu, Fri, Sat",Lounges,Yes,Yes,Monarch Rooftop,Midtown West,Yes,Street,(212) 630-9993,Yes,Yes,Yes,Yes,421,3,$$
-N/A,N/A,Bars,N/A,N/A,Liquid Assets,Financial District,No,N/A,(212) 693-2001,N/A,N/A,N/A,Yes,4,3,$$
-Casual,"Thu, Fri, Sat",Sports Bars,N/A,N/A,Taproom No. 307,Kips Bay,Yes,Street,(212) 725-4766,Yes,Yes,N/A,Yes,440,3.5,$$
-N/A,N/A,Pubs,N/A,Yes,Josie Woods Pub,Greenwich Village,No,Street,(212) 228-9909,N/A,Yes,N/A,Yes,118,3.5,$$
-N/A,"Mon, Fri, Sat",Beer Gardens,Yes,N/A,The Well,East Williamsburg,Yes,Street,(347) 338-3612,N/A,No,N/A,Yes,118,4,$$
-Casual,N/A,American (Traditional),No,N/A,SoHo Room,South Village,No,Street,(212) 334-3855,Yes,Yes,N/A,Yes,144,3,$$
-N/A,N/A,Breweries,N/A,N/A,Big aLICe Brewing,Long Island City,N/A,Street,(347) 688-2337,N/A,N/A,N/A,Yes,91,4.5,$
-Casual,"Fri, Sat, Sun",Beer Bar,No,Yes,Bierocracy,"Hunters Point, Long Island City",No,Street,(718) 361-9333,Yes,Yes,Yes,Yes,238,4,$$
-Casual,N/A,American (New),No,Yes,Nickel & Diner,"Little Italy, SoHo",Yes,Street,(646) 870-6100,Yes,No,Yes,Yes,323,4,$$
-Formal (Jacket Required),"Thu, Fri, Sat",French,No,No,Daniel,Upper East Side,No,N/A,(212) 288-0033,Yes,No,Yes,Yes,1439,4.5,$$$$
-Casual,Fri,Mexican,No,Yes,La Contenta Oeste,Greenwich Village,Yes,Street,(212) 533-2233,Yes,No,N/A,Yes,98,4,$$
-N/A,"Thu, Fri, Sat",Pubs,N/A,Yes,O’Reilly’s Pub,"Koreatown, Midtown West",Yes,Street,(212) 684-4244,No,Yes,N/A,Yes,193,3,$$
-Casual,N/A,American (New),No,No,The Eddy,East Village,No,Street,(646) 895-9884,Yes,No,N/A,Yes,343,4.5,$$$
-Casual,"Thu, Fri, Sat",Cocktail Bars,No,Yes,The Daisy,"Yorkville, Upper East Side",Yes,"Garage, Street",(646) 964-5756,Yes,No,Yes,Yes,186,3.5,$$
-N/A,Sat,Cocktail Bars,No,Yes,Fresh Kills Bar,Williamsburg - North Side,No,N/A,(718) 599-7888,No,No,N/A,Yes,80,4.5,$$
-Casual,"Wed, Fri, Sun",Bars,No,Yes,Crompton Ale House,Chelsea,No,Street,(212) 658-0089,Yes,Yes,Yes,Yes,142,3.5,$$
-N/A,"Wed, Fri, Sat",Bars,N/A,Yes,Ace Bar,"East Village, Alphabet City",No,Street,(212) 979-8476,Yes,Yes,Yes,Yes,349,3.5,$
-Dressy,N/A,American (New),N/A,Yes,The Musket Room,Nolita,No,Street,(212) 219-0764,Yes,No,N/A,Yes,368,4.5,$$$
-N/A,Sat,Cocktail Bars,No,Yes,Sweet Polly,Prospect Heights,No,Street,(718) 484-9600,Yes,No,Yes,Yes,85,4.5,$$
-N/A,N/A,Lounges,N/A,Yes,The Emerson,"Clinton Hill, Bedford Stuyvesant",Yes,Street,(347) 763-1310,No,Yes,N/A,No,72,4,$$
-N/A,N/A,Dive Bars,Yes,Yes,Lone Wolf,"Bushwick, Bedford Stuyvesant",No,Street,(347) 240-9542,No,No,N/A,Yes,96,4,$
-N/A,N/A,Cocktail Bars,No,Yes,The Holler,"Clinton Hill, Bedford Stuyvesant",Yes,Street,(917) 966-5723,No,No,No,Yes,13,5,$$
-Casual,N/A,Beer Bar,No,Yes,BeerZaar,South Village,No,N/A,(212) 256-0014,No,No,N/A,Yes,25,4,$$
-Dressy,"Thu, Fri, Sat",Bars,No,No,Gabriel Kreuther,Midtown West,No,N/A,(212) 257-5826,Yes,No,Yes,Yes,299,4.5,$$$$
-Casual,"Thu, Fri, Sat",Sports Bars,No,N/A,House of Brews,"Theater District, Midtown West, Hell's Kitchen",Yes,"Garage, Street",(212) 541-7080,Yes,Yes,N/A,Yes,417,4,$$
-Casual,"Wed, Thu, Fri",Cocktail Bars,No,Yes,Conmigo,"Yorkville, Upper East Side",No,Street,(212) 256-0056,Yes,No,Yes,Yes,129,4,$$
-Casual,Mon,American (New),N/A,Yes,Prospect,Fort Greene,Yes,Street,(718) 596-6826,Yes,No,N/A,Yes,215,4,$$$
-N/A,"Thu, Fri, Sat",Dive Bars,No,Yes,Boobie Trap,Bushwick,No,N/A,(347) 240-9105,N/A,No,Yes,Yes,217,4,$
-Dressy,N/A,French,No,Yes,Amelie,Upper West Side,Yes,N/A,(646) 422-7167,Yes,No,No,Yes,81,4.5,$$$
-Casual,N/A,Bars,N/A,N/A,Maggie’s Place,Midtown East,No,Street,(212) 753-5757,Yes,Yes,N/A,Yes,114,3.5,$$
-N/A,N/A,Cocktail Bars,No,Yes,Le Boudoir,"Cobble Hill, Brooklyn Heights",No,N/A,(347) 227-8337,Yes,No,No,Yes,46,4,$$
-N/A,"Wed, Fri, Sat",Dive Bars,N/A,Yes,Double Down Saloon,"East Village, Alphabet City",Yes,Street,(212) 982-0543,No,Yes,N/A,Yes,311,3.5,$
-N/A,N/A,Dive Bars,N/A,N/A,The Jar Bar,Sunnyside,Yes,Street,(718) 784-9616,No,Yes,N/A,No,21,4,$
-N/A,"Thu, Fri, Sat",Pubs,Yes,Yes,The Red Lion,Greenwich Village,Yes,Street,(212) 260-9797,Yes,Yes,N/A,Yes,297,3.5,$$
-N/A,N/A,Performing Arts,N/A,No,Park Avenue Armory,Upper East Side,No,N/A,(212) 616-3930,N/A,No,N/A,Yes,65,4.5,$$
-Casual,"Thu, Fri, Sat",American (Traditional),No,N/A,Jakes Dilemma,Upper West Side,Yes,Street,(212) 580-0556,No,Yes,N/A,Yes,427,3.5,$$
-N/A,N/A,Sports Bars,N/A,Yes,The Sports Bar,East Village,No,N/A,(917) 803-3866,N/A,Yes,N/A,Yes,3,4,$
-Casual,"Fri, Sat",Tiki Bars,Yes,No,Make Believe,Lower East Side,Yes,Street,(212) 460-5300,No,No,No,Yes,75,3,$$
-Casual,"Thu, Fri, Sat",Pubs,No,N/A,Merrion Square Pub,"Yorkville, Upper East Side",No,"Garage, Street",(212) 831-7696,No,Yes,N/A,Yes,206,3.5,$
-N/A,N/A,Sports Bars,No,Yes,Triona’s,Greenwich Village,No,Street,(212) 982-5222,No,Yes,N/A,Yes,108,4,$
-N/A,N/A,Wine Bars,N/A,Yes,Vanguard Wine Bar,"Kips Bay, Midtown East",No,Street,(212) 447-9463,No,Yes,N/A,Yes,66,4,$$
-N/A,N/A,Bars,No,Yes,Bookmarks,"Midtown East, Murray Hill",Yes,Street,(212) 204-5498,Yes,No,N/A,Yes,173,3.5,$$$
-Casual,"Thu, Fri, Sat",Pubs,No,N/A,Pig n Whistle,Midtown West,No,Street,(212) 239-4820,Yes,Yes,N/A,Yes,160,3.5,$$
-N/A,N/A,Beer Bar,No,No,BierWax,Prospect Heights,Yes,Street,(347) 533-8449,No,No,Yes,Yes,39,4.5,$$
-Casual,"Wed, Fri, Sat",Irish,No,N/A,Blarney Rock Pub,Midtown West,No,Street,(212) 947-0825,No,Yes,N/A,Yes,172,3.5,$$
-Casual,"Thu, Fri, Sat",Cocktail Bars,No,No,Mother of Pearl,"East Village, Alphabet City",No,Street,(212) 614-6818,Yes,No,No,Yes,328,4,$$
-Casual,Sat,Mexican,No,Yes,El Centro,"Theater District, Hell's Kitchen, Midtown West",Yes,Street,(646) 763-6585,No,No,N/A,Yes,769,4,$$
-Casual,N/A,Bars,No,N/A,Faces & Names,"Theater District, Midtown West",No,"Garage, Street",(212) 586-9311,Yes,Yes,N/A,Yes,324,3.5,$$
-N/A,N/A,Bars,N/A,Yes,Westside Tavern,Chelsea,No,Street,(212) 366-3738,No,Yes,N/A,Yes,69,3,$$
-N/A,"Sat, Sun",Gay Bars,Yes,Yes,Dive Bar Lounge,"Hell's Kitchen, Midtown West",Yes,N/A,(646) 756-5230,No,Yes,N/A,Yes,49,3,$
-Casual,"Thu, Fri, Sat",Wine Bars,No,No,Wine:34,"Murray Hill, Midtown East",Yes,N/A,(212) 213-1700,Yes,No,N/A,Yes,57,4.5,$$
-Casual,Wed,Wine Bars,No,No,Le Botaniste,Upper East Side,No,Street,(917) 262-0766,No,No,No,Yes,329,4.5,$$
-Casual,"Thu, Fri, Sat",Bars,No,N/A,Eastwood,Lower East Side,No,Street,(212) 233-0124,No,No,N/A,Yes,131,4,$$
-N/A,N/A,American (New),N/A,Yes,Copinette,Midtown East,No,N/A,(212) 903-4001,Yes,Yes,Yes,Yes,36,4,$$
-Casual,"Thu, Fri, Sat",Cocktail Bars,No,Yes,Black Crescent,Lower East Side,No,Street,(212) 477-1771,No,No,N/A,Yes,142,4,$$
-Casual,N/A,Bars,No,Yes,Boat Basin Café,Upper West Side,Yes,Street,(212) 496-5542,No,Yes,N/A,Yes,660,3.5,$$
-Dressy,"Thu, Fri, Sat",Bars,Yes,Yes,Common Ground,"Meatpacking District, West Village",Yes,Street,(212) 255-7484,Yes,Yes,No,Yes,53,3,$$$
-Casual,N/A,Italian,No,No,Mercato,"Midtown West, Hell's Kitchen",No,Street,(212) 643-2000,Yes,No,N/A,Yes,746,4,$$
-N/A,N/A,Lounges,Yes,Yes,et al.,Lower East Side,N/A,N/A,(917) 341-6856,Yes,No,N/A,Yes,14,4,$$$$
-N/A,"Tue, Fri, Sat",Cocktail Bars,No,Yes,Ramona,Greenpoint,No,Street,(347) 227-8164,No,No,N/A,Yes,107,4.5,$$
-Casual,"Tue, Fri, Sat",Bars,N/A,N/A,One Mile House,Lower East Side,Yes,Street,(646) 559-0702,Yes,No,N/A,Yes,208,4,$$
-N/A,N/A,Beer Bar,No,Yes,The Beerkeeper,Woodside,No,Street,(718) 899-1678,Yes,Yes,Yes,Yes,36,4,$$
-N/A,N/A,Dive Bars,N/A,Yes,Fish Bar,East Village,No,Street,(212) 475-4949,No,No,N/A,No,76,4,$
-N/A,"Thu, Fri, Sat",Beer Bar,No,N/A,Beer Authority,"Midtown West, Theater District, Hell's Kitchen",Yes,"Garage, Street",(212) 510-8415,Yes,Yes,N/A,Yes,561,3.5,$$
-N/A,N/A,American (New),N/A,Yes,BLVD Bistro & Bar,Rego Park,N/A,N/A,(917) 832-6015,Yes,Yes,N/A,Yes,15,4.5,$$
-N/A,"Wed, Thu",Dive Bars,No,Yes,Subway Inn,Upper East Side,No,N/A,(212) 758-0900,No,Yes,Yes,Yes,49,3.5,$$
-N/A,"Wed, Fri, Sat",Sports Bars,No,Yes,The Irish Pub,"Theater District, Midtown West",Yes,Street,(212) 664-9364,Yes,Yes,Yes,Yes,177,3.5,$$
-N/A,N/A,German,No,Yes,GRÜNHAUS,Lower East Side,N/A,Street,(212) 228-0027,No,No,N/A,Yes,23,4,$$
-N/A,N/A,Gay Bars,N/A,Yes,Suite,Manhattan Valley,No,Street,(212) 222-4600,No,Yes,N/A,Yes,50,3.5,$$
-N/A,N/A,Bars,No,Yes,Black & White,East Village,No,Street,(212) 253-0246,No,No,N/A,Yes,119,3.5,$$
-N/A,"Mon, Fri, Sat",Wine Bars,No,No,Wine Escape,"Midtown West, Hell's Kitchen",No,Street,(212) 262-7000,Yes,No,N/A,Yes,163,4.5,$$
-Casual,"Thu, Fri, Sat",Sports Bars,No,N/A,Murphy’s Law,Upper East Side,No,Street,(212) 628-3724,Yes,Yes,N/A,Yes,78,3.5,$$
-Dressy,N/A,Italian,No,Yes,Ristorante Morini,Upper East Side,Yes,"Garage, Street",(212) 249-0444,Yes,No,Yes,Yes,246,4,$$$
-Casual,Wed,Breakfast & Brunch,No,Yes,Pig ‘N’ Whistle,"Theater District, Midtown West",No,Garage,(917) 639-3864,No,Yes,Yes,Yes,73,3.5,$$
-N/A,"Thu, Fri, Sat",Bars,N/A,Yes,Marshall Stack,Lower East Side,No,Street,(212) 228-4667,No,Yes,N/A,No,222,4,$$
-Casual,"Fri, Sat, Sun",American (Traditional),N/A,N/A,Lips,Midtown East,No,"Garage, Street",(212) 675-7710,Yes,No,N/A,Yes,570,4,$$
-N/A,Tue,Cocktail Bars,No,Yes,Baby Jane,Clinton Hill,No,Street,(646) 469-3333,No,Yes,No,Yes,42,4.5,$$
-Casual,"Thu, Fri, Sat",American (Traditional),N/A,Yes,The Parlour,Upper West Side,No,Street,(212) 580-8923,No,Yes,No,Yes,138,3,$$
-N/A,"Thu, Fri, Sat",Dive Bars,Yes,N/A,Mama’s Bar,"Alphabet City, East Village",No,Street,(212) 777-5729,No,Yes,N/A,Yes,105,3.5,$
-N/A,N/A,Lounges,N/A,N/A,Rarities,Midtown East,N/A,N/A,(917) 202-8379,Yes,N/A,N/A,Yes,1,5,$$$$
-N/A,"Thu, Fri, Sat",Pubs,N/A,Yes,Gabby O’Hara’s,Midtown West,No,Street,(212) 278-8984,No,Yes,N/A,Yes,99,3.5,$$
-N/A,N/A,Pizza,No,Yes,Hop House Harlem,Harlem,Yes,Street,(646) 858-0252,No,Yes,Yes,Yes,91,4,$$
-N/A,N/A,Lounges,No,N/A,Flûte Midtown,Midtown West,No,Street,(212) 265-5169,Yes,No,N/A,Yes,248,3.5,$$$
-N/A,"Thu, Fri, Sat",Lounges,N/A,Yes,Cibar,Gramercy,Yes,Street,(212) 460-5656,Yes,No,N/A,Yes,282,4,$$$
-Casual,"Fri, Sat, Sun",Sports Bars,Yes,Yes,The Grayson,East Village,No,Street,(212) 510-8726,No,Yes,Yes,Yes,185,4,$$
-Casual,N/A,American (New),No,Yes,Villanelle,"Union Square, Greenwich Village",No,Street,(212) 989-2474,Yes,No,Yes,Yes,57,4.5,$$$
-Casual,N/A,Gastropubs,No,N/A,The Malt House,Greenwich Village,Yes,Street,(212) 228-7713,Yes,Yes,N/A,Yes,382,4,$$
-N/A,"Thu, Fri, Sat",Wine Bars,No,N/A,The Immigrant,East Village,No,Street,(646) 308-1724,N/A,No,N/A,Yes,351,4,$$
-N/A,"Fri, Sat, Sun",Sports Bars,No,Yes,At the Wallace,Harlem,No,Street,(212) 234-6896,No,Yes,Yes,Yes,161,4.5,$$
-Casual,"Fri, Sat, Sun",Bars,No,No,49 Monroe,Two Bridges,No,Street,(917) 472-7732,No,No,Yes,Yes,137,4.5,$$
-N/A,Fri,Cocktail Bars,No,Yes,Elsa,Cobble Hill,Yes,N/A,(917) 882-7395,No,No,N/A,Yes,66,4.5,$$
-Casual,N/A,Cocktail Bars,No,Yes,W XYZ Bar,Downtown Brooklyn,No,N/A,(718) 256-3833,No,Yes,N/A,Yes,5,4.5,$$
-Casual,N/A,American (New),N/A,N/A,The East Pole,Upper East Side,Yes,Street,(212) 249-2222,Yes,No,N/A,Yes,217,3.5,$$$
-N/A,N/A,American (New),No,Yes,Monk Mcginn’s,TriBeCa,N/A,N/A,(917) 265-8961,Yes,N/A,N/A,Yes,29,4.5,$$$
-Casual,N/A,Pubs,N/A,N/A,Cassidy’s Ale House,Jackson Heights,No,Street,(718) 424-6549,No,Yes,N/A,Yes,57,4,$$
-Casual,"Wed, Fri, Sat",Bars,No,Yes,The Keep,Bushwick,No,Street,(718) 381-0400,No,No,N/A,No,50,4,$$
-N/A,N/A,Lounges,N/A,N/A,Bar Bella,Midtown West,N/A,N/A,(212) 247-8000,N/A,N/A,N/A,N/A,1,4,$$
-Casual,N/A,French,No,Yes,Little Prince,South Village,Yes,Street,(212) 335-0566,Yes,No,N/A,Yes,280,3.5,$$$
-N/A,N/A,Cocktail Bars,No,No,Underdog,Financial District,Yes,N/A,(917) 409-0251,No,No,N/A,Yes,50,3.5,$$
-Casual,"Thu, Fri, Sat",Mexican,No,Yes,Casa Neta,Flatiron,No,N/A,(212) 529-7870,Yes,No,Yes,Yes,98,4,$$
-N/A,N/A,Bars,No,Yes,Cardiff Giant,Clinton Hill,Yes,Street,(929) 337-7873,No,No,Yes,Yes,35,4,$$
+bar_attire,bar_bestnights,bar_category,bar_dancing,bar_happy,bar_name,bar_nhood,bar_outdoor,bar_parking,bar_phone,bar_reservations,bar_tv,bar_wheelchair,creditCard,num_reviews,num_stars,price_range,6-number_stars,popl index
+N/A,"Fri, Sat, Sun",Cocktail Bars,No,No,The Ship,SoHo,No,N/A,(212) 219-8496,Yes,No,Yes,Yes,246,4,$$,2,123
+N/A,N/A,Cocktail Bars,No,No,The Polynesian,"Midtown West, Hell's Kitchen",Yes,N/A,(212) 254-3000,No,No,Yes,Yes,158,3.5,$$,2.5,63.2
+N/A,"Thu, Fri, Sat",Whiskey Bars,No,Yes,Whiskey Tavern,Chinatown,No,Street,(212) 374-9119,Yes,Yes,N/A,Yes,725,4.5,$$,1.5,483.3333333
+N/A,N/A,Cocktail Bars,N/A,Yes,Bar Alaska,Lower East Side,N/A,N/A,(646) 649-5545,Yes,N/A,N/A,Yes,15,5,$$,1,15
+Casual,N/A,Pubs,No,N/A,Caledonia Bar,"Yorkville, Upper East Side",No,Street,(212) 734-4300,No,Yes,N/A,Yes,226,4.5,$$,1.5,150.6666667
+Dressy,N/A,Cafes,N/A,No,Bar Pleiades,Upper East Side,No,Street,(212) 772-2600,Yes,No,N/A,Yes,78,4.5,$$$,1.5,52
+N/A,N/A,Cocktail Bars,No,N/A,Old Man Hustle,Lower East Side,No,Street,(212) 253-7747,No,Yes,N/A,Yes,146,4.5,$,1.5,97.33333333
+N/A,N/A,Cocktail Bars,No,No,Trouble’s Trust,Midtown East,No,N/A,(212) 888-7000,No,No,N/A,Yes,26,4,$$$,2,13
+N/A,"Thu, Fri, Sat",Bars,Yes,Yes,Harlem Nights Bar,Harlem,Yes,Street,(646) 820-4603,No,Yes,Yes,Yes,134,4,$$,2,67
+Casual,N/A,Cafes,No,Yes,Avocado Appétit,Lower East Side,No,Street,(917) 388-3675,No,No,No,Yes,148,4.5,$$,1.5,98.66666667
+N/A,Fri,Irish Pub,No,Yes,Walter’s Cottage,"Hell's Kitchen, Midtown West",No,N/A,(917) 675-6882,No,Yes,N/A,Yes,54,4.5,$$,1.5,36
+Casual,"Tue, Thu, Fri",Bars,No,Yes,Treadwell Park,Upper East Side,Yes,"Garage, Street",(212) 832-1551,No,Yes,No,Yes,315,4,$$,2,157.5
+N/A,"Thu, Fri, Sat",Bars,N/A,N/A,Local 138,Lower East Side,No,Street,(212) 477-0280,Yes,Yes,N/A,Yes,239,4,$,2,119.5
+N/A,"Wed, Thu, Sat",Pubs,N/A,Yes,The Four-Faced Liar,West Village,No,Street,(212) 206-8959,No,Yes,N/A,Yes,207,4,$,2,103.5
+N/A,"Wed, Thu, Fri",Cocktail Bars,No,No,Winnie’s Jazz Bar,Midtown West,No,N/A,(212) 729-0277,Yes,No,Yes,Yes,45,4.5,$$$,1.5,30
+Casual,Fri,American (New),Yes,Yes,The Flower Shop,Lower East Side,No,Street,(212) 257-4072,Yes,Yes,N/A,Yes,80,4,$$,2,40
+Casual,"Thu, Fri, Sat",Dive Bars,Yes,N/A,Iron Horse NYC,Financial District,No,Street,(646) 546-5426,No,Yes,N/A,Yes,347,3.5,$,2.5,138.8
+Casual,"Fri, Sat, Sun",Cuban,No,No,BlackTail,Battery Park,No,Street,(212) 785-0153,Yes,No,Yes,Yes,211,4.5,$$$,1.5,140.6666667
+Casual,N/A,Cocktail Bars,No,Yes,Gleason’s Tavern,"Midtown West, Theater District",No,N/A,(212) 302-2167,Yes,Yes,Yes,Yes,95,4,$$,2,47.5
+Casual,"Wed, Thu, Fri",Breakfast & Brunch,No,No,District M,"Midtown West, Theater District",No,Street,(212) 869-3600,No,Yes,Yes,Yes,58,4,$$,2,29
+N/A,"Fri, Sat",Cocktail Bars,No,N/A,Bar Fortuna,Greenwich Village,No,N/A,(212) 353-8400,No,No,N/A,Yes,30,4.5,$$$,1.5,20
+N/A,N/A,Bars,No,Yes,Scratcher,East Village,No,Street,(212) 477-0030,No,No,N/A,Yes,136,4,$,2,68
+N/A,N/A,Cocktail Bars,No,No,The Rickey,Midtown West,No,N/A,(646) 756-2054,Yes,Yes,Yes,Yes,43,4,$$,2,21.5
+N/A,"Wed, Thu, Fri",Pubs,No,N/A,124 Old Rabbit Club,Greenwich Village,No,Street,(646) 781-9646,No,No,N/A,Yes,292,4,$$,2,146
+N/A,N/A,American (New),No,No,Employees Only,West Village,No,Street,(212) 242-3021,Yes,No,N/A,Yes,1346,4,$$$,2,673
+Casual,"Fri, Sat",American (New),No,No,The Spaniard,West Village,No,Street,(212) 918-1986,Yes,Yes,No,Yes,164,4,$$,2,82
+N/A,N/A,Bars,N/A,N/A,Harbor Bar,"Theater District, Midtown West",No,N/A,(917) 728-5712,N/A,N/A,N/A,Yes,6,4,$$$,2,3
+N/A,N/A,Lounges,No,Yes,Mondrian Terrace,Midtown East,Yes,Valet,(212) 804-8880,Yes,N/A,Yes,Yes,11,4.5,$$,1.5,7.333333333
+N/A,N/A,Cocktail Bars,No,No,Ophelia,Midtown East,Yes,N/A,(212) 980-4796,Yes,No,N/A,Yes,43,3.5,$$$,2.5,17.2
+N/A,"Thu, Fri, Sat",Pubs,No,N/A,Valhalla,"Hell's Kitchen, Theater District, Midtown West",No,Street,(212) 757-2747,No,Yes,N/A,Yes,468,4,$$,2,234
+Casual,"Thu, Fri, Sat",Wine Bars,No,N/A,The Cellar,Flatiron,No,Street,(212) 466-3340,No,No,N/A,Yes,609,4,$$,2,304.5
+N/A,"Tue, Thu, Sat",Lounges,N/A,No,Two E Bar/Lounge,Upper East Side,No,Street,(212) 940-8113,Yes,No,N/A,Yes,128,4,$$$,2,64
+Casual,"Thu, Fri, Sat",Cocktail Bars,No,Yes,The Distillery,"Hell's Kitchen, Theater District, Midtown West",No,Street,(212) 767-0077,Yes,Yes,Yes,Yes,84,4,$$,2,42
+N/A,N/A,Lounges,N/A,N/A,The Auction House,"Yorkville, Upper East Side",No,Street,(212) 427-4458,No,Yes,N/A,Yes,390,4,$$,2,195
+Casual,"Thu, Fri, Sat",American (New),N/A,Yes,The Stag’s Head,Midtown East,Yes,"Garage, Street",(212) 888-2453,Yes,Yes,Yes,Yes,395,4,$$,2,197.5
+Casual,N/A,Bars,No,Yes,Clinton Hall,Midtown East,No,Street,(212) 695-0036,No,Yes,Yes,Yes,59,4,$$,2,29.5
+N/A,N/A,Lounges,N/A,N/A,Playboy Club NYC,"Hell's Kitchen, Midtown West",N/A,N/A,(212) 644-8227,N/A,N/A,N/A,N/A,6,3,$$$,3,2
+N/A,N/A,Cocktail Bars,N/A,N/A,The Terrace,Battery Park,N/A,N/A,(212) 432-1451,Yes,N/A,N/A,Yes,4,4.5,$$,1.5,2.666666667
+N/A,"Wed, Thu, Sat",Cocktail Bars,No,No,The 75 Club,TriBeCa,No,N/A,(212) 406-7575,Yes,No,Yes,Yes,25,4.5,$$,1.5,16.66666667
+N/A,N/A,Beer Bar,N/A,N/A,Craft + Carry,Gramercy,N/A,N/A,(646) 669-8347,No,N/A,N/A,Yes,4,5,$$,1,4
+N/A,N/A,Bars,No,No,Mr Fong’s,Two Bridges,No,Street,(646) 964-4540,No,No,N/A,Yes,63,3.5,$$,2.5,25.2
+Casual,"Thu, Fri, Sat",Bars,No,Yes,Clinton Hall,Financial District,Yes,Street,(212) 363-6000,No,Yes,Yes,Yes,503,4,$$,2,251.5
+Casual,N/A,American (New),No,No,JoJo,Upper East Side,No,N/A,(212) 223-5656,Yes,No,N/A,Yes,48,4.5,$$$,1.5,32
+Casual,N/A,Bars,No,Yes,Caledonia UWS,Upper West Side,No,N/A,(917) 388-2342,No,No,N/A,Yes,49,4.5,$$,1.5,32.66666667
+Casual,N/A,Bars,No,N/A,Hibernia,"Hell's Kitchen, Theater District, Midtown West",Yes,Street,(212) 969-9703,No,Yes,N/A,Yes,154,4.5,$$,1.5,102.6666667
+Casual,"Fri, Sat, Sun",Bars,No,No,Grand Banks,Lower East Side,Yes,Street,(212) 660-6312,Yes,No,No,Yes,358,4,$$$,2,179
+N/A,"Thu, Fri, Sat",Cocktail Bars,No,No,Middle Branch,"Murray Hill, Kips Bay, Midtown East",No,Street,(212) 213-1350,N/A,No,N/A,Yes,342,4,$$,2,171
+N/A,"Tue, Thu, Fri",Lounges,N/A,No,Little Branch,West Village,No,Street,(212) 929-4360,No,No,No,No,998,4,$$$,2,499
+N/A,N/A,Pubs,N/A,Yes,Gramercy Park Bar,Gramercy,No,Street,(646) 484-6948,Yes,Yes,N/A,Yes,48,4,$$,2,24
+N/A,"Thu, Fri, Sat",Bars,No,No,Bemelmans Bar,Upper East Side,No,Street,(212) 744-1600,Yes,No,N/A,Yes,260,4,$$$$,2,130
+N/A,N/A,Lounges,No,Yes,On The Rocks,"Hell's Kitchen, Midtown West",No,Street,(212) 247-2055,No,No,N/A,Yes,220,4,$$,2,110
+Dressy,N/A,American (Traditional),N/A,Yes,Monkey Bar,Midtown East,No,N/A,(212) 288-1010,Yes,No,N/A,Yes,246,3.5,$$$,2.5,98.4
+N/A,N/A,Lounges,N/A,N/A,The Otheroom,West Village,Yes,Street,(212) 645-9758,No,No,N/A,Yes,262,4,$$,2,131
+N/A,N/A,Lounges,N/A,Yes,III Pillars Bar,"Theater District, Midtown West",No,N/A,(212) 278-0010,No,No,Yes,Yes,5,5,$$$,1,5
+Casual,N/A,American (Traditional),No,N/A,Hudson Bar Room,"Midtown West, Hell's Kitchen",No,N/A,(855) 811-0007,No,No,N/A,Yes,10,4,$$,2,5
+N/A,"Wed, Thu, Fri",Lounges,No,No,Please Don’t Tell,"East Village, Alphabet City",No,Street,(212) 614-0386,Yes,No,N/A,Yes,1591,4,$$$,2,795.5
+N/A,"Wed, Fri, Sat",Cocktail Bars,No,Yes,Porchlight,Chelsea,No,"Garage, Street",(212) 981-6188,No,No,Yes,Yes,162,3.5,$$,2.5,64.8
+Casual,"Thu, Fri, Sat",Bars,Yes,Yes,Prohibition,Upper West Side,Yes,Street,(212) 579-3100,Yes,Yes,Yes,Yes,346,3.5,$$,2.5,138.4
+N/A,"Thu, Fri, Sat",Bars,N/A,Yes,The Wayland,"Alphabet City, East Village",No,Street,(212) 777-7022,No,No,N/A,Yes,465,4.5,$$,1.5,310
+N/A,N/A,Cocktail Bars,No,No,Bar at Clement,Midtown West,No,N/A,(212) 903-3918,No,No,N/A,Yes,13,4,$$$,2,6.5
+N/A,N/A,Dive Bars,N/A,Yes,Holland Bar,"Midtown West, Hell's Kitchen",No,Street,(212) 502-4609,No,Yes,N/A,No,91,4,$,2,45.5
+N/A,N/A,Lounges,N/A,Yes,Ward III,TriBeCa,No,N/A,(212) 240-9194,Yes,No,Yes,Yes,420,4,$$,2,210
+N/A,"Wed, Fri, Sat",Bars,Yes,N/A,Juke Bar,East Village,Yes,Street,(212) 228-7464,N/A,Yes,N/A,Yes,224,4.5,$$,1.5,149.3333333
+Casual,"Thu, Fri, Sat",Cocktail Bars,No,Yes,Réunion,"Midtown West, Hell's Kitchen, Theater District",No,Street,(212) 582-3200,No,Yes,N/A,Yes,634,4,$$,2,317
+N/A,N/A,Bars,No,Yes,Elsie Rooftop,Midtown West,Yes,N/A,(212) 764-1090,Yes,No,No,Yes,22,4,$$$,2,11
+N/A,"Thu, Fri, Sat",Lounges,Yes,Yes,Rooftop 93,"Chinatown, Lower East Side",Yes,Street,(212) 966-9033,Yes,No,Yes,Yes,177,4,$$,2,88.5
+N/A,N/A,Cocktail Bars,N/A,N/A,Lantern’s Keep,Midtown West,No,"Garage, Street",(212) 453-4287,No,No,N/A,Yes,184,4,$$$,2,92
+N/A,"Wed, Thu, Sun",Cocktail Bars,No,Yes,Mess Hall,Harlem,Yes,N/A,(646) 692-3098,No,Yes,N/A,Yes,124,4,$$,2,62
+N/A,"Mon, Fri, Sat",Wine Bars,No,No,Pocket Bar NYC,"Hell's Kitchen, Midtown West",No,Street,(646) 682-9062,No,No,No,Yes,255,4.5,$$,1.5,170
+N/A,"Thu, Fri, Sat",Beer Bar,No,N/A,Beer Culture,"Midtown West, Theater District, Hell's Kitchen",No,Street,(646) 590-2139,No,Yes,N/A,Yes,317,4,$$,2,158.5
+Casual,"Thu, Fri, Sat",Cocktail Bars,No,Yes,Juniper,Midtown West,No,N/A,(212) 967-2511,Yes,Yes,Yes,Yes,426,4,$$,2,213
+Casual,"Wed, Thu, Fri",Lounges,No,No,The Bar Downstairs,Midtown East,No,"Valet, Street",(212) 601-1234,Yes,No,N/A,Yes,328,4,$$$,2,164
+N/A,N/A,Pubs,Yes,Yes,The Blasket,Midtown East,No,N/A,(212) 888-7405,No,No,N/A,Yes,36,5,$$,1,36
+Casual,"Wed, Sat, Sun",American (New),No,Yes,The Milling Room,Upper West Side,No,Street,(212) 595-0380,Yes,Yes,Yes,Yes,355,4,$$$,2,177.5
+Casual,N/A,Speakeasies,No,Yes,Sugar East,Upper East Side,No,"Garage, Street",(212) 832-4610,Yes,No,No,Yes,50,3.5,$$,2.5,20
+N/A,"Tue, Wed, Thu",Lounges,No,N/A,Apothèke,"Chinatown, Civic Center",No,Street,(212) 406-0400,N/A,No,N/A,Yes,1333,4,$$$,2,666.5
+N/A,"Thu, Fri, Sat",Cocktail Bars,No,Yes,The Belfry,East Village,No,Street,(212) 473-6590,Yes,No,Yes,Yes,458,4,$$,2,229
+N/A,"Wed, Fri, Sat",Cocktail Bars,No,No,The Roof,Midtown West,Yes,Garage,(212) 707-8008,Yes,No,Yes,Yes,175,3,$$$,3,58.33333333
+N/A,"Wed, Thu, Fri",Cocktail Bars,No,N/A,The Skylark,Midtown West,Yes,Street,(212) 257-4577,Yes,Yes,Yes,Yes,406,4,$$$,2,203
+N/A,"Thu, Fri, Sat",Lounges,No,Yes,Keybar,"East Village, Alphabet City",No,Street,(212) 478-3021,Yes,No,N/A,Yes,513,4,$,2,256.5
+Casual,"Fri, Sat, Sun",Gastropubs,No,N/A,The Penrose,"Yorkville, Upper East Side",Yes,Street,(212) 203-2751,Yes,No,No,Yes,980,4,$$,2,490
+N/A,N/A,Sports Bars,N/A,Yes,Bar263nyc,Kips Bay,N/A,Street,(212) 779-0300,No,Yes,No,Yes,19,4.5,$,1.5,12.66666667
+N/A,N/A,Italian,N/A,N/A,Scopa,Chelsea,N/A,N/A,(646) 858-3300,Yes,Yes,N/A,N/A,12,4.5,$$,1.5,8
+Casual,"Thu, Fri, Sat",Sports Bars,No,Yes,District Tap House,Midtown West,No,Street,(212) 221-1822,Yes,Yes,Yes,Yes,727,4,$$,2,363.5
+Casual,N/A,American (Traditional),No,Yes,BH Kitchen & Bar,Midtown East,No,N/A,(212) 755-2166,Yes,Yes,Yes,Yes,56,4.5,$$,1.5,37.33333333
+Casual,N/A,Bars,N/A,Yes,Forgtmenot,"Chinatown, Lower East Side",Yes,Street,(646) 707-3195,No,Yes,N/A,Yes,166,4,$$,2,83
+N/A,"Wed, Thu, Fri",Irish Pub,No,N/A,Peter Dillon’s,"Murray Hill, Midtown East",No,"Garage, Street",(212) 213-3998,No,Yes,N/A,Yes,184,4,$,2,92
+N/A,"Mon, Wed, Sat",Dive Bars,No,N/A,Broadway Dive Bar,Manhattan Valley,No,Street,(212) 865-2662,No,Yes,N/A,Yes,126,4,$,2,63
+Casual,Sat,Cocktail Bars,No,No,Oscar Wilde,Flatiron,No,Street,(212) 213-3066,Yes,No,N/A,Yes,366,4,$$,2,183
+Casual,"Thu, Fri, Sat",Indian,No,N/A,The Drunken Munkey,"Yorkville, Upper East Side",No,Street,(646) 998-4600,Yes,Yes,N/A,Yes,785,4.5,$$,1.5,523.3333333
+N/A,"Fri, Sat",Sports Bars,No,Yes,Bodega 88,Upper West Side,No,Street,(212) 799-1602,No,Yes,Yes,Yes,105,4.5,$$,1.5,70
+N/A,"Thu, Fri, Sat",Pubs,No,Yes,The Waylon,"Hell's Kitchen, Midtown West",Yes,Street,(212) 265-0010,N/A,Yes,Yes,Yes,84,4.5,$$,1.5,56
+N/A,"Thu, Fri, Sat",Lounges,No,N/A,The Press Lounge,"Hell's Kitchen, Midtown West",Yes,"Garage, Street",(212) 757-2224,No,No,N/A,Yes,854,4,$$$,2,427
+N/A,N/A,Cocktail Bars,No,Yes,Jack and Fanny’s,"Yorkville, Upper East Side",No,Street,(917) 259-0028,Yes,Yes,Yes,Yes,31,4,$$,2,15.5
+Casual,N/A,Breakfast & Brunch,No,Yes,The Horny Ram,Midtown East,Yes,Street,(917) 261-4136,Yes,Yes,Yes,Yes,259,4,$$,2,129.5
+Dressy,"Thu, Fri, Sat",Cocktail Bars,No,No,Bar SixtyFive,Midtown West,Yes,Garage,(212) 632-5000,Yes,No,Yes,Yes,280,4,$$$,2,140
+N/A,"Thu, Fri, Sat",Bars,No,Yes,Botanica Bar,Nolita,No,Street,(212) 343-7251,No,No,N/A,Yes,340,4,$,2,170
+Casual,"Mon, Fri, Sat",Korean,No,Yes,The Maze,"Koreatown, Midtown West",No,"Garage, Street",(646) 918-7519,Yes,Yes,Yes,Yes,286,4,$$,2,143
+N/A,N/A,Bars,N/A,Yes,Radio Amsterdam,Upper West Side,No,N/A,(212) 875-0008,No,N/A,N/A,Yes,15,4.5,$$,1.5,10
+N/A,"Mon, Fri, Sat",Bars,N/A,Yes,The Pony Bar,"Upper East Side, Yorkville",No,Street,(212) 288-0090,No,Yes,N/A,Yes,326,4,$$,2,163
+Casual,"Fri, Sat, Sun",Beer Bar,No,Yes,As Is NYC,"Hell's Kitchen, Midtown West",No,Street,(646) 858-1153,No,No,Yes,Yes,166,4,$$,2,83
+N/A,"Thu, Fri, Sat",Dive Bars,No,Yes,The Library,"East Village, Alphabet City",No,Street,(212) 375-1352,No,Yes,Yes,Yes,391,4,$,2,195.5
+N/A,"Thu, Fri, Sat",Cocktail Bars,No,No,The NoMad Bar,Flatiron,No,Street,(212) 796-1500,No,No,No,Yes,391,4.5,$$$,1.5,260.6666667
+N/A,"Tue, Wed, Thu",Wine Bars,No,No,Vanguard Wine Bar,Upper West Side,No,Street,(212) 799-9463,No,Yes,N/A,Yes,145,4,$$,2,72.5
+Casual,"Thu, Fri, Sat",Italian,No,Yes,Bar B,Chelsea,No,"Garage, Street",(212) 229-1888,No,No,N/A,Yes,149,4.5,$$,1.5,99.33333333
+Casual,"Thu, Fri, Sat",American (New),No,N/A,Bea,"Midtown West, Hell's Kitchen, Theater District",No,Street,(212) 602-1910,Yes,No,N/A,Yes,1964,4,$$,2,982
+Casual,"Mon, Thu",Bars,No,Yes,Bedford Falls,Upper East Side,Yes,Street,(212) 717-8181,No,Yes,N/A,Yes,68,4,$$,2,34
+N/A,"Fri, Sat",Lounges,No,No,The Living Room,Midtown West,No,N/A,(646) 774-1234,Yes,No,N/A,Yes,24,4,$$$,2,12
+N/A,N/A,Beer Bar,N/A,Yes,American Hall,Midtown West,No,N/A,(646) 259-3999,Yes,Yes,Yes,Yes,3,4.5,$$,1.5,2
+N/A,"Tue, Wed, Thu",Cocktail Bars,No,No,Angel’s Share,East Village,No,Street,(212) 777-5415,No,No,No,Yes,1943,4.5,$$,1.5,1295.333333
+N/A,"Thu, Fri, Sat",Sports Bars,No,Yes,Jimmy’s Corner,"Theater District, Midtown West",No,Street,(212) 221-9510,No,Yes,N/A,Yes,534,4,$,2,267
+N/A,"Thu, Fri, Sat",Bars,No,N/A,Draught 55,Midtown East,No,"Garage, Street",(212) 300-4096,Yes,Yes,N/A,Yes,323,4,$$,2,161.5
+N/A,N/A,Beer Bar,No,No,City Beer,"Murray Hill, Midtown East",No,N/A,(212) 534-2337,No,No,N/A,Yes,14,5,$$,1,14
+Casual,"Mon, Tue, Fri",British,No,N/A,Cock & Bull,Midtown West,No,Street,(212) 819-1900,Yes,Yes,N/A,Yes,447,4,$$,2,223.5
+Casual,"Thu, Fri, Sat",Cocktail Bars,No,Yes,Crimson & Rye,Midtown East,Yes,Street,(212) 687-6692,Yes,No,N/A,Yes,115,3.5,$$,2.5,46
+N/A,"Thu, Fri, Sat",Cocktail Bars,No,No,The Up & Up,Greenwich Village,No,Street,(212) 260-3000,N/A,No,No,Yes,347,4,$$,2,173.5
+Casual,"Wed, Sat",Seafood,No,Yes,The Juicy Seafood,Midtown East,No,Street,(646) 850-4080,Yes,Yes,Yes,Yes,25,4.5,$$$,1.5,16.66666667
+N/A,N/A,British,N/A,N/A,Bluebird London NYC,"Hell's Kitchen, Midtown West",No,N/A,(347) 682-2100,Yes,No,Yes,Yes,39,4,$$$,2,19.5
+N/A,N/A,Speakeasies,N/A,N/A,Storage Bar,"Yorkville, Upper East Side",N/A,N/A,(646) 559-5889,N/A,N/A,N/A,N/A,5,3,$$,3,1.666666667
+N/A,N/A,Karaoke,N/A,Yes,Anytime Karaoke,"Koreatown, Midtown West",No,Street,(646) 590-4703,Yes,Yes,No,Yes,16,4.5,$$,1.5,10.66666667
+N/A,N/A,Cocktail Bars,N/A,No,Haswell Green’s,"Theater District, Midtown West",No,N/A,(212) 245-2801,Yes,Yes,Yes,Yes,62,5,$$,1,62
+N/A,N/A,Bars,N/A,N/A,Sky 55 Bar & Grill,Financial District,N/A,N/A,(646) 590-6556,Yes,N/A,N/A,N/A,8,5,$$,1,8
+Casual,"Thu, Fri, Sat",Cocktail Bars,No,No,Dutch Freds,"Theater District, Midtown West, Hell's Kitchen",No,Street,(646) 918-6923,Yes,No,Yes,Yes,949,4.5,$$,1.5,632.6666667
+Casual,N/A,American (New),N/A,Yes,Henry’s Rooftop Bar,Midtown East,Yes,N/A,(212) 755-1400,No,No,Yes,Yes,43,4,$$,2,21.5
+N/A,"Tue, Fri, Sat",Speakeasies,No,No,Bathtub Gin,Chelsea,No,Street,(646) 559-1671,Yes,No,N/A,Yes,846,3.5,$$$,2.5,338.4
+N/A,N/A,Gastropubs,No,Yes,East Village Tavern,"Alphabet City, East Village",No,Street,(646) 590-7929,Yes,Yes,No,Yes,17,5,$$,1,17
+Casual,"Tue, Fri, Sat",Bars,No,Yes,e’s BAR,Upper West Side,Yes,Street,(212) 877-0961,No,Yes,Yes,Yes,281,4,$$,2,140.5
+N/A,"Tue, Wed, Thu",Cocktail Bars,No,No,Tavern On 51,Midtown East,No,"Garage, Street",(212) 888-7000,No,Yes,Yes,Yes,13,4,$$$,2,6.5
+N/A,"Thu, Fri, Sat",Dive Bars,N/A,N/A,Barcelona Bar,"Midtown West, Hell's Kitchen",No,Street,(212) 245-3212,No,Yes,N/A,Yes,393,4,$,2,196.5
+Casual,"Fri, Sat, Sun",Cocktail Bars,No,Yes,Ampersand,Gramercy,No,Street,(212) 477-8100,No,No,Yes,Yes,168,4.5,$$,1.5,112
+N/A,"Thu, Fri, Sat",Lounges,No,N/A,The Rum House,"Theater District, Midtown West",No,Street,(646) 490-6924,No,No,N/A,Yes,488,4,$$,2,244
+N/A,"Thu, Fri, Sat",Bars,N/A,N/A,One Star,Chelsea,No,Street,(212) 777-0100,No,Yes,N/A,Yes,127,4.5,$,1.5,84.66666667
+Casual,N/A,American (New),No,Yes,The Bar Room,Upper East Side,No,Street,(212) 561-5523,Yes,Yes,N/A,Yes,438,4,$$,2,219
+N/A,Sat,Bars,N/A,N/A,Our/New York,Chelsea,N/A,N/A,(646) 753-5556,Yes,N/A,N/A,Yes,16,5,$$,1,16
+N/A,Fri,Bars,N/A,N/A,Treadwell Park West,"Hell's Kitchen, Midtown West",N/A,N/A,(212) 388-6751,No,N/A,N/A,N/A,10,4.5,$$,1.5,6.666666667
+N/A,N/A,Bars,N/A,No,The Wilson,Chelsea,Yes,N/A,(212) 529-2671,Yes,Yes,Yes,Yes,11,5,$$,1,11
+N/A,N/A,American (New),N/A,Yes,VERSA,Midtown West,Yes,N/A,(646) 850-2850,Yes,Yes,N/A,Yes,28,4,$$,2,14
+N/A,"Thu, Fri, Sat",Sports Bars,No,N/A,The Three Monkeys,"Theater District, Midtown West",Yes,Street,(212) 586-2080,Yes,Yes,N/A,Yes,945,4,$$,2,472.5
+N/A,"Thu, Fri, Sat",Wine Bars,N/A,N/A,The Tippler,"Meatpacking District, Chelsea",No,Street,(212) 206-0000,No,No,N/A,Yes,590,4,$$,2,295
+N/A,"Thu, Fri, Sat",Bars,No,Yes,The Ginger Man,Midtown East,No,Street,(212) 532-3740,No,No,N/A,Yes,1272,4,$$,2,636
+N/A,N/A,Speakeasies,No,No,Patent Pending,Flatiron,No,Street,(212) 689-4002,No,No,Yes,Yes,98,4,$$$,2,49
+N/A,"Mon, Thu",Bars,No,Yes,Sutton Bar Room,Midtown East,No,Street,(212) 980-9850,Yes,Yes,Yes,Yes,37,4.5,$$,1.5,24.66666667
+N/A,"Wed, Fri, Sat",Cocktail Bars,No,Yes,The Hamilton,Manhattan Valley,No,Street,(646) 912-9421,No,No,Yes,Yes,106,4.5,$$,1.5,70.66666667
+N/A,N/A,Cocktail Bars,N/A,N/A,The Owl’s Tail,Upper West Side,N/A,N/A,(646) 609-3906,N/A,N/A,N/A,Yes,16,5,$$$,1,16
+Casual,"Tue, Fri, Sat",Bars,No,Yes,District Social,Midtown West,No,Street,(212) 994-9599,Yes,Yes,Yes,Yes,446,4,$$,2,223
+N/A,N/A,Cocktail Bars,N/A,N/A,The 18th Room,Chelsea,No,N/A,(646) 559-1671,Yes,N/A,N/A,Yes,18,4.5,$$$,1.5,12
+N/A,"Thu, Fri, Sat",Cocktail Bars,No,No,The Dead Rabbit,Financial District,No,Street,(646) 422-7906,No,No,No,Yes,1259,4,$$,2,629.5
+N/A,"Thu, Fri, Sat",Bars,No,Yes,The Dead Poet,Upper West Side,Yes,Street,(212) 595-5670,No,Yes,N/A,Yes,387,4,$$,2,193.5
+Casual,"Fri, Sat, Sun",Cocktail Bars,No,No,Tanner Smiths,Midtown West,No,Street,(646) 590-2034,Yes,Yes,Yes,Yes,1251,4,$$,2,625.5
+Casual,N/A,Beer Gardens,N/A,Yes,Clinton Hall,Midtown West,No,N/A,(212) 695-0036,No,Yes,Yes,Yes,13,5,$$,1,13
+N/A,"Thu, Fri, Sat",Bars,No,N/A,Frying Pan,Midtown West,Yes,N/A,(212) 989-6363,Yes,No,Yes,Yes,1388,4,$$,2,694
+N/A,N/A,Cocktail Bars,No,Yes,Stay Gold,Kips Bay,Yes,Street,(917) 261-7441,Yes,No,No,Yes,25,4,$$,2,12.5
+Casual,Sat,Italian,No,No,Da Capo Columbus,Upper West Side,No,N/A,(646) 882-0197,Yes,No,No,Yes,76,4.5,$$,1.5,50.66666667
+Casual,"Wed, Thu, Fri",Gastropubs,Yes,Yes,5th & Mad,Midtown East,No,Street,(212) 725-2353,Yes,Yes,Yes,Yes,174,3.5,$$,2.5,69.6
+Casual,Thu,Irish Pub,No,Yes,Gramercy Ale House,Gramercy,No,Garage,(212) 260-1129,N/A,Yes,Yes,Yes,66,3.5,$$,2.5,26.4
+N/A,N/A,Burgers,N/A,Yes,Dive 106,Manhattan Valley,N/A,N/A,(917) 965-2840,No,Yes,N/A,Yes,15,4.5,$$,1.5,10
+N/A,N/A,Bars,N/A,N/A,Mekelburg’s Domino,Williamsburg - South Side,N/A,N/A,(929) 457-6315,No,N/A,N/A,N/A,4,5,$,1,4
+N/A,N/A,American (New),N/A,Yes,Harwood on Hudson,West Village,N/A,N/A,(646) 590-0640,Yes,N/A,Yes,Yes,27,4.5,$$$,1.5,18
+N/A,N/A,Pubs,No,Yes,Gaf East,"Yorkville, Upper East Side",Yes,N/A,(212) 722-6300,No,Yes,N/A,Yes,24,4,$,2,12
+Casual,N/A,Australian,No,Yes,Burke & Wills,Upper West Side,No,Street,(646) 823-9251,Yes,No,N/A,Yes,372,4,$$$,2,186
+Casual,N/A,Pubs,N/A,N/A,Ryan’s Daughter,"Yorkville, Upper East Side",No,Street,(212) 628-2613,No,Yes,N/A,Yes,219,4,$$,2,109.5
+N/A,N/A,Italian,N/A,Yes,A Summer Day Café,TriBeCa,No,N/A,(646) 882-0420,Yes,Yes,Yes,Yes,19,3.5,$$,2.5,7.6
+Casual,Thu,Irish,No,Yes,John Sullivan’s,Midtown West,No,Street,(212) 993-7223,Yes,Yes,Yes,Yes,141,4,$$,2,70.5
+N/A,"Wed, Thu, Fri",Lounges,N/A,Yes,Vol de Nuit,Greenwich Village,Yes,Street,(212) 982-3388,No,No,N/A,Yes,474,4,$$,2,237
+Casual,"Thu, Fri, Sat",Irish,No,N/A,Stout NYC,Midtown West,No,"Garage, Street",(212) 629-6191,Yes,Yes,N/A,Yes,875,3.5,$$,2.5,350
+N/A,N/A,Cocktail Bars,No,No,Slowly Shirley,West Village,No,Street,(212) 243-2827,Yes,No,N/A,Yes,86,3.5,$$,2.5,34.4
+Casual,"Thu, Fri, Sat",Bars,Yes,Yes,The Mean Fiddler,"Theater District, Midtown West",No,Street,(212) 354-2950,Yes,Yes,Yes,Yes,392,4,$$,2,196
+N/A,N/A,Lounges,No,Yes,Azul On the Rooftop,South Village,Yes,N/A,(212) 608-4848,Yes,No,N/A,Yes,41,3,$$$,3,13.66666667
+Casual,N/A,American (New),No,Yes,The Wooly Public,"Financial District, TriBeCa",No,N/A,(212) 571-2930,Yes,No,N/A,Yes,57,4,$$,2,28.5
+N/A,"Thu, Fri, Sat",Pubs,No,N/A,Bloom’s Tavern,Midtown East,No,"Garage, Street",(212) 308-9400,Yes,Yes,N/A,Yes,108,3.5,$$,2.5,43.2
+Casual,"Thu, Fri, Sat",Pubs,N/A,N/A,George Keeley,Upper West Side,No,Street,(212) 873-0251,No,Yes,N/A,Yes,320,4,$$,2,160
+N/A,Sun,Cocktail Bars,N/A,Yes,Botte Bar,Astoria,N/A,N/A,(718) 433-9079,N/A,N/A,N/A,N/A,21,4.5,$$,1.5,14
+N/A,"Thu, Fri, Sat",Bars,No,Yes,The Craftsman,Harlem,No,Street,(212) 933-0602,No,No,N/A,Yes,104,4,$$,2,52
+N/A,"Thu, Fri, Sat",Lounges,No,N/A,Pioneers,"Chelsea, Midtown West",No,Street,(212) 714-2222,No,Yes,N/A,Yes,233,3.5,$$,2.5,93.2
+Casual,"Thu, Fri, Sat",Bars,No,No,Pier A Harbor House,Battery Park,Yes,Street,(212) 785-0153,Yes,Yes,Yes,Yes,571,3,$$,3,190.3333333
+N/A,N/A,Bars,No,Yes,Park Bar,"Union Square, Flatiron",No,Street,(212) 367-9085,No,No,Yes,Yes,166,3.5,$$,2.5,66.4
+N/A,"Thu, Fri, Sat",Cocktail Bars,No,No,The Garret,West Village,No,N/A,(212) 675-6157,No,No,N/A,Yes,201,3.5,$$,2.5,80.4
+Casual,"Thu, Sat",Seafood,No,Yes,Hudson’s At Pier 81,Hell's Kitchen,Yes,"Garage, Private Lot",(212) 630-8840,Yes,No,Yes,Yes,105,4,$$,2,52.5
+N/A,"Thu, Fri, Sat",Lounges,Yes,Yes,On Now Lounge,Midtown West,No,N/A,(646) 863-2352,Yes,Yes,No,Yes,52,4,$$,2,26
+Casual,"Fri, Sat, Sun",American (New),No,Yes,The Smith,Midtown East,No,Street,(212) 644-2700,Yes,No,N/A,Yes,2137,4,$$,2,1068.5
+N/A,N/A,Cocktail Bars,No,Yes,The Mockingbird,"Alphabet City, East Village",No,N/A,(646) 882-0593,Yes,Yes,N/A,Yes,21,4,$$,2,10.5
+Casual,"Thu, Fri, Sat",Sports Bars,No,Yes,McGettigan’s NYC,Midtown West,Yes,Street,(212) 913-0533,Yes,Yes,Yes,Yes,184,4,$$,2,92
+N/A,"Wed, Thu, Fri",Cocktail Bars,No,No,The Campbell,Midtown East,Yes,Street,(212) 297-1781,Yes,No,Yes,Yes,819,4,$$$,2,409.5
+N/A,"Thu, Fri, Sat",Coffee & Tea,No,Yes,Five & Dime,"Civic Center, Financial District, TriBeCa",No,N/A,(212) 433-3463,No,Yes,Yes,Yes,44,4.5,$$,1.5,29.33333333
+Casual,"Thu, Fri, Sat",Pubs,No,N/A,Tavern29,"Flatiron, Midtown East",Yes,"Garage, Street",(212) 685-4422,Yes,Yes,N/A,Yes,784,3.5,$$,2.5,313.6
+Casual,N/A,Pubs,No,N/A,Toad Hall,SoHo,No,N/A,(212) 431-8145,No,Yes,N/A,Yes,89,4,$$,2,44.5
+N/A,N/A,Cafes,N/A,N/A,Noted Tribeca,TriBeCa,N/A,N/A,(636) 398-7807,N/A,N/A,N/A,N/A,9,5,$$,1,9
+N/A,N/A,Irish Pub,N/A,Yes,Grace’s,West Village,No,N/A,(646) 870-0333,Yes,N/A,Yes,Yes,8,4.5,$$,1.5,5.333333333
+N/A,"Thu, Fri, Sat",Cocktail Bars,No,No,Cedar Local,Financial District,No,"Garage, Street",(212) 344-3467,Yes,No,No,Yes,108,4,$$,2,54
+N/A,N/A,American (New),N/A,Yes,Wanderlust,Midtown East,N/A,N/A,(646) 596-7855,N/A,N/A,N/A,Yes,29,3.5,$$,2.5,11.6
+Casual,"Mon, Fri, Sun",Pubs,No,Yes,The Shakespeare,"Murray Hill, Midtown East",Yes,"Garage, Street",(646) 837-6779,Yes,Yes,Yes,Yes,318,4,$$,2,159
+N/A,"Thu, Fri, Sat",Cocktail Bars,No,Yes,Roof at Park South,Flatiron,Yes,N/A,(212) 204-5222,No,No,Yes,Yes,149,3.5,$$$,2.5,59.6
+N/A,"Thu, Fri, Sat",Whiskey Bars,N/A,Yes,The Whiskey Ward,Lower East Side,No,Street,(212) 477-2998,No,Yes,Yes,Yes,280,4,$$,2,140
+Casual,"Thu, Fri, Sat",Bars,N/A,N/A,Rattle and Hum,Midtown East,No,Street,(212) 481-1586,Yes,Yes,N/A,Yes,679,4,$$,2,339.5
+Casual,N/A,Cocktail Bars,No,Yes,The Gray Mare,East Village,Yes,N/A,(212) 388-0662,Yes,Yes,N/A,Yes,49,4.5,$$,1.5,32.66666667
+Casual,N/A,Bars,N/A,Yes,Mother’s Ruin,Nolita,No,Street,(212) 219-0942,No,No,N/A,Yes,406,3.5,$$,2.5,162.4
+N/A,N/A,Whiskey Bars,N/A,N/A,Blue Bar,Midtown West,No,Street,(212) 840-6800,Yes,No,N/A,Yes,141,3.5,$$$,2.5,56.4
+Casual,N/A,Korean,N/A,N/A,Soju Haus,"Koreatown, Midtown East, Midtown West",No,Street,(212) 213-2177,Yes,No,N/A,Yes,456,4,$$,2,228
+N/A,"Mon, Tue, Wed",Cocktail Bars,No,N/A,Amor y Amargo,"East Village, Alphabet City",No,Street,(212) 614-6818,No,No,N/A,Yes,425,4.5,$$,1.5,283.3333333
+N/A,"Thu, Fri, Sat",Cocktail Bars,No,N/A,Subject,Lower East Side,No,Street,(646) 422-7898,Yes,No,N/A,Yes,145,4.5,$$,1.5,96.66666667
+Casual,"Fri, Sat, Sun",Pubs,N/A,Yes,The Winslow,Gramercy,Yes,Street,(212) 777-7717,Yes,Yes,N/A,Yes,444,4.5,$$,1.5,296
+N/A,"Thu, Fri, Sat",Cocktail Bars,No,Yes,Sweetwater Social,Greenwich Village,No,"Garage, Street",(212) 253-0477,Yes,Yes,No,Yes,115,3.5,$$,2.5,46
+N/A,N/A,Cocktail Bars,N/A,Yes,Beacon Bar,Upper West Side,No,N/A,(212) 787-1100,Yes,Yes,N/A,Yes,47,3.5,$$,2.5,18.8
+Casual,"Wed, Thu, Sat",Irish,N/A,N/A,The Beekman Pub,Financial District,No,Street,(212) 732-7333,Yes,Yes,N/A,Yes,100,3,$$,3,33.33333333
+N/A,N/A,Cocktail Bars,No,No,Banzarbar,Lower East Side,No,N/A,(212) 420-0012,Yes,No,N/A,Yes,13,5,$$$,1,13
+Casual,"Wed, Thu, Sat",Cocktail Bars,No,No,Bar Goto,Lower East Side,No,Street,(212) 475-4411,No,No,N/A,Yes,176,4.5,$$,1.5,117.3333333
+Casual,"Thu, Fri, Sat",Cocktail Bars,No,Yes,Ted’s Corner Tavern,"Murray Hill, Midtown East",No,Garage,(212) 689-2676,No,No,N/A,Yes,169,4.5,$$,1.5,112.6666667
+N/A,"Thu, Fri, Sat",Cocktail Bars,No,No,Maison Pickle,Upper West Side,Yes,Street,(212) 496-9100,Yes,No,Yes,Yes,568,4,$$,2,284
+N/A,"Wed, Fri, Sat",Cocktail Bars,No,Yes,Good Night Sonny,East Village,No,Street,(646) 692-3254,No,No,Yes,Yes,213,4,$$,2,106.5
+N/A,"Wed, Thu, Fri",Bars,No,No,Copper & Oak,Lower East Side,Yes,Street,(212) 460-5546,No,No,Yes,Yes,82,4.5,$$$,1.5,54.66666667
+N/A,"Thu, Fri, Sat",Dive Bars,No,Yes,Billymark’s West,"Chelsea, Midtown West",No,"Garage, Street",(347) 986-3866,No,Yes,N/A,No,158,3.5,$,2.5,63.2
+N/A,N/A,American (New),N/A,Yes,Doyler’s 37,"Midtown West, Hell's Kitchen",Yes,Garage,(917) 409-5065,Yes,Yes,Yes,Yes,5,3.5,$$,2.5,2
+N/A,"Thu, Fri, Sat",Cocktail Bars,Yes,Yes,Ascent Lounge,Midtown West,No,N/A,(212) 823-9770,Yes,Yes,Yes,Yes,42,4,$$$,2,21
+Casual,N/A,American (Traditional),No,Yes,TGA NYC,"Midtown West, Hell's Kitchen",Yes,N/A,(212) 651-4842,Yes,Yes,Yes,Yes,39,4,$$,2,19.5
+Casual,"Fri, Sat, Sun",Bars,No,Yes,The Brazen Tavern,"Midtown West, Hell's Kitchen, Theater District",Yes,Street,(646) 678-5989,Yes,Yes,Yes,Yes,233,4.5,$$,1.5,155.3333333
+N/A,N/A,Pubs,N/A,N/A,Perdition,"Hell's Kitchen, Midtown West",No,Street,(212) 582-5660,N/A,Yes,N/A,Yes,85,4,$$,2,42.5
+N/A,"Thu, Fri, Sat",Lounges,No,N/A,Refinery Rooftop,Midtown West,Yes,Street,(646) 664-0372,Yes,No,N/A,Yes,665,3.5,$$$,2.5,266
+N/A,"Thu, Fri, Sat",Bars,No,N/A,Wood and Ales,West Village,No,Street,(212) 206-0430,Yes,Yes,N/A,Yes,128,4,$,2,64
+Casual,"Fri, Sat, Sun",Pubs,No,N/A,Smithfield Hall,Chelsea,No,"Garage, Street",(212) 929-9677,Yes,Yes,N/A,Yes,419,4,$$,2,209.5
+N/A,"Thu, Fri, Sat",Dive Bars,N/A,Yes,The Duck,East Harlem,No,Street,(212) 831-3464,No,Yes,N/A,No,93,3.5,$,2.5,37.2
+Casual,N/A,Cocktail Bars,No,No,Bar Moga,Greenwich Village,No,N/A,(929) 399-5853,No,No,N/A,Yes,99,4,$$,2,49.5
+N/A,N/A,Venues & Event Spaces,N/A,N/A,Duende,West Village,N/A,N/A,(212) 463-0090,N/A,N/A,N/A,N/A,2,5,$$$,1,2
+N/A,Wed,Bars,No,Yes,GENUINE Liquorette,Little Italy,No,N/A,(646) 726-4633,No,No,N/A,Yes,112,4,$$,2,56
+N/A,N/A,Desserts,N/A,No,The Dessert Bar,Flatiron,N/A,N/A,(929) 423-8880,Yes,N/A,N/A,Yes,16,4.5,$$,1.5,10.66666667
+N/A,N/A,Cocktail Bars,Yes,No,Good Behavior,"Flatiron, Midtown West",N/A,N/A,(212) 213-4429,Yes,N/A,N/A,Yes,11,4,$$,2,5.5
+Casual,"Thu, Fri, Sat",American (New),No,N/A,Parker & Quinn,Midtown West,No,Street,(212) 729-0277,Yes,Yes,N/A,Yes,1109,4,$$,2,554.5
+Casual,N/A,Bars,N/A,N/A,The Ear Inn,South Village,No,Street,(212) 226-9060,No,Yes,N/A,Yes,363,4,$$,2,181.5
+Casual,Tue,Sports Bars,Yes,Yes,Offside Tavern,Chelsea,No,Street,(917) 388-3956,Yes,Yes,Yes,Yes,60,4.5,$,1.5,40
+N/A,N/A,Lounges,N/A,Yes,Anotheroom,TriBeCa,Yes,Street,(212) 226-1418,No,No,N/A,Yes,148,4,$$,2,74
+N/A,"Wed, Thu, Sat",Wine Bars,No,N/A,Lelabar,West Village,No,Street,(212) 206-0594,No,No,N/A,Yes,340,4,$$,2,170
+N/A,N/A,Bars,N/A,No,Bar Seine,Upper East Side,No,N/A,(212) 606-4647,Yes,No,N/A,Yes,7,3.5,$$$,2.5,2.8
+N/A,N/A,Coffee & Tea,N/A,Yes,Stella & Fly,"Yorkville, Upper East Side",No,Street,(646) 678-3947,Yes,No,No,Yes,17,5,$,1,17
+N/A,"Thu, Fri, Sat",Dive Bars,Yes,Yes,Snafu,Midtown East,No,Street,(212) 317-9100,Yes,Yes,N/A,Yes,235,3.5,$,2.5,94
+N/A,"Thu, Fri, Sat",Sports Bars,N/A,Yes,Whiskey Trader,Midtown West,No,Street,(212) 582-2223,Yes,Yes,No,Yes,203,3.5,$$,2.5,81.2
+N/A,"Fri, Sat, Sun",Cocktail Bars,No,No,Mace,"Alphabet City, East Village",No,N/A,(347) 866-7739,No,No,Yes,Yes,144,4.5,$$,1.5,96
+Casual,"Thu, Fri, Sat",Irish,No,Yes,The Milton,"Yorkville, Upper East Side",Yes,Street,(212) 369-1900,Yes,Yes,Yes,Yes,339,4,$$,2,169.5
+Casual,"Fri, Sat, Sun",Cocktail Bars,No,N/A,Harding’s,Flatiron,No,"Garage, Street",(212) 600-2105,Yes,Yes,N/A,Yes,309,4,$$,2,154.5
+N/A,N/A,Beer Bar,N/A,Yes,Proletariat,"East Village, Alphabet City",No,Street,(212) 777-6707,No,No,N/A,Yes,275,4,$$,2,137.5
+N/A,N/A,Bars,N/A,Yes,Tom & Jerry’s,NoHo,No,Street,(212) 260-5045,N/A,Yes,N/A,No,244,4,$$,2,122
+N/A,N/A,Bars,Yes,Yes,High Bar NYC,"Midtown West, Theater District, Hell's Kitchen",Yes,N/A,(212) 607-8888,No,Yes,N/A,Yes,20,3,$$,3,6.666666667
+Casual,"Wed, Thu, Sat",Bars,N/A,Yes,Lion’s Head Tavern,Manhattan Valley,No,Street,(212) 866-1030,No,Yes,N/A,Yes,194,4,$,2,97
+Casual,N/A,Tapas/Small Plates,No,Yes,Bubo,"Murray Hill, Midtown East",Yes,Garage,(212) 532-3300,No,No,N/A,Yes,120,4.5,$$$,1.5,80
+N/A,"Thu, Fri, Sat",Bars,Yes,N/A,Brass Monkey,"Meatpacking District, West Village",Yes,Street,(212) 675-6686,No,Yes,N/A,Yes,716,3,$$,3,238.6666667
+Dressy,"Thu, Fri, Sat",Lounges,No,N/A,The Flatiron Room,Flatiron,No,Street,(212) 725-3860,Yes,No,N/A,Yes,681,4.5,$$$,1.5,454
+N/A,"Fri, Sat",Cocktail Bars,No,Yes,The Garret,"East Village, Alphabet City",No,N/A,(212) 228-6231,No,No,N/A,Yes,72,3.5,$$,2.5,28.8
+N/A,N/A,Lounges,N/A,N/A,Bar Thalia,Upper West Side,No,Street,(646) 597-7340,No,No,Yes,Yes,24,4,$$,2,12
+N/A,N/A,Lounges,N/A,N/A,Blue Ribbon Hi-Bar,"Hell's Kitchen, Midtown West",Yes,N/A,(212) 397-0404,No,N/A,N/A,Yes,5,4,$$,2,2.5
+N/A,N/A,Dive Bars,No,N/A,Dive 75,Upper West Side,No,Street,(212) 362-7518,No,Yes,N/A,Yes,249,3.5,$$,2.5,99.6
+Dressy,"Thu, Sat, Sun",American (Traditional),No,No,The Polo Bar,Midtown East,No,Street,(212) 207-8562,Yes,No,N/A,Yes,327,4,$$$,2,163.5
+Casual,"Wed, Thu, Fri",Cocktail Bars,No,Yes,Dante,Greenwich Village,Yes,N/A,(212) 982-5275,Yes,No,No,Yes,205,4,$$,2,102.5
+N/A,N/A,Bars,No,Yes,FERNS,East Village,No,N/A,(646) 998-5034,Yes,No,Yes,Yes,43,4.5,$$,1.5,28.66666667
+N/A,N/A,Cocktail Bars,N/A,N/A,The Dancer,Lower East Side,N/A,N/A,(646) 876-1174,N/A,N/A,N/A,N/A,5,5,$$,1,5
+N/A,N/A,Wine Bars,No,Yes,Evening Bar,TriBeCa,No,N/A,(212) 587-7000,No,No,N/A,Yes,15,4.5,$$$,1.5,10
+N/A,"Wed, Thu, Fri",Bars,No,Yes,Gaf West,"Hell's Kitchen, Midtown West",No,Street,(212) 307-7536,No,Yes,N/A,Yes,83,4,$,2,41.5
+Casual,Sat,Dive Bars,No,Yes,The Hard Swallow,East Village,No,Street,(212) 256-0124,Yes,Yes,Yes,Yes,32,4.5,$,1.5,21.33333333
+Casual,"Wed, Thu, Sat",American (Traditional),No,Yes,Park Avenue Tavern,"Murray Hill, Midtown East",No,Street,(212) 867-4484,Yes,Yes,Yes,Yes,643,4,$$,2,321.5
+N/A,"Tue, Wed, Thu",Lounges,No,N/A,Death & Co,"East Village, Alphabet City",No,Street,(212) 388-0882,No,No,N/A,Yes,1367,4,$$$,2,683.5
+N/A,N/A,Cocktail Bars,N/A,Yes,The Blue Rooftop,"Murray Hill, Midtown East",Yes,Street,(646) 838-9498,Yes,No,Yes,Yes,21,3.5,$$,2.5,8.4
+Casual,N/A,Bars,N/A,N/A,Carlow East,Upper East Side,No,Street,(212) 744-6397,No,Yes,N/A,Yes,80,4,$$,2,40
+N/A,"Wed, Fri, Sat",Dive Bars,N/A,N/A,Clockwork Bar,"Lower East Side, Chinatown",No,"Valet, Street",(212) 677-4545,No,No,N/A,Yes,67,4,$,2,33.5
+Casual,N/A,British,N/A,N/A,The Spotted Dog,Upper East Side,Yes,Street,(646) 649-5331,Yes,Yes,Yes,Yes,90,4,$$,2,45
+N/A,N/A,Cocktail Bars,No,Yes,Due West,West Village,N/A,Street,(646) 687-4609,No,Yes,N/A,Yes,53,4,$$$,2,26.5
+N/A,Fri,Wine Bars,No,Yes,142 Sullivan,South Village,Yes,N/A,(212) 477-2404,No,No,Yes,Yes,34,4.5,$$,1.5,22.66666667
+N/A,N/A,Pubs,No,Yes,The Woodlot,"Theater District, Hell's Kitchen, Midtown West",Yes,N/A,(212) 974-2003,Yes,No,N/A,Yes,32,4,$$,2,16
+Casual,"Fri, Sat, Sun",Bars,No,Yes,The Flying Cock,"Murray Hill, Kips Bay, Midtown East",Yes,Street,(212) 689-6900,Yes,Yes,Yes,Yes,354,4.5,$$,1.5,236
+N/A,N/A,Cocktail Bars,No,Yes,Underballs,Chelsea,No,N/A,(212) 257-4363,N/A,No,N/A,Yes,11,3.5,$$,2.5,4.4
+Casual,"Thu, Fri, Sat",Dive Bars,No,N/A,Dive Bar,Upper West Side,Yes,Street,(212) 749-4358,No,Yes,N/A,Yes,409,4,$$,2,204.5
+N/A,N/A,Cocktail Bars,N/A,N/A,The Dakota Bar,Upper West Side,Yes,Street,(212) 787-0700,Yes,Yes,N/A,Yes,180,3.5,$$,2.5,72
+N/A,"Tue, Fri, Sat",Dive Bars,No,Yes,Johnny’s Bar,West Village,No,Street,(212) 741-5279,No,Yes,N/A,Yes,225,4,$,2,112.5
+N/A,N/A,Steakhouses,N/A,No,Holy Ground,TriBeCa,No,N/A,(646) 882-0666,Yes,No,N/A,Yes,23,4.5,$$,1.5,15.33333333
+N/A,N/A,American (New),N/A,N/A,Nightingale,West Village,No,N/A,(646) 429-8153,Yes,No,N/A,Yes,29,4.5,$$,1.5,19.33333333
+N/A,N/A,Cocktail Bars,No,Yes,LOCL Bar,Upper West Side,No,N/A,(212) 362-1100,No,Yes,Yes,Yes,60,3,$$,3,20
+N/A,Thu,Sports Bars,No,Yes,Albion,"Kips Bay, Murray Hill, Midtown East",Yes,N/A,(212) 679-6716,No,Yes,N/A,Yes,94,4.5,$$,1.5,62.66666667
+Casual,N/A,Cocktail Bars,Yes,No,The Crown,Chinatown,Yes,Street,(646) 630-8057,No,No,Yes,Yes,102,3.5,$$,2.5,40.8
+N/A,N/A,Lounges,No,N/A,Flatiron Lounge,Flatiron,No,Street,(212) 727-7741,Yes,No,N/A,Yes,546,4,$$$,2,273
+N/A,N/A,French,N/A,N/A,Le Prive,"Hell's Kitchen, Midtown West",Yes,N/A,(212) 837-2795,Yes,Yes,Yes,Yes,41,4.5,$$,1.5,27.33333333
+N/A,N/A,Bars,N/A,Yes,Swift,NoHo,No,Street,(212) 260-3600,No,No,N/A,Yes,351,4,$$,2,175.5
+N/A,"Thu, Fri, Sat",Dive Bars,N/A,N/A,Rudy’s Bar & Grill,"Midtown West, Hell's Kitchen, Theater District",Yes,Street,(646) 707-0890,No,Yes,N/A,No,994,4,$,2,497
+N/A,N/A,Cocktail Bars,No,No,Straylight,"Chinatown, Civic Center",No,Street,(646) 590-2111,No,No,No,Yes,18,4.5,$$,1.5,12
+N/A,"Thu, Fri, Sat",Irish Pub,No,N/A,Peter Dillon’s,Midtown East,No,"Garage, Street",(212) 300-4091,No,Yes,N/A,Yes,67,4,$,2,33.5
+Casual,"Fri, Sat, Sun",Bars,No,N/A,Upright Brew House,West Village,Yes,Street,(212) 810-9944,No,Yes,N/A,Yes,209,4,$$,2,104.5
+Casual,"Thu, Fri, Sat",Lounges,No,Yes,Russian Vodka Room,"Theater District, Midtown West",No,Street,(212) 307-5835,Yes,No,N/A,Yes,508,4,$$,2,254
+Casual,N/A,Sports Bars,No,N/A,Turnmill,Flatiron,Yes,Street,(646) 524-6060,Yes,Yes,N/A,Yes,128,3.5,$$,2.5,51.2
+Casual,"Fri, Sat",American (New),No,Yes,The Wild Son,"Meatpacking District, West Village",No,Street,(212) 727-7900,Yes,No,Yes,Yes,334,4.5,$$,1.5,222.6666667
+Casual,"Wed, Thu, Fri",Cocktail Bars,No,No,Pilot,Gowanus,Yes,"Garage, Street",(917) 810-8550,Yes,No,N/A,Yes,74,3.5,$$$,2.5,29.6
+Dressy,"Fri, Sat, Sun",American (New),No,No,Fine & Rare,Midtown East,No,N/A,(212) 725-3866,Yes,No,Yes,Yes,179,4,$$$,2,89.5
+Casual,N/A,American (New),N/A,N/A,The Fitz,Midtown East,No,"Valet, Street",(212) 784-2641,Yes,Yes,N/A,Yes,20,3.5,$$,2.5,8
+Casual,"Wed, Fri, Sat",Bars,No,Yes,Excuse My French,Lower East Side,No,"Garage, Street",(212) 780-9600,Yes,No,No,Yes,220,4.5,$$,1.5,146.6666667
+Casual,"Fri, Sat, Sun",American (Traditional),No,Yes,Amity Hall Uptown,Manhattan Valley,Yes,"Street, Private Lot",(646) 930-2501,Yes,Yes,Yes,Yes,140,3.5,$$,2.5,56
+Casual,N/A,Caribbean,No,Yes,Kingston,Harlem,No,N/A,(646) 861-1082,Yes,Yes,Yes,Yes,92,4,$$,2,46
+N/A,N/A,Pubs,No,Yes,Biddy’s Pub,"Yorkville, Upper East Side",No,Street,(212) 534-4785,No,Yes,N/A,Yes,84,4,$,2,42
+Dressy,"Fri, Sat",Latin American,No,No,Fifty,West Village,No,Street,(212) 524-4104,Yes,No,Yes,Yes,124,4.5,$$$,1.5,82.66666667
+Casual,"Thu, Fri, Sat",Irish,No,Yes,The Keg Room,Midtown West,No,Street,(212) 643-1400,Yes,Yes,Yes,Yes,301,3.5,$$,2.5,120.4
+Casual,N/A,Seafood,No,Yes,The Shadmoor,Midtown East,Yes,"Garage, Street",(212) 385-9195,Yes,Yes,Yes,Yes,161,4.5,$$,1.5,107.3333333
+Casual,"Thu, Fri, Sat",Mediterranean,No,No,Gato,NoHo,No,Street,(212) 334-6400,Yes,No,N/A,Yes,995,4,$$$,2,497.5
+N/A,N/A,Lounges,No,No,Club Macanudo,Upper East Side,No,Street,(212) 752-8200,Yes,Yes,N/A,Yes,149,4,$$$,2,74.5
+N/A,"Wed, Fri, Sat",Pool Halls,No,Yes,Space Billiards,"Koreatown, Midtown West",No,Street,(212) 239-4166,Yes,Yes,Yes,Yes,167,4,$$,2,83.5
+Casual,"Mon, Fri, Sat",Bars,No,Yes,Belle Reve,TriBeCa,Yes,Street,(212) 680-0101,Yes,No,Yes,Yes,129,4,$$,2,64.5
+N/A,N/A,Dive Bars,Yes,N/A,Paris Blues,Harlem,Yes,Street,(917) 257-7831,Yes,Yes,N/A,Yes,92,3.5,$$,2.5,36.8
+Casual,"Thu, Fri, Sat",Bars,No,Yes,Cask Bar & Kitchen,"Murray Hill, Kips Bay, Midtown East",Yes,"Garage, Street",(212) 300-4924,Yes,Yes,No,Yes,1248,4,$$,2,624
+N/A,"Tue, Fri, Sat",Pubs,N/A,N/A,Bailey’s Corner Pub,"Yorkville, Upper East Side",No,Street,(212) 650-1341,No,Yes,N/A,Yes,67,4,$,2,33.5
+N/A,N/A,Bars,N/A,Yes,M Bar,Midtown West,No,Street,(212) 277-8700,No,Yes,No,Yes,36,3.5,$$,2.5,14.4
+N/A,N/A,Japanese,N/A,N/A,Pado,East Village,N/A,N/A,(646) 476-6101,N/A,N/A,N/A,N/A,2,5,$$,1,2
+N/A,"Thu, Fri, Sat",Irish Pub,No,N/A,The Perfect Pint,Midtown East,Yes,Street,(212) 867-8159,Yes,Yes,N/A,Yes,299,3.5,$$,2.5,119.6
+Casual,N/A,Pubs,N/A,N/A,Emerald Inn,Upper West Side,No,Street,(212) 874-8840,Yes,Yes,N/A,Yes,68,3.5,$$,2.5,27.2
+Casual,"Thu, Fri, Sat",American (Traditional),N/A,Yes,Foley’s NY,"Koreatown, Midtown West",No,Street,(212) 290-0080,Yes,Yes,N/A,Yes,227,4,$$,2,113.5
+Casual,"Thu, Fri, Sat",Cocktail Bars,No,Yes,Pinks,East Village,No,Street,(646) 918-6231,Yes,No,Yes,Yes,163,4,$$,2,81.5
+Casual,"Fri, Sat",Cocktail Bars,Yes,Yes,Vida Verde,Midtown West,Yes,"Garage, Street",(646) 657-0565,Yes,No,Yes,Yes,619,4.5,$$,1.5,412.6666667
+Casual,N/A,Lounges,No,Yes,B Flat,TriBeCa,No,Street,(212) 219-2970,Yes,No,N/A,Yes,337,4,$$,2,168.5
+N/A,"Thu, Fri, Sat",Bars,N/A,Yes,Bua,"East Village, Alphabet City",Yes,Street,(212) 979-6276,No,No,Yes,Yes,508,4,$$,2,254
+Casual,"Fri, Sat",Cocktail Bars,No,Yes,The Binc,Brooklyn Heights,No,Street,(718) 624-1444,No,No,N/A,Yes,50,4.5,$$,1.5,33.33333333
+N/A,"Thu, Fri, Sat",Cocktail Bars,No,No,Bar 54,"Theater District, Midtown West",Yes,Valet,(646) 364-1234,Yes,Yes,Yes,Yes,146,3.5,$$$,2.5,58.4
+Casual,Sat,Sports Bars,No,Yes,Mustang Harry’s,"Chelsea, Midtown West",Yes,N/A,(212) 268-8930,Yes,Yes,Yes,Yes,72,4.5,$$,1.5,48
+Casual,"Thu, Fri, Sat",Sports Clubs,N/A,Yes,SPiN,Flatiron,No,Street,(212) 982-8802,Yes,Yes,N/A,Yes,422,4,$$,2,211
+Casual,"Wed, Fri, Sat",Pubs,N/A,N/A,Murphy’s Tavern,Financial District,No,Street,(212) 425-1700,Yes,Yes,N/A,Yes,160,4,$$,2,80
+Casual,N/A,Vegan,No,No,Ladybird,"East Village, Alphabet City",No,Street,(917) 261-5524,Yes,No,N/A,Yes,165,4,$$,2,82.5
+Casual,N/A,American (New),N/A,N/A,The Brooklyneer,South Village,No,Street,(646) 692-4911,Yes,Yes,N/A,Yes,214,3.5,$$,2.5,85.6
+Casual,Fri,American (New),No,Yes,The Smith,Flatiron,No,Street,(212) 685-4500,Yes,No,Yes,Yes,675,4,$$,2,337.5
+Dressy,N/A,Bars,N/A,N/A,The Heath,Chelsea,No,Street,(212) 564-1662,Yes,No,N/A,Yes,228,4,$$$,2,114
+N/A,N/A,Diners,No,Yes,Walker’s,TriBeCa,Yes,Street,(212) 941-0142,Yes,Yes,N/A,Yes,273,4,$$,2,136.5
+Casual,N/A,Latin American,Yes,Yes,La Pulperia 57th,Midtown East,No,N/A,(917) 475-1001,Yes,Yes,N/A,Yes,113,4,$$,2,56.5
+N/A,Fri,Bars,Yes,Yes,The Living Room,"Theater District, Midtown West",No,"Valet, Garage, Street, Private Lot",(212) 930-7447,Yes,Yes,Yes,Yes,11,3,$$$,3,3.666666667
+N/A,Fri,Sports Bars,No,Yes,The Weir,"Yorkville, Upper East Side",No,Street,(646) 895-9581,No,Yes,N/A,Yes,54,3.5,$$,2.5,21.6
+Casual,"Wed, Thu, Sun",American (New),No,Yes,Slane,Kips Bay,Yes,Street,(212) 725-4110,Yes,Yes,Yes,Yes,433,4,$$,2,216.5
+Casual,N/A,Lounges,No,N/A,Smith and Mills,TriBeCa,No,Street,(212) 226-2515,No,No,N/A,Yes,269,4,$$,2,134.5
+Casual,N/A,American (New),No,No,Tavern on the Green,Central Park,Yes,"Street, Validated",(212) 877-8684,Yes,No,Yes,Yes,1122,3.5,$$$,2.5,448.8
+N/A,"Wed, Thu, Fri",Bars,N/A,N/A,Nurse Bettie,Lower East Side,No,Street,(347) 956-7556,Yes,No,N/A,Yes,275,4,$$,2,137.5
+N/A,Sun,Cocktail Bars,No,Yes,Bar Hugo,South Village,Yes,Valet,(212) 608-1211,No,No,Yes,Yes,78,3,$$,3,26
+N/A,"Thu, Fri, Sat",Karaoke,Yes,Yes,Karaoke City,"Koreatown, Midtown West",No,Street,(646) 791-8318,N/A,Yes,Yes,Yes,153,4.5,$$,1.5,102
+N/A,"Thu, Fri",Lounges,N/A,N/A,Ty Bar,Midtown East,No,Valet,(212) 758-5700,Yes,Yes,N/A,Yes,32,3.5,$$$$,2.5,12.8
+N/A,N/A,Lounges,N/A,No,The Mark Hotel Bar,Upper East Side,No,N/A,(212) 744-4300,No,No,N/A,Yes,44,3.5,$$$,2.5,17.6
+N/A,"Fri, Sat, Sun",Beer Bar,No,Yes,Top Hops,Lower East Side,No,Street,(212) 254-4677,No,No,N/A,Yes,293,4.5,$$,1.5,195.3333333
+N/A,N/A,Pubs,N/A,N/A,Trinity Pub,"Yorkville, Upper East Side",No,Street,(212) 327-4450,No,Yes,N/A,Yes,106,4,$$,2,53
+N/A,N/A,Tapas Bars,N/A,N/A,Better Days,Lower East Side,N/A,N/A,(646) 869-1130,Yes,N/A,N/A,Yes,11,3.5,$$,2.5,4.4
+Casual,"Tue, Wed, Thu",Mediterranean,N/A,N/A,Entwine,West Village,Yes,Street,(212) 727-8765,Yes,No,N/A,Yes,186,4,$$,2,93
+N/A,Tue,Sandwiches,No,Yes,Workshop,"Upper East Side, Yorkville",No,N/A,(646) 861-0999,No,Yes,N/A,Yes,34,4,$$,2,17
+N/A,N/A,Jazz & Blues,N/A,No,The 55 Bar,West Village,No,Street,(212) 929-9883,No,No,N/A,No,151,4,$$,2,75.5
+Casual,"Thu, Fri, Sat",Cocktail Bars,No,N/A,Gallow Green,Chelsea,Yes,Street,(212) 564-1662,Yes,No,N/A,Yes,703,3.5,$$$,2.5,281.2
+N/A,"Tue, Thu, Fri",Bars,No,Yes,DTUT,"Yorkville, Upper East Side",No,Street,(212) 410-6449,Yes,No,N/A,Yes,445,4,$,2,222.5
+N/A,"Thu, Fri, Sat",Pubs,No,N/A,Stone Street Tavern,Financial District,Yes,Garage,(212) 785-5658,Yes,Yes,N/A,Yes,380,3.5,$$,2.5,152
+Casual,"Thu, Fri, Sat",Cocktail Bars,No,Yes,Sel Rrose,Lower East Side,Yes,Street,(212) 226-2510,Yes,No,Yes,Yes,400,4,$$,2,200
+Casual,"Mon, Sat, Sun",Japanese,No,No,Hi-Collar,East Village,No,Street,(212) 777-7018,No,No,N/A,Yes,432,4,$$,2,216
+N/A,"Fri, Sat, Sun",Pubs,N/A,Yes,Vig Bar,Nolita,No,Street,(212) 625-0011,No,No,N/A,Yes,142,3.5,$$,2.5,56.8
+Casual,"Thu, Fri, Sat",Bars,No,Yes,Barcade,Chelsea,No,Street,(212) 390-8455,No,No,Yes,Yes,359,3.5,$$,2.5,143.6
+N/A,N/A,Cocktail Bars,No,N/A,Katana Kitten,West Village,N/A,N/A,(212) 243-3000,No,N/A,N/A,Yes,14,4.5,$$,1.5,9.333333333
+N/A,"Thu, Fri, Sat",Bars,No,Yes,Drexler’s,"East Village, Alphabet City",No,Street,(646) 524-5226,Yes,No,Yes,Yes,78,4,$$,2,39
+Casual,N/A,Bars,N/A,Yes,Broome Street Bar,SoHo,No,Street,(212) 925-2086,No,Yes,N/A,Yes,226,3.5,$$,2.5,90.4
+N/A,"Thu, Fri, Sat",Cocktail Bars,N/A,N/A,Bonnie Vee,Lower East Side,Yes,Street,(917) 639-3352,No,No,N/A,Yes,125,4,$$,2,62.5
+N/A,"Wed, Fri, Sat",Cocktail Bars,N/A,N/A,The Third Man,"Alphabet City, East Village",Yes,Street,(212) 598-1040,Yes,No,N/A,Yes,92,4,$$,2,46
+N/A,"Wed, Fri, Sat",Irish Pub,Yes,Yes,The Late Late,Lower East Side,No,N/A,(212) 633-2000,Yes,No,N/A,Yes,106,3.5,$$,2.5,42.4
+N/A,"Wed, Fri, Sat",Cocktail Bars,No,N/A,Carnegie Club,Midtown West,No,Street,(212) 957-9676,Yes,Yes,N/A,Yes,190,4,$$$,2,95
+N/A,"Fri, Sat, Sun",Bars,No,Yes,Livingston Manor,"Boerum Hill, Downtown Brooklyn",Yes,Street,(347) 987-3292,No,No,Yes,Yes,100,4,$$,2,50
+N/A,N/A,Lounges,N/A,N/A,Bar Felice,"Yorkville, Upper East Side",Yes,N/A,(212) 249-4080,Yes,Yes,N/A,Yes,25,3.5,$$$,2.5,10
+Dressy,N/A,American (New),N/A,N/A,Brandy Library,TriBeCa,Yes,Street,(212) 226-5545,Yes,No,N/A,Yes,545,4,$$$,2,272.5
+Casual,"Fri, Sat, Sun",Irish,No,N/A,O’Lunney’s,"Theater District, Midtown West",No,Street,(212) 840-6688,Yes,Yes,N/A,Yes,328,4,$$,2,164
+Casual,"Tue, Wed, Fri",Cocktail Bars,No,Yes,The Happiest Hour,West Village,No,Street,(212) 243-2827,Yes,Yes,N/A,Yes,283,3,$$,3,94.33333333
+N/A,N/A,Lounges,N/A,N/A,Dutch Kills,Long Island City,No,Street,(718) 383-2724,No,No,N/A,Yes,695,4,$$,2,347.5
+Casual,"Wed, Fri, Sat",Cajun/Creole,No,Yes,Infirmary,"Yorkville, Upper East Side",No,Street,(917) 388-2512,Yes,Yes,Yes,Yes,454,4,$$,2,227
+N/A,N/A,Bars,N/A,Yes,Weather Up,TriBeCa,No,Street,(212) 766-3202,Yes,No,N/A,Yes,150,3.5,$$$,2.5,60
+Casual,"Thu, Fri, Sat",German,No,N/A,Bierhaus NYC,Midtown East,Yes,"Garage, Street",(212) 867-2337,Yes,Yes,N/A,Yes,597,3.5,$$,2.5,238.8
+N/A,N/A,Dive Bars,N/A,N/A,The Green Door,"Hell's Kitchen, Midtown West",No,N/A,(212) 974-3169,No,Yes,N/A,No,11,2.5,$$$,3.5,3.142857143
+Dressy,N/A,Bars,N/A,N/A,The Crosby Bar,SoHo,Yes,Valet,(212) 226-6400,Yes,No,N/A,Yes,136,3.5,$$$,2.5,54.4
+N/A,Sat,Cocktail Bars,No,Yes,The Moonlight Mile,Greenpoint,Yes,Street,(718) 389-3904,No,No,Yes,Yes,61,5,$$,1,61
+N/A,N/A,Venues & Event Spaces,N/A,Yes,The Wooly,"Civic Center, Financial District, TriBeCa",No,N/A,(212) 571-2930,Yes,No,N/A,Yes,66,4,$$,2,33
+Casual,"Wed, Thu, Sun",American (New),No,Yes,White Oak Tavern,Greenwich Village,No,Street,(212) 260-2604,Yes,Yes,Yes,Yes,269,4,$$,2,134.5
+Casual,N/A,American (New),No,Yes,Clay,Harlem,No,N/A,(212) 729-1850,Yes,No,N/A,Yes,102,4.5,$$$,1.5,68
+N/A,"Thu, Fri, Sat",Cocktail Bars,No,No,Garfunkel’s,Lower East Side,No,Street,(212) 529-6900,Yes,No,No,Yes,154,4.5,$$,1.5,102.6666667
+N/A,"Thu, Fri, Sat",Bars,N/A,N/A,Black Door,Chelsea,No,Street,(212) 645-0215,N/A,No,N/A,Yes,152,3.5,$$,2.5,60.8
+N/A,N/A,Bars,No,N/A,Dick and Jane’s,Fort Greene,No,Street,(347) 739-1027,No,No,N/A,Yes,100,4,$$,2,50
+Casual,"Thu, Fri, Sat",Cocktail Bars,No,No,Ghost Donkey,NoHo,No,Street,(212) 254-0350,No,No,Yes,Yes,85,3.5,$$,2.5,34
+N/A,N/A,Bars,N/A,N/A,Gibson and Luce,"Koreatown, Midtown West",N/A,N/A,(212) 615-9910,No,N/A,N/A,N/A,16,4.5,$$,1.5,10.66666667
+Casual,"Thu, Fri, Sat",Cocktail Bars,No,No,Yves,TriBeCa,Yes,Street,(212) 431-3385,Yes,No,Yes,Yes,42,4,$$,2,21
+Casual,"Thu, Fri, Sat",Bars,No,No,The Wren,"NoHo, East Village",No,Street,(212) 388-0148,Yes,No,Yes,Yes,469,4,$$,2,234.5
+N/A,"Thu, Fri, Sat",Lounges,No,Yes,Lovers of Today,"East Village, Alphabet City",No,Street,(212) 420-9517,No,No,N/A,Yes,227,4,$$,2,113.5
+Dressy,N/A,American (New),No,Yes,The Harrow New York,"Hell's Kitchen, Midtown West",No,Street,(212) 757-6977,Yes,No,N/A,Yes,83,4.5,$$,1.5,55.33333333
+N/A,"Thu, Fri, Sat",Pubs,No,Yes,Reif’s Tavern,"Yorkville, Upper East Side",Yes,Street,(212) 426-0519,No,Yes,No,Yes,45,4,$,2,22.5
+N/A,"Thu, Fri, Sat",Irish Pub,No,Yes,Hudson Hound,West Village,Yes,Street,(212) 796-6213,Yes,Yes,No,Yes,81,4,$$,2,40.5
+N/A,"Wed, Thu, Fri",Venues & Event Spaces,Yes,Yes,310 Bowery Bar,"NoHo, East Village",No,N/A,(212) 477-1166,Yes,Yes,Yes,Yes,101,3.5,$$,2.5,40.4
+N/A,N/A,Lounges,N/A,N/A,48 Lounge,"Theater District, Midtown West",No,Street,(212) 554-4848,Yes,Yes,N/A,Yes,190,3.5,$$$,2.5,76
+Casual,"Wed, Thu, Fri",Gastropubs,No,Yes,The Malt House,Financial District,No,Street,(646) 682-7577,Yes,Yes,N/A,Yes,382,4,$$,2,191
+N/A,N/A,Pubs,N/A,N/A,Lily’s Bar,Midtown East,N/A,N/A,(212) 838-0844,Yes,N/A,N/A,Yes,5,3,$$,3,1.666666667
+N/A,"Thu, Fri, Sat",Lounges,No,N/A,67 Orange Street,Harlem,No,Street,(212) 662-2030,Yes,No,N/A,Yes,335,4,$$,2,167.5
+N/A,Sat,Cocktail Bars,Yes,Yes,ER Bar And Lounge,"Murray Hill, Kips Bay, Midtown East",No,N/A,(917) 388-2923,No,Yes,N/A,Yes,48,4,$$,2,24
+N/A,N/A,Wine Bars,N/A,Yes,Bar Veloce,West Village,Yes,N/A,(212) 933-4973,N/A,N/A,N/A,Yes,8,5,$$,1,8
+N/A,"Thu, Fri, Sat",Music Venues,Yes,N/A,Bar Nine,"Hell's Kitchen, Theater District, Midtown West",No,Street,(212) 399-9336,Yes,Yes,N/A,Yes,294,3.5,$$,2.5,117.6
+N/A,"Thu, Fri, Sat",Lounges,N/A,Yes,Greenwich Treehouse,West Village,No,Street,(212) 675-0395,No,Yes,No,Yes,269,3.5,$,2.5,107.6
+Casual,"Thu, Fri, Sat",Pubs,N/A,N/A,Amsterdam Ale House,Upper West Side,Yes,Street,(212) 362-7260,Yes,Yes,N/A,Yes,333,3,$$,3,111
+N/A,N/A,Bars,No,Yes,Drop Off Service,"East Village, Alphabet City",No,Street,(212) 260-2914,No,No,N/A,Yes,288,4,$,2,144
+Casual,N/A,Pubs,N/A,Yes,Landmark Tavern,"Hell's Kitchen, Midtown West",No,Street,(212) 247-2562,Yes,Yes,N/A,Yes,250,4,$$,2,125
+N/A,N/A,Sports Bars,N/A,N/A,American Trash,"Upper East Side, Yorkville",No,Valet,(212) 988-9008,No,Yes,N/A,No,96,4,$,2,48
+Casual,N/A,Bars,No,Yes,Gin Parlour,Midtown East,No,N/A,(212) 755-5900,Yes,Yes,N/A,Yes,24,3.5,$$,2.5,9.6
+Casual,"Thu, Fri, Sat",Bars,No,N/A,Reichenbach Hall,Midtown West,No,Street,(212) 302-7744,Yes,Yes,N/A,Yes,620,4,$$,2,310
+N/A,N/A,Japanese,N/A,N/A,Toriko NY,West Village,N/A,N/A,(646) 596-8198,N/A,N/A,N/A,N/A,8,4,$$$,2,4
+Casual,Sat,Mexican,No,Yes,Barnacho,Midtown East,Yes,"Garage, Street",(212) 832-9426,No,Yes,Yes,Yes,136,4,$$,2,68
+N/A,"Fri, Sat, Sun",Cocktail Bars,No,Yes,Kobrick Coffee,"Meatpacking District, West Village",Yes,N/A,(212) 255-5588,Yes,No,N/A,Yes,276,4.5,$$,1.5,184
+N/A,N/A,Beer Bar,No,Yes,Harlem Hops,Harlem,Yes,Street,(646) 998-3444,No,Yes,Yes,Yes,55,4.5,$$,1.5,36.66666667
+Casual,"Thu, Fri, Sat",American (New),No,N/A,Trinity Place,Financial District,No,Street,(212) 964-0939,Yes,Yes,N/A,Yes,308,4,$$,2,154
+N/A,N/A,Bars,No,N/A,The Black Hound,Battery Park,No,Garage,(212) 945-0562,No,Yes,N/A,Yes,65,3.5,$$,2.5,26
+Casual,N/A,American (New),No,No,Sugar Momma,Financial District,Yes,Garage,(212) 602-9991,Yes,Yes,Yes,Yes,33,4.5,$$,1.5,22
+N/A,"Thu, Fri, Sat",Cocktail Bars,N/A,N/A,Analogue,Greenwich Village,No,Street,(212) 432-0200,Yes,No,N/A,Yes,223,4,$$$,2,111.5
+Casual,"Thu, Fri, Sat",American (Traditional),No,N/A,Trading Post,South Street Seaport,Yes,Street,(646) 370-3337,Yes,Yes,N/A,Yes,344,4,$$,2,172
+Casual,N/A,American (Traditional),No,N/A,Woodrow’s,TriBeCa,No,Garage,(212) 676-0300,Yes,Yes,N/A,Yes,299,4,$$,2,149.5
+Casual,"Thu, Fri, Sat",Sports Bars,N/A,N/A,The Junction,"Murray Hill, Midtown East",No,Street,(212) 682-7700,No,Yes,N/A,Yes,144,4,$$,2,72
+N/A,"Thu, Fri, Sat",Cocktail Bars,Yes,Yes,Mr Jones,South Village,No,N/A,(212) 842-4566,Yes,Yes,Yes,Yes,12,3.5,$$,2.5,4.8
+N/A,N/A,American (New),N/A,N/A,Market Hall,South Street Seaport,N/A,N/A,(212) 732-8257,Yes,N/A,N/A,Yes,5,3,$$,3,1.666666667
+Casual,N/A,Cocktail Bars,No,Yes,SuperNova,"Theater District, Midtown West",Yes,Street,(646) 459-5820,Yes,Yes,Yes,Yes,91,3.5,$$,2.5,36.4
+Dressy,"Wed, Fri, Sat",Lounges,No,No,The Bar Room,Midtown West,No,"Garage, Street",(212) 333-1220,Yes,No,Yes,Yes,441,4,$$$,2,220.5
+N/A,"Wed, Thu, Fri",Lounges,No,Yes,The West End,Manhattan Valley,Yes,N/A,(212) 531-4759,No,Yes,No,Yes,73,3.5,$$,2.5,29.2
+N/A,N/A,Cocktail Bars,N/A,N/A,RARE View Rooftop,"Murray Hill, Midtown East",Yes,"Garage, Street",(212) 481-1999,Yes,Yes,Yes,Yes,155,3.5,$$,2.5,62
+Casual,N/A,Gastropubs,No,Yes,Highlands NYC,West Village,No,Street,(212) 229-2670,Yes,No,Yes,Yes,374,4,$$,2,187
+N/A,N/A,Karaoke,No,Yes,MUSES 35,Midtown West,No,Street,(646) 669-8050,Yes,Yes,Yes,Yes,13,4,$$,2,6.5
+N/A,Tue,Lounges,Yes,No,The Blond,SoHo,No,N/A,(212) 235-1111,Yes,No,Yes,Yes,60,2.5,$$$,3.5,17.14285714
+Casual,"Thu, Fri, Sat",Italian,No,N/A,Sofia Wine Bar,Midtown East,No,"Garage, Street",(212) 888-8660,No,No,N/A,Yes,585,4,$$,2,292.5
+N/A,N/A,Lounges,Yes,Yes,The Empire Rooftop,Upper West Side,Yes,N/A,(212) 265-2600,Yes,Yes,N/A,Yes,28,3.5,$$$,2.5,11.2
+N/A,N/A,Dive Bars,N/A,Yes,B Side,"East Village, Alphabet City",No,Street,(212) 475-4600,No,Yes,N/A,Yes,91,4,$,2,45.5
+Casual,"Thu, Fri, Sat",Korean,No,N/A,Bangia,Midtown East,No,Street,(212) 679-6790,Yes,Yes,N/A,Yes,275,4,$$,2,137.5
+N/A,N/A,"Beer, Wine & Spirits",No,Yes,The Gordon Bar,South Village,Yes,N/A,(212) 219-3200,Yes,No,N/A,Yes,13,2.5,$$$,3.5,3.714285714
+Casual,"Thu, Fri, Sat",Southern,No,Yes,Printers Alley,"Midtown West, Theater District",Yes,Street,(212) 419-2770,Yes,Yes,Yes,Yes,67,3.5,$$,2.5,26.8
+N/A,N/A,Wine Bars,N/A,Yes,Bar Veloce,"Hell's Kitchen, Midtown West",N/A,N/A,(917) 261-5435,N/A,N/A,N/A,N/A,3,2.5,$$,3.5,0.857142857
+Casual,N/A,Sports Bars,Yes,Yes,Stax Sports Bar,"Upper East Side, Yorkville",No,"Street, Private Lot",(646) 998-3560,Yes,Yes,Yes,Yes,56,4.5,$$,1.5,37.33333333
+N/A,"Mon, Tue, Thu",Dive Bars,N/A,Yes,1020 Bar,Manhattan Valley,No,Street,(212) 531-3468,No,Yes,Yes,Yes,122,3.5,$,2.5,48.8
+N/A,N/A,Venues & Event Spaces,N/A,N/A,The Red Room,East Village,N/A,N/A,(212) 777-6088,N/A,N/A,N/A,Yes,12,4,$$,2,6
+Casual,"Thu, Fri, Sat",Cocktail Bars,No,N/A,The Summit Bar,"Alphabet City, East Village",Yes,Street,(347) 465-7911,Yes,No,N/A,Yes,380,4,$$,2,190
+N/A,N/A,Sushi Bars,N/A,Yes,Minami Lounge,Williamsburg - South Side,Yes,N/A,(917) 909-1896,Yes,Yes,Yes,Yes,12,4.5,$$,1.5,8
+N/A,N/A,Cigar Bars,N/A,N/A,Grand Havana Room,Midtown West,N/A,Garage,(212) 245-1600,Yes,Yes,N/A,Yes,52,4,$$$$,2,26
+N/A,"Thu, Fri, Sat",Cocktail Bars,No,Yes,Diamond Dogs,Astoria,Yes,Street,(929) 522-0061,No,No,N/A,Yes,118,4,$$,2,59
+Casual,"Fri, Sat, Sun",Speakeasies,No,N/A,Chumley’s,West Village,No,Street,(212) 675-2081,Yes,No,N/A,Yes,166,3.5,$$$,2.5,66.4
+Casual,N/A,Southern,No,Yes,Mr White,"East Village, Alphabet City",No,N/A,(212) 510-7229,Yes,No,Yes,Yes,81,4.5,$$,1.5,54
+Casual,"Wed, Fri, Sat",Japanese,No,Yes,Tomi Jazz,Midtown East,No,Street,(646) 497-1254,Yes,No,N/A,Yes,323,4,$$,2,161.5
+Casual,N/A,Bars,Yes,Yes,Island Oyster,South Village,Yes,N/A,(917) 268-0200,No,No,Yes,Yes,50,3.5,$$,2.5,20
+Casual,"Mon, Wed, Fri",Wine Bars,No,Yes,Wined Up,Flatiron,No,"Garage, Street",(212) 673-6333,Yes,Yes,Yes,Yes,115,4,$$,2,57.5
+Casual,N/A,American (New),No,Yes,Maysville,Flatiron,No,"Garage, Street",(646) 490-8240,Yes,No,Yes,Yes,516,4,$$$,2,258
+N/A,Sat,Cocktail Bars,No,Yes,Robert,Boerum Hill,Yes,Street,(347) 853-8687,No,No,Yes,Yes,43,4,$$,2,21.5
+N/A,N/A,Bars,N/A,Yes,The Trump Bar,"Midtown East, Midtown West",No,N/A,(212) 836-3200,No,Yes,N/A,Yes,33,3.5,$$$,2.5,13.2
+N/A,N/A,Pizza,No,Yes,The Woodstock,"Meatpacking District, West Village",No,N/A,(212) 633-2000,Yes,No,N/A,Yes,46,3.5,$$,2.5,18.4
+Casual,"Thu, Fri, Sat",Pubs,No,N/A,Pig ‘N’ Whistle,Midtown East,Yes,"Garage, Street",(212) 688-4646,Yes,Yes,N/A,Yes,234,3.5,$$,2.5,93.6
+Casual,Fri,American (New),N/A,Yes,American Whiskey,Midtown West,No,Street,(212) 967-1070,Yes,Yes,Yes,Yes,296,3.5,$$,2.5,118.4
+N/A,"Mon, Fri, Sun",Dive Bars,No,Yes,The Local,Astoria,Yes,Street,(917) 832-6797,No,Yes,N/A,Yes,43,4.5,$,1.5,28.66666667
+N/A,Thu,Dance Clubs,Yes,Yes,LivePlayLove,Astoria,Yes,"Garage, Street",(646) 606-3689,Yes,Yes,No,Yes,1,5,$$,1,1
+Casual,N/A,Bars,N/A,Yes,Rye House,Flatiron,No,Street,(212) 255-7260,Yes,Yes,N/A,Yes,434,3.5,$$,2.5,173.6
+Casual,"Wed, Thu, Sun",Bars,No,N/A,The Hideaway,TriBeCa,No,Street,(212) 334-5775,No,Yes,N/A,Yes,93,3.5,$$,2.5,37.2
+N/A,Mon,Wine Bars,No,Yes,Vanguard Wine Bar,"Upper East Side, Yorkville",No,N/A,(212) 288-9463,No,No,N/A,Yes,31,4,$$,2,15.5
+N/A,Sat,Pubs,Yes,Yes,The Commissioner,Park Slope,No,N/A,(347) 689-3968,No,Yes,N/A,Yes,108,5,$,1,108
+N/A,N/A,Bars,N/A,Yes,Bar D’eau,South Village,Yes,"Valet, Garage, Street",(212) 842-5500,Yes,Yes,Yes,Yes,21,3,$$$$,3,7
+Casual,N/A,Tapas/Small Plates,No,Yes,The Tuck Room,South Street Seaport,No,Street,(212) 776-8273,Yes,Yes,N/A,Yes,189,4,$$$,2,94.5
+N/A,N/A,Cocktail Bars,N/A,Yes,Adriaen Block,"Steinway, Astoria",Yes,N/A,(718) 606-1391,No,Yes,Yes,Yes,16,3.5,$$,2.5,6.4
+N/A,N/A,Bars,N/A,N/A,The Crow’s Nest,"Kips Bay, Stuyvesant Town",Yes,"Valet, Private Lot",(212) 545-1155,N/A,No,N/A,Yes,27,3.5,$$,2.5,10.8
+N/A,N/A,Cocktail Bars,N/A,N/A,Blue Quarter,East Village,N/A,N/A,(212) 432-2232,No,N/A,N/A,Yes,12,4.5,$$$,1.5,8
+N/A,"Thu, Fri, Sat",Lounges,No,Yes,Art Bar,West Village,No,Street,(212) 727-0244,No,Yes,N/A,Yes,465,3.5,$$,2.5,186
+Casual,Thu,Wine Bars,No,Yes,Somm Time,Midtown East,Yes,N/A,(212) 888-7404,Yes,Yes,Yes,Yes,67,4.5,$$,1.5,44.66666667
+Casual,Sat,Seafood,No,No,Simon & The Whale,"Flatiron, Kips Bay",No,Street,(212) 475-1924,Yes,No,Yes,Yes,89,4,$$,2,44.5
+N/A,N/A,Lounges,Yes,Yes,Sweet & Vicious,Nolita,Yes,Street,(212) 334-7915,No,Yes,N/A,Yes,515,3,$$,3,171.6666667
+N/A,N/A,Lounges,Yes,N/A,Tropical 128,Little Italy,No,Street,(212) 925-8219,No,Yes,N/A,Yes,171,3.5,$,2.5,68.4
+Casual,N/A,Venues & Event Spaces,N/A,Yes,W XYZ Bar,Harlem,Yes,Street,(212) 749-4000,No,Yes,N/A,Yes,37,3.5,$$,2.5,14.8
+N/A,"Thu, Fri, Sat",Lounges,No,N/A,The Back Room,Lower East Side,No,Street,(212) 228-5098,Yes,No,N/A,Yes,781,3.5,$$,2.5,312.4
+Casual,"Thu, Fri, Sat",Wine Bars,No,N/A,Ten Degrees Bar,"East Village, Alphabet City",No,Street,(212) 358-8600,Yes,Yes,N/A,Yes,807,4,$$,2,403.5
+N/A,N/A,Wine Bars,Yes,N/A,Von,NoHo,No,Street,(212) 473-3039,No,No,N/A,Yes,300,3.5,$$,2.5,120
+Casual,"Tue, Thu, Fri",Pubs,No,N/A,Flight 151,Chelsea,No,Street,(212) 229-1868,No,Yes,N/A,Yes,233,3.5,$,2.5,93.2
+Casual,"Thu, Fri, Sat",American (New),No,Yes,Bar Sardine,West Village,No,Street,(646) 360-3705,No,No,N/A,Yes,195,4,$$,2,97.5
+N/A,N/A,Pubs,Yes,Yes,The Hairy Lemon Pub,"Alphabet City, East Village",No,N/A,(646) 869-2151,Yes,Yes,N/A,Yes,39,4.5,$,1.5,26
+N/A,"Tue, Fri, Sat",Lounges,No,N/A,Pouring Ribbons,"Alphabet City, East Village",No,Street,(917) 656-6788,No,No,N/A,Yes,356,4,$$$,2,178
+N/A,N/A,Pubs,N/A,Yes,McSwiggan’s Bar,Gramercy,No,Street,(212) 683-3180,No,Yes,N/A,Yes,72,3.5,$,2.5,28.8
+Casual,N/A,Irish,No,Yes,Bayard’s Ale House,"Yorkville, Upper East Side",No,N/A,(212) 879-1500,No,Yes,N/A,Yes,42,3.5,$$,2.5,16.8
+Casual,"Thu, Fri, Sat",American (Traditional),No,N/A,The Gin Mill,Upper West Side,Yes,Street,(212) 580-9080,No,Yes,N/A,Yes,357,3.5,$$,2.5,142.8
+Casual,"Thu, Fri, Sat",Pubs,N/A,Yes,The Full Shilling,Financial District,No,Street,(212) 422-3855,Yes,Yes,N/A,Yes,78,3.5,$$,2.5,31.2
+Casual,"Thu, Fri, Sat",American (New),No,Yes,Bondurants,"Yorkville, Upper East Side",No,Street,(212) 249-1509,No,Yes,Yes,Yes,435,4,$$,2,217.5
+N/A,N/A,Irish Pub,No,Yes,Jack Jones Bar,Astoria,No,Street,(929) 424-3180,No,No,Yes,Yes,14,5,$$,1,14
+N/A,N/A,American (New),No,No,Amused,Upper West Side,No,Garage,(347) 298-8200,No,No,Yes,No,31,4.5,$$,1.5,20.66666667
+N/A,"Tue, Wed, Thu",Bars,Yes,Yes,Birdy’s,Bushwick,No,Street,(347) 365-2677,No,No,N/A,No,48,4,$,2,24
+Casual,"Wed, Fri, Sat",Lounges,No,N/A,Haven Rooftop,"Theater District, Midtown West",Yes,"Garage, Street",(212) 466-9000,Yes,Yes,N/A,Yes,498,3,$$,3,166
+Casual,N/A,Wine Bars,No,Yes,Da Capo,East Harlem,Yes,Street,(646) 707-0684,Yes,No,Yes,Yes,171,4.5,$$,1.5,114
+N/A,N/A,Wine Bars,No,Yes,Narcbar,East Village,Yes,N/A,(212) 441-3555,Yes,No,N/A,Yes,14,4,$$,2,7
+N/A,"Thu, Fri, Sat",Lounges,No,No,Mr. Purple,Lower East Side,Yes,N/A,(212) 237-1790,Yes,No,Yes,Yes,405,3,$$$,3,135
+N/A,N/A,Pubs,N/A,N/A,Burp Castle,East Village,Yes,Street,(212) 982-4576,No,No,N/A,Yes,534,4,$$,2,267
+N/A,N/A,Wine Bars,No,Yes,Vin Sur Vingt,Upper West Side,Yes,N/A,(646) 895-9944,Yes,No,N/A,Yes,37,4.5,$$,1.5,24.66666667
+N/A,"Fri, Sat, Sun",Pubs,No,N/A,Finnerty’s,East Village,No,Street,(212) 677-2655,No,Yes,N/A,Yes,332,4,$,2,166
+N/A,"Thu, Fri, Sat",Sports Bars,No,Yes,Plug Uglies,Gramercy,No,N/A,(212) 780-1944,No,Yes,N/A,Yes,32,3.5,$$,2.5,12.8
+N/A,"Thu, Fri, Sat",Irish Pub,No,N/A,The Irish American,Financial District,No,Street,(646) 414-6223,Yes,Yes,N/A,Yes,222,3.5,$$,2.5,88.8
+Casual,N/A,Seafood,N/A,N/A,Bar Belly,"Chinatown, Lower East Side",No,Street,(917) 488-0943,Yes,No,N/A,Yes,145,3.5,$$,2.5,58
+Casual,"Fri, Sat, Sun",American (Traditional),No,N/A,Molly’s,Gramercy,No,Street,(212) 889-3361,No,Yes,N/A,Yes,482,4,$$,2,241
+N/A,"Wed, Fri, Sat",Dive Bars,No,Yes,Milano’s Bar,Nolita,No,Street,(212) 226-8844,No,Yes,N/A,Yes,150,4,$,2,75
+N/A,N/A,Cocktail Bars,N/A,No,River Lounge,South Street Seaport,Yes,N/A,(212) 732-8257,N/A,N/A,N/A,Yes,14,4,$$$,2,7
+Casual,"Thu, Fri, Sat",American (Traditional),N/A,Yes,Dark Horse,"Civic Center, TriBeCa",No,"Garage, Street",(212) 608-3900,Yes,Yes,N/A,Yes,373,4,$$,2,186.5
+N/A,"Thu, Fri, Sat",Bars,N/A,Yes,Shrine,Harlem,Yes,Street,(212) 690-7807,Yes,Yes,N/A,Yes,229,4,$$,2,114.5
+N/A,N/A,Cocktail Bars,Yes,No,The Seville,"Flatiron, Midtown East",No,N/A,(212) 226-2833,Yes,No,Yes,Yes,31,3.5,$$,2.5,12.4
+Casual,"Thu, Fri, Sat",Pubs,No,N/A,The Storehouse,Flatiron,No,Street,(212) 243-8898,N/A,Yes,N/A,Yes,143,3.5,$$,2.5,57.2
+Casual,"Mon, Sat, Sun",Bars,No,Yes,The Copper Still,East Village,Yes,N/A,(212) 510-8469,Yes,Yes,Yes,Yes,145,4,$$,2,72.5
+Casual,"Tue, Fri, Sat",Gastropubs,No,Yes,Fools Gold NYC,Lower East Side,No,N/A,(212) 673-2337,Yes,Yes,N/A,Yes,269,4,$$,2,134.5
+N/A,N/A,Cocktail Bars,N/A,N/A,The Hidden Pearl,Greenpoint,N/A,N/A,(718) 383-3291,Yes,N/A,N/A,Yes,15,4.5,$$,1.5,10
+Dressy,N/A,American (Traditional),N/A,N/A,Aretsky’s Patroon,Midtown East,Yes,Street,(212) 883-7373,Yes,Yes,N/A,Yes,200,4,$$$,2,100
+Casual,"Thu, Fri, Sat",Wine Bars,No,N/A,Anfora,West Village,No,Street,(212) 518-2722,No,No,N/A,Yes,152,4,$$,2,76
+Casual,N/A,Wine Bars,N/A,Yes,YN,Nolita,No,Street,(212) 226-3330,No,No,Yes,Yes,179,4,$$,2,89.5
+N/A,"Thu, Fri, Sat",Dive Bars,N/A,Yes,Nancy Whiskey Pub,TriBeCa,No,Street,(212) 226-9943,No,Yes,N/A,Yes,196,3.5,$,2.5,78.4
+N/A,"Tue, Wed, Sat",Dive Bars,No,Yes,Rusty Knot,West Village,No,Street,(212) 645-5668,No,Yes,Yes,Yes,244,3.5,$$,2.5,97.6
+N/A,"Tue, Wed, Sun",Irish Pub,N/A,Yes,11th Street Bar,"East Village, Alphabet City",No,Street,(212) 982-3929,Yes,Yes,Yes,Yes,131,4,$,2,65.5
+N/A,"Thu, Fri, Sat",Pubs,Yes,Yes,Maggie Mae’s,Sunnyside,No,Street,(718) 433-3067,No,Yes,N/A,Yes,113,4.5,$$,1.5,75.33333333
+N/A,N/A,Bars,N/A,Yes,"Floyd, NY","Cobble Hill, Brooklyn Heights",No,Street,(718) 858-5810,No,Yes,N/A,Yes,200,4,$,2,100
+N/A,"Fri, Sat, Sun",Bars,No,N/A,The Duplex,West Village,Yes,Street,(212) 255-5438,No,No,N/A,Yes,267,3.5,$$,2.5,106.8
+N/A,"Thu, Fri, Sat",Cocktail Bars,Yes,N/A,Dream Baby,"East Village, Alphabet City",No,Street,(646) 807-3754,Yes,No,N/A,Yes,105,4,$$,2,52.5
+N/A,N/A,Wine Bars,N/A,N/A,The Fitting Room,Lower East Side,N/A,N/A,(212) 804-8088,Yes,N/A,N/A,N/A,2,5,$$,1,2
+N/A,N/A,Bars,N/A,N/A,Primo’s,TriBeCa,N/A,N/A,(917) 512-3432,Yes,N/A,N/A,Yes,2,4,$$$,2,1
+Casual,N/A,Tapas Bars,N/A,Yes,El Kallejon,East Harlem,No,Street,(646) 649-4795,Yes,Yes,No,Yes,231,4.5,$$,1.5,154
+Casual,"Thu, Fri, Sat",American (New),No,Yes,Union Bar & Kitchen,South Village,Yes,Street,(646) 791-0005,Yes,Yes,Yes,Yes,287,4,$$,2,143.5
+N/A,N/A,Pubs,No,Yes,The Whiskey Rebel,"Kips Bay, Flatiron",No,Street,(212) 686-3800,Yes,Yes,N/A,Yes,105,3.5,$$,2.5,42
+N/A,"Thu, Fri, Sat",Lounges,No,N/A,Rose Bar,"Gramercy, Flatiron",No,"Valet, Street",(212) 920-3300,Yes,No,N/A,Yes,286,3.5,$$$,2.5,114.4
+N/A,"Thu, Fri, Sat",Dive Bars,No,Yes,Lucky,"East Village, Alphabet City",Yes,N/A,(212) 777-3111,Yes,No,Yes,Yes,39,3.5,$,2.5,15.6
+Casual,"Tue, Thu, Fri",Bars,No,N/A,Overlook,Midtown East,Yes,Street,(212) 682-7266,Yes,Yes,N/A,Yes,233,3.5,$$,2.5,93.2
+N/A,N/A,Pubs,N/A,Yes,Mona’s,"East Village, Alphabet City",No,Street,(212) 353-3780,No,Yes,N/A,Yes,92,4,$,2,46
+Casual,N/A,Cafes,No,No,La Mercerie,"SoHo, TriBeCa",No,Street,(212) 852-9097,Yes,No,Yes,Yes,68,3,$$,3,22.66666667
+Casual,"Fri, Sat",Bars,No,Yes,The Roost,"East Village, Alphabet City",No,Street,(646) 918-6700,No,Yes,N/A,Yes,126,4,$,2,63
+Casual,N/A,Tacos,No,Yes,Flats Fix,Flatiron,No,Street,(212) 353-2400,No,Yes,N/A,Yes,44,4,$$,2,22
+Casual,N/A,American (New),No,No,The Loyal,West Village,No,Street,(212) 488-5800,Yes,No,N/A,Yes,103,4,$$,2,51.5
+Casual,"Fri, Sat",Bars,No,Yes,The Beast Next Door,Long Island City,No,Street,(718) 482-7507,Yes,No,N/A,Yes,144,4.5,$$,1.5,96
+Casual,"Thu, Fri, Sat",Dive Bars,N/A,N/A,Jeremy’s Ale House,"South Street Seaport, Financial District",Yes,Street,(212) 964-3537,No,Yes,N/A,Yes,257,4,$,2,128.5
+Casual,N/A,Bars,No,Yes,Treadwell Park,Battery Park,Yes,N/A,(212) 945-0528,No,Yes,Yes,Yes,87,3.5,$$,2.5,34.8
+Casual,N/A,Wine Bars,No,N/A,The Drunken Horse,Chelsea,No,Street,(212) 604-0505,No,No,N/A,Yes,106,4,$$,2,53
+Casual,"Thu, Fri, Sat",American (Traditional),No,Yes,Boilermaker,East Village,No,Street,(212) 995-5400,No,Yes,N/A,Yes,209,4,$$,2,104.5
+Casual,"Thu, Fri, Sat",Beer Gardens,No,Yes,West End Hall,Manhattan Valley,Yes,Street,(212) 662-7200,Yes,Yes,Yes,Yes,197,3.5,$$,2.5,78.8
+N/A,N/A,Mediterranean,N/A,N/A,Cleo,Midtown East,N/A,N/A,(646) 948-2370,Yes,N/A,N/A,Yes,31,4,$$$,2,15.5
+N/A,N/A,Lounges,N/A,N/A,The Spring Lounge,Nolita,No,Street,(212) 965-1774,No,Yes,N/A,Yes,227,3.5,$$,2.5,90.8
+N/A,N/A,Karaoke,N/A,N/A,Baby Grand,SoHo,No,Street,(212) 219-8110,No,No,N/A,Yes,177,4,$$,2,88.5
+N/A,Fri,Cocktail Bars,No,No,St. Cloud,"Theater District, Midtown West",Yes,Valet,(212) 204-4980,Yes,No,Yes,Yes,63,3,$$$,3,21
+N/A,N/A,Cocktail Bars,No,No,The Bar Room,Financial District,No,N/A,(212) 658-1848,No,No,Yes,Yes,27,3.5,$$$,2.5,10.8
+N/A,N/A,Lounges,N/A,Yes,Top of the Strand,Midtown West,Yes,Street,(646) 368-6426,No,Yes,N/A,Yes,157,3.5,$$,2.5,62.8
+Casual,"Thu, Fri, Sat",Sports Bars,No,Yes,Proper West,Midtown West,No,"Garage, Street",(212) 997-9000,Yes,Yes,Yes,Yes,278,3.5,$$,2.5,111.2
+N/A,N/A,Beer Bar,N/A,N/A,d.b.a.,East Village,Yes,Street,(212) 475-5097,No,Yes,N/A,Yes,430,3.5,$$,2.5,172
+N/A,"Thu, Fri, Sat",Pubs,N/A,N/A,Ulysses Folk House,Financial District,Yes,Street,(212) 482-0400,Yes,Yes,N/A,Yes,716,3,$$,3,238.6666667
+N/A,N/A,Bars,N/A,N/A,Edge of Astoria,Astoria,Yes,Street,(929) 331-4231,N/A,Yes,Yes,Yes,3,5,$$,1,3
+Casual,"Mon, Fri, Sat",Lounges,Yes,Yes,Iron Bar & Lounge,"Midtown West, Theater District, Hell's Kitchen",No,"Valet, Street, Private Lot",(212) 247-1970,Yes,Yes,No,Yes,365,3,$$,3,121.6666667
+N/A,"Wed, Thu, Fri",Lounges,No,Yes,La Biblioteca,"Murray Hill, Midtown East",No,Street,(212) 808-8110,Yes,No,N/A,Yes,376,3.5,$$,2.5,150.4
+Casual,"Thu, Fri, Sat",Pubs,N/A,Yes,Niall’s,Midtown East,No,Street,(212) 888-4648,No,Yes,N/A,Yes,116,4,$$,2,58
+Dressy,N/A,Lounges,N/A,No,Pegu Club,SoHo,No,Street,(212) 473-7348,Yes,No,N/A,Yes,930,4,$$$,2,465
+Casual,"Thu, Fri, Sat",Sports Bars,N/A,N/A,Manhattan Proper,"Civic Center, TriBeCa",No,Street,(646) 559-4445,Yes,Yes,N/A,Yes,221,3.5,$$,2.5,88.4
+N/A,N/A,Sports Bars,N/A,N/A,Play Sport Club,TriBeCa,N/A,N/A,(646) 355-0707,N/A,N/A,N/A,N/A,1,5,$$,1,1
+Casual,N/A,American (Traditional),No,Yes,AWOL Bar & Grill,Kips Bay,No,Street,(646) 682-9405,No,Yes,N/A,Yes,30,4,$$,2,15
+Casual,N/A,American (New),No,Yes,The Smith,Upper West Side,Yes,Street,(212) 496-5700,Yes,No,N/A,Yes,1378,3.5,$$,2.5,551.2
+Casual,"Thu, Fri, Sat",Bars,No,Yes,The Supply House,"Yorkville, Upper East Side",No,Street,(646) 861-3585,No,Yes,N/A,Yes,292,4,$$,2,146
+Casual,N/A,Wine Bars,No,Yes,City Vineyard,West Village,Yes,N/A,(347) 349-1204,Yes,Yes,Yes,Yes,392,3.5,$$,2.5,156.8
+Casual,"Thu, Fri, Sat",American (New),No,No,Till & Sprocket,"Chelsea, Midtown West",No,Street,(212) 239-0570,Yes,No,Yes,Yes,143,4,$$,2,71.5
+N/A,N/A,Pubs,N/A,Yes,Dublin House,Upper West Side,No,Street,(212) 874-9528,No,Yes,N/A,Yes,64,3.5,$$,2.5,25.6
+Casual,"Fri, Sat",Bars,No,Yes,Oppa,West Village,No,N/A,(646) 410-0503,No,Yes,Yes,Yes,71,4,$$,2,35.5
+N/A,N/A,Cocktail Bars,N/A,Yes,Mailroom,Financial District,No,N/A,(646) 476-5004,Yes,N/A,Yes,Yes,13,3.5,$$,2.5,5.2
+N/A,"Thu, Fri, Sat",Dive Bars,No,Yes,The Patriot Saloon,TriBeCa,No,Street,(212) 748-1162,No,Yes,N/A,No,318,3.5,$,2.5,127.2
+N/A,N/A,Bars,N/A,N/A,Mercy,Gramercy,Yes,Street,(212) 253-8061,Yes,Yes,N/A,Yes,257,3.5,$$,2.5,102.8
+Casual,N/A,American (Traditional),N/A,N/A,The Perfect Pint,"Theater District, Midtown West",Yes,Street,(212) 354-1099,Yes,Yes,N/A,Yes,355,3.5,$$,2.5,142
+N/A,"Thu, Fri, Sat",Dive Bars,No,Yes,Tile Bar,East Village,No,Street,(212) 254-4317,No,Yes,Yes,No,88,4,$,2,44
+N/A,N/A,Lounges,No,Yes,Hudson Bar,"Hell's Kitchen, Midtown West",Yes,N/A,(212) 554-6217,Yes,Yes,N/A,Yes,15,3,$$,3,5
+Casual,"Fri, Sat, Sun",Lounges,Yes,N/A,Cantina Rooftop,"Hell's Kitchen, Midtown West",Yes,Street,(212) 957-1700,Yes,Yes,N/A,Yes,337,2.5,$$,3.5,96.28571429
+N/A,"Thu, Sat, Sun",Sports Bars,N/A,N/A,Bar-Coastal NYC,"Upper East Side, Yorkville",Yes,Street,(212) 288-6635,No,Yes,N/A,Yes,256,4,$$,2,128
+Casual,"Fri, Sat, Sun",Bars,No,Yes,The Chelsea Bell,Chelsea,No,N/A,(212) 242-2425,Yes,Yes,Yes,Yes,70,3.5,$$,2.5,28
+N/A,N/A,Bars,N/A,Yes,Brady’s Bar,"Yorkville, Upper East Side",No,Street,(212) 861-6070,No,Yes,N/A,Yes,58,3.5,$,2.5,23.2
+N/A,"Thu, Fri, Sat",Sports Bars,No,Yes,Bleecker Street Bar,NoHo,No,Street,(212) 334-0244,Yes,Yes,Yes,Yes,149,3.5,$,2.5,59.6
+Casual,"Mon, Tue, Sat",Bars,No,Yes,The Topaz,East Williamsburg,Yes,Street,(347) 770-7217,Yes,No,No,Yes,90,4.5,$$,1.5,60
+N/A,N/A,Bars,No,Yes,L.I.C. Bar,"Hunters Point, Long Island City",Yes,Street,(718) 786-5400,No,Yes,N/A,Yes,296,3.5,$$,2.5,118.4
+Casual,"Thu, Fri, Sat",Irish,N/A,N/A,Cuckoo’s Nest,Woodside,No,Street,(718) 426-5684,Yes,Yes,N/A,Yes,157,4,$$,2,78.5
+N/A,N/A,Lounges,N/A,N/A,Goldbar,Little Italy,No,Street,(212) 274-1568,Yes,No,N/A,Yes,225,3,$$$,3,75
+Casual,"Thu, Fri, Sat",American (New),N/A,Yes,The Liberty,Midtown West,No,Street,(212) 967-4000,Yes,Yes,Yes,Yes,340,3.5,$$,2.5,136
+N/A,N/A,Lounges,N/A,Yes,Max Bar,Midtown East,No,Street,(212) 407-2947,Yes,Yes,Yes,Yes,138,2.5,$$$,3.5,39.42857143
+N/A,N/A,American (Traditional),N/A,Yes,Oxbow Tavern,Upper West Side,Yes,Street,(646) 490-4075,Yes,N/A,N/A,Yes,34,3,$$$,3,11.33333333
+N/A,N/A,Bars,N/A,N/A,Sunita Bar,Lower East Side,Yes,Street,(212) 253-8860,No,No,N/A,Yes,135,4.5,$$,1.5,90
+Casual,N/A,American (New),No,Yes,Bar180,Washington Heights,Yes,Street,(646) 928-3283,Yes,Yes,Yes,Yes,79,4,$$,2,39.5
+N/A,N/A,Lounges,N/A,No,Living Room Bar,Financial District,Yes,N/A,(646) 826-8642,Yes,Yes,N/A,Yes,57,3,$$$,3,19
+Casual,"Thu, Fri, Sat",Tapas/Small Plates,No,Yes,Verlaine,Lower East Side,No,Street,(212) 614-2494,Yes,No,Yes,Yes,1335,4,$$,2,667.5
+N/A,"Thu, Fri, Sat",Lounges,No,N/A,Watermark,South Street Seaport,Yes,Street,(212) 742-8200,Yes,Yes,N/A,Yes,164,3,$$,3,54.66666667
+Casual,"Fri, Sat, Sun",American (New),No,N/A,Tír na Nóg,"Midtown West, Hell's Kitchen",No,"Garage, Street",(212) 760-0072,Yes,Yes,N/A,Yes,336,4,$$,2,168
+Casual,"Thu, Fri, Sat",American (New),Yes,Yes,Five Mile Stone,"Yorkville, Upper East Side",Yes,Street,(212) 933-0913,Yes,Yes,Yes,Yes,350,3.5,$$,2.5,140
+Casual,"Fri, Sat, Sun",American (New),No,Yes,The Cannibal,"Flatiron, Midtown East",Yes,Street,(212) 686-5480,Yes,Yes,Yes,Yes,566,4,$$,2,283
+N/A,"Fri, Sat, Sun",Bars,No,Yes,Luckydog,Williamsburg - South Side,Yes,Street,(347) 294-4971,No,No,N/A,Yes,263,4,$,2,131.5
+Casual,"Fri, Sat, Sun",Cocktail Bars,N/A,Yes,Blueprint,Park Slope,Yes,Street,(718) 622-6644,No,No,N/A,Yes,301,4.5,$$,1.5,200.6666667
+Casual,Fri,Cafes,No,Yes,Kind Regards,Lower East Side,No,N/A,(212) 253-0036,Yes,No,Yes,Yes,37,3,$$,3,12.33333333
+N/A,"Tue, Fri, Sat",Bars,No,Yes,Solid State,Woodside,No,N/A,(347) 935-3042,Yes,No,N/A,Yes,49,5,$$,1,49
+N/A,N/A,Dive Bars,Yes,Yes,Bar None,East Village,No,Street,(212) 777-6663,No,Yes,N/A,Yes,335,3,$,3,111.6666667
+N/A,"Thu, Fri, Sat",Dive Bars,N/A,N/A,Point Break,Midtown West,No,Street,(212) 391-8053,Yes,Yes,N/A,Yes,214,3.5,$$,2.5,85.6
+N/A,N/A,Bars,No,Yes,Doris,"Clinton Hill, Bedford Stuyvesant",Yes,Street,(347) 240-3350,No,No,N/A,Yes,81,4,$$,2,40.5
+Casual,"Thu, Fri, Sat",American (Traditional),No,Yes,Fraunces Tavern,Financial District,No,Street,(212) 968-1776,Yes,No,N/A,Yes,731,3.5,$$,2.5,292.4
+N/A,N/A,Pubs,N/A,N/A,Halyards,Gowanus,Yes,Street,(718) 532-8787,Yes,Yes,N/A,Yes,88,4,$$,2,44
+N/A,N/A,Lounges,N/A,N/A,SoHo Cigar Bar,South Village,No,Street,(212) 941-1781,Yes,Yes,N/A,Yes,196,4.5,$$,1.5,130.6666667
+Casual,"Mon, Fri, Sat",Pubs,N/A,Yes,PJ Carneys,Midtown West,No,N/A,(212) 664-0056,No,Yes,N/A,Yes,124,3.5,$$,2.5,49.6
+Casual,"Thu, Fri, Sat",American (New),No,Yes,Distilled,TriBeCa,Yes,Street,(646) 809-9490,Yes,Yes,Yes,Yes,726,4,$$,2,363
+Casual,N/A,Middle Eastern,No,Yes,Kubeh,Greenwich Village,Yes,"Garage, Street",(646) 448-6688,Yes,No,Yes,Yes,106,4,$$,2,53
+N/A,Fri,Dance Clubs,Yes,No,Friday Night Blues,Flatiron,No,Street,(929) 352-5837,N/A,No,No,No,10,5,$,1,10
+Casual,N/A,Pubs,N/A,Yes,Sly Fox,East Village,No,Street,(212) 614-3283,No,Yes,N/A,Yes,82,3.5,$,2.5,32.8
+N/A,N/A,Bars,N/A,Yes,The Magician,Lower East Side,No,Street,(212) 673-7851,No,No,N/A,No,164,3.5,$,2.5,65.6
+Casual,"Thu, Fri, Sat",Bars,No,N/A,Hill and Dale,Lower East Side,No,Street,(212) 420-1115,Yes,Yes,N/A,Yes,419,4,$$,2,209.5
+Casual,"Thu, Fri, Sat",Bars,Yes,Yes,Fat Buddha,"East Village, Alphabet City",No,Street,(212) 598-0500,Yes,Yes,Yes,Yes,590,4,$$,2,295
+N/A,"Thu, Fri, Sat",Jazz & Blues,No,Yes,Zinc Bar,Greenwich Village,No,"Valet, Garage, Street",(212) 477-9462,Yes,No,N/A,Yes,171,4,$$,2,85.5
+Casual,"Fri, Sat, Sun",Cocktail Bars,No,Yes,The Rookery,Bushwick,Yes,Street,(718) 483-8048,No,Yes,Yes,Yes,202,4,$$,2,101
+N/A,N/A,Cocktail Bars,No,Yes,The Armory,"Gowanus, Park Slope",Yes,N/A,(929) 337-8476,Yes,No,No,Yes,36,4.5,$$,1.5,24
+N/A,N/A,Music Venues,Yes,No,Pier 17,South Street Seaport,Yes,N/A,(212) 732-7678,Yes,Yes,Yes,Yes,46,3.5,$$,2.5,18.4
+Casual,"Fri, Sat, Sun",Bars,No,Yes,The Bonnie,Astoria,Yes,Street,(718) 274-2105,Yes,No,Yes,Yes,487,4,$$,2,243.5
+N/A,N/A,Bars,N/A,N/A,Gem-Bar,Midtown West,N/A,N/A,(212) 869-9238,N/A,N/A,N/A,N/A,1,5,$$,1,1
+Casual,"Tue, Wed, Thu",Gastropubs,N/A,No,Wilfie & Nell,West Village,No,Street,(212) 242-2990,No,No,No,Yes,331,3.5,$$,2.5,132.4
+Casual,Fri,American (New),No,No,While We Were Young,West Village,Yes,Street,(917) 675-6272,No,Yes,No,Yes,196,3.5,$$,2.5,78.4
+N/A,"Tue, Fri, Sat",Jazz & Blues,Yes,No,The Django,TriBeCa,No,N/A,(212) 519-6649,N/A,No,Yes,Yes,74,3.5,$$$,2.5,29.6
+Casual,"Thu, Fri, Sat",American (New),No,Yes,Ivy,"Midtown West, Hell's Kitchen",No,Street,(212) 459-9444,Yes,Yes,N/A,Yes,316,4,$$,2,158
+Casual,"Thu, Fri, Sun",American (Traditional),No,Yes,Stout NYC FiDi,Financial District,No,Street,(212) 240-9122,Yes,Yes,Yes,Yes,205,3.5,$$,2.5,82
+N/A,"Thu, Fri, Sat",Cocktail Bars,No,Yes,La Sala,Astoria,No,Street,(718) 606-6121,N/A,Yes,Yes,Yes,97,4.5,$$,1.5,64.66666667
+N/A,N/A,Venues & Event Spaces,N/A,N/A,W XYZ Bar,Long Island City,N/A,N/A,(718) 433-9305,No,N/A,N/A,Yes,2,5,$$,1,2
+Casual,"Thu, Fri, Sat",Mediterranean,No,No,Covina,Flatiron,No,Garage,(212) 204-0225,Yes,No,N/A,Yes,267,4.5,$$$,1.5,178
+Casual,"Mon, Wed, Fri",Lounges,No,N/A,Shalel Kitchen,Upper West Side,Yes,Street,(212) 873-2300,Yes,No,N/A,Yes,571,4,$$,2,285.5
+Casual,"Wed, Fri, Sat",Bars,No,Yes,The Gem Saloon,Kips Bay,No,N/A,(646) 612-7757,Yes,Yes,N/A,Yes,125,4,$$,2,62.5
+N/A,"Wed, Thu, Fri",Pubs,N/A,Yes,Killarney Rose,Financial District,No,Street,(212) 422-1486,No,Yes,N/A,Yes,139,3.5,$$,2.5,55.6
+Casual,N/A,Irish,No,N/A,The Long Room,"Theater District, Midtown West",No,"Garage, Street",(212) 997-3933,Yes,Yes,Yes,Yes,271,3.5,$$,2.5,108.4
+N/A,N/A,Cocktail Bars,N/A,N/A,Peachy’s,"Chinatown, Civic Center",N/A,N/A,(646) 895-9301,N/A,N/A,N/A,Yes,9,4,$$,2,4.5
+Casual,"Tue, Wed, Thu",Chinese,No,No,Decoy,West Village,No,Street,(212) 691-9700,Yes,No,N/A,Yes,333,4.5,$$$,1.5,222
+N/A,"Wed, Thu",Bars,N/A,Yes,RPM Bar,Lower East Side,No,N/A,(646) 918-6529,No,Yes,N/A,Yes,66,3.5,$,2.5,26.4
+Casual,"Thu, Fri, Sat",Pubs,No,N/A,McGee’s Pub,Midtown West,No,"Garage, Street",(212) 957-3536,Yes,Yes,N/A,Yes,552,3.5,$$,2.5,220.8
+N/A,"Thu, Fri, Sat",Lounges,Yes,Yes,Home Sweet Home,Lower East Side,No,Street,(212) 226-5709,No,No,Yes,Yes,393,3,$,3,131
+Casual,N/A,Bars,N/A,Yes,Jake’s Saloon,"Hell's Kitchen, Midtown West",No,Street,(212) 333-3100,No,Yes,N/A,Yes,91,2.5,$$,3.5,26
+Casual,"Thu, Fri, Sat",American (New),No,N/A,The Park,Chelsea,Yes,Street,(212) 352-3313,Yes,No,Yes,Yes,1696,3,$$,3,565.3333333
+N/A,N/A,Cocktail Bars,No,Yes,The Honey Well,Harlem,No,N/A,(646) 861-0489,Yes,No,No,Yes,84,4.5,$$,1.5,56
+N/A,N/A,Pubs,N/A,N/A,Queen Vic,East Village,No,Street,(212) 228-5357,No,Yes,N/A,Yes,76,4,$,2,38
+Casual,"Wed, Fri, Sat",American (New),N/A,N/A,Formerly Crow’s,Greenwich Village,No,Street,(212) 361-0077,Yes,Yes,N/A,Yes,65,4,$$,2,32.5
+N/A,N/A,Venues & Event Spaces,N/A,N/A,Rose Gold,East Williamsburg,N/A,N/A,(718) 821-2580,N/A,N/A,N/A,N/A,3,4.5,$,1.5,2
+Casual,"Thu, Fri, Sat",American (New),No,Yes,Spoon Table & Bar,"Murray Hill, Midtown East",No,Street,(646) 230-7000,Yes,No,Yes,Yes,278,4,$$,2,139
+Casual,"Wed, Fri, Sat",American (Traditional),No,N/A,Phebe’s,East Village,No,Street,(212) 358-1902,Yes,Yes,N/A,Yes,531,3.5,$$,2.5,212.4
+Casual,N/A,Burgers,No,Yes,Hudson Common,"Hell's Kitchen, Midtown West",Yes,"Valet, Street",(212) 554-6217,Yes,Yes,N/A,Yes,153,3.5,$$,2.5,61.2
+N/A,N/A,Wine Bars,No,Yes,BIN No. 220,South Street Seaport,Yes,Street,(212) 374-9463,Yes,Yes,N/A,Yes,74,4,$$,2,37
+Casual,"Thu, Fri, Sat",Sports Bars,N/A,N/A,Warren 77,TriBeCa,No,Street,(212) 227-8994,Yes,Yes,N/A,Yes,172,3,$$,3,57.33333333
+Casual,"Thu, Fri, Sat",Bars,N/A,No,Sake Bar Decibel,East Village,No,Street,(212) 979-2733,No,No,N/A,Yes,895,4,$$,2,447.5
+N/A,"Thu, Fri, Sat",Cocktail Bars,Yes,Yes,The Lately,Chelsea,No,N/A,(212) 206-1096,Yes,Yes,Yes,Yes,50,2.5,$$,3.5,14.28571429
+N/A,N/A,Bars,N/A,N/A,Manitoba’s,"Alphabet City, East Village",No,Street,(212) 982-2511,No,Yes,N/A,Yes,199,4,$,2,99.5
+N/A,Thu,Bars,No,Yes,Left Hand Path,Bushwick,Yes,Street,(718) 417-1262,Yes,No,No,Yes,40,4.5,$$,1.5,26.66666667
+N/A,N/A,Cocktail Bars,N/A,Yes,The Lovelace,Financial District,Yes,N/A,(212) 425-7171,Yes,No,N/A,Yes,22,3.5,$$,2.5,8.8
+Casual,"Mon, Fri",Bars,N/A,Yes,Linen Hall,East Village,Yes,Street,(646) 602-9316,Yes,Yes,N/A,Yes,154,4,$$,2,77
+Dressy,"Sat, Sun",American (New),No,No,Robert,"Hell's Kitchen, Midtown West",No,Street,(212) 299-7730,Yes,Yes,N/A,Yes,800,4,$$$,2,400
+N/A,"Thu, Fri, Sat",Pool Halls,N/A,N/A,Fat Cat Music,West Village,No,Street,(212) 675-6056,N/A,No,N/A,Yes,1046,4,$,2,523
+Casual,N/A,Burgers,N/A,N/A,The Randolph,Little Italy,Yes,"Garage, Street",(646) 383-3623,No,Yes,N/A,Yes,146,3.5,$$,2.5,58.4
+N/A,"Thu, Fri, Sat",Sports Bars,No,Yes,Triona’s On Third,Gramercy,No,Street,(646) 448-4671,No,Yes,N/A,Yes,86,4,$$,2,43
+N/A,N/A,Venues & Event Spaces,N/A,No,The Mayflower,Clinton Hill,No,N/A,(718) 576-3584,No,No,N/A,Yes,44,4,$$,2,22
+Casual,Sat,Bars,No,No,Motel Morris,Chelsea,Yes,N/A,(646) 880-4810,Yes,Yes,Yes,Yes,125,4,$$$,2,62.5
+N/A,N/A,Bars,N/A,Yes,Puffy’s Tavern,TriBeCa,No,Street,(212) 227-3912,No,Yes,N/A,Yes,85,4,$,2,42.5
+N/A,N/A,Bars,N/A,N/A,Featherweight,East Williamsburg,No,Street,(646) 257-0946,No,No,N/A,No,122,4.5,$$,1.5,81.33333333
+N/A,N/A,Cocktail Bars,Yes,No,Mood Ring,Bushwick,No,Street,(917) 818-1738,Yes,No,Yes,Yes,28,4,$$,2,14
+Casual,"Wed, Thu, Sat",American (Traditional),No,Yes,Industry Kitchen,Financial District,Yes,N/A,(212) 487-9600,Yes,Yes,Yes,Yes,423,3.5,$$,2.5,169.2
+Casual,Sun,Hookah Bars,No,Yes,Gardenia Terrace,"Hell's Kitchen, Midtown West",Yes,"Garage, Street",(212) 334-0489,Yes,Yes,Yes,Yes,109,4.5,$$$,1.5,72.66666667
+N/A,"Thu, Fri, Sat",Lounges,No,No,Vandal,Lower East Side,No,Street,(212) 400-0199,Yes,No,Yes,Yes,1085,3.5,$$$,2.5,434
+N/A,N/A,Bars,N/A,N/A,Pata Paplean Bar,Elmhurst,No,Street,(718) 651-2076,No,Yes,N/A,No,51,4,$$,2,25.5
+N/A,N/A,Cocktail Bars,N/A,No,The Long Island Bar,Cobble Hill,No,Street,(718) 625-8908,Yes,No,N/A,Yes,117,4,$$,2,58.5
+Casual,"Thu, Fri, Sat",Breakfast & Brunch,No,Yes,The Ditty,Astoria,Yes,Street,(347) 617-1747,No,No,Yes,Yes,171,4,$$,2,85.5
+Casual,N/A,American (Traditional),No,No,Sister Jane NYC,East Village,No,Street,(917) 265-8234,Yes,Yes,Yes,Yes,26,4,$$,2,13
+Casual,"Thu, Fri, Sat",American (Traditional),No,N/A,The Stumble Inn,"Upper East Side, Yorkville",Yes,Street,(212) 650-0561,No,Yes,N/A,Yes,418,3.5,$$,2.5,167.2
+N/A,N/A,Dive Bars,Yes,Yes,duckduck,East Williamsburg,No,Street,(347) 799-1449,No,No,N/A,No,210,4,$,2,105
+Casual,"Thu, Fri, Sat",Lounges,No,N/A,Donna,South Williamsburg,No,"Garage, Street",(646) 568-6622,Yes,No,N/A,Yes,143,4,$$,2,71.5
+Casual,"Fri, Sat, Sun",Mexican,No,Yes,Lalito,Chinatown,No,Street,(646) 998-3408,Yes,No,N/A,Yes,108,4,$$,2,54
+Casual,N/A,Steakhouses,No,Yes,Boucherie - Park,"Gramercy, Flatiron",No,Street,(800) 437-6189,Yes,No,Yes,Yes,272,4.5,$$$,1.5,181.3333333
+Casual,"Thu, Fri, Sat",Pubs,No,N/A,Peculier Pub,Greenwich Village,No,Street,(212) 353-1327,No,Yes,N/A,No,376,3.5,$,2.5,150.4
+N/A,N/A,Dive Bars,N/A,Yes,Mulberry Street Bar,Civic Center,Yes,Street,(212) 226-9345,No,Yes,N/A,Yes,137,3.5,$$,2.5,54.8
+N/A,"Thu, Fri, Sat",Sports Bars,No,N/A,Lansdowne Road,"Hell's Kitchen, Midtown West",No,Street,(212) 239-8020,No,Yes,N/A,Yes,401,4,$$,2,200.5
+Casual,"Thu, Fri, Sat",Irish Pub,No,N/A,Dylan Murphy’s,"Upper East Side, Yorkville",No,Street,(212) 988-9434,Yes,Yes,N/A,Yes,146,4,$$,2,73
+N/A,N/A,Pubs,N/A,N/A,The Upstairs Pub,"Midtown East, Murray Hill",No,N/A,(212) 986-0500,No,Yes,N/A,Yes,12,3.5,$,2.5,4.8
+N/A,"Thu, Fri, Sat",Beer Bar,No,Yes,Rattle N Hum West,"Midtown West, Hell's Kitchen",No,Street,(917) 262-0423,No,Yes,Yes,Yes,95,3.5,$$,2.5,38
+N/A,Sat,Lounges,No,Yes,Madison Club Lounge,Midtown East,No,N/A,(212) 661-9600,Yes,Yes,N/A,Yes,28,4,$$,2,14
+N/A,N/A,Lounges,N/A,N/A,Lizard Lounge,"Theater District, Midtown West",Yes,N/A,(212) 265-6900,N/A,Yes,N/A,Yes,9,3.5,$$,2.5,3.6
+Casual,"Fri, Sat",Mexican,No,Yes,Empellón,Midtown East,No,Street,(212) 858-9365,Yes,No,Yes,Yes,220,4,$$$,2,110
+Casual,Fri,Irish,No,Yes,The Grafton,East Village,Yes,Street,(929) 226-0464,Yes,Yes,Yes,Yes,60,4,$$,2,30
+N/A,N/A,Lounges,N/A,No,King Cole Bar,Midtown East,No,N/A,(212) 339-6857,Yes,No,N/A,Yes,215,3.5,$$$,2.5,86
+N/A,N/A,Venues & Event Spaces,N/A,Yes,W XYZ Bar,Financial District,Yes,Garage,(212) 513-0003,No,Yes,Yes,Yes,1,5,$$,1,1
+Casual,N/A,Greek,No,Yes,The Greek,TriBeCa,No,"Garage, Street",(646) 476-3941,Yes,No,Yes,Yes,444,4.5,$$$,1.5,296
+Casual,"Thu, Fri, Sun",Lounges,N/A,N/A,Antique Garage,SoHo,Yes,Street,(212) 219-1019,Yes,No,Yes,Yes,361,3.5,$$,2.5,144.4
+N/A,"Thu, Fri, Sat",Cocktail Bars,No,Yes,Lion Lion,East Harlem,Yes,"Garage, Street",(917) 262-0517,No,No,N/A,Yes,57,4.5,$$,1.5,38
+N/A,N/A,Cocktail Bars,No,Yes,The Green Room,"Gramercy, Kips Bay",No,N/A,(212) 477-6161,No,No,N/A,Yes,25,4,$$,2,12.5
+N/A,"Thu, Fri, Sat",Pizza,No,Yes,Loverboy,"Alphabet City, East Village",No,Street,(212) 539-1900,No,No,N/A,Yes,35,4.5,$$,1.5,23.33333333
+Casual,N/A,Dive Bars,No,Yes,Tempest Bar,"Chelsea, Midtown West",No,Street,(212) 643-1502,No,Yes,N/A,Yes,108,3.5,$$,2.5,43.2
+N/A,N/A,Tacos,No,Yes,Bar Taco,"Alphabet City, East Village",No,Street,(646) 559-4648,No,Yes,Yes,Yes,17,4,$$,2,8.5
+N/A,"Thu, Fri, Sat",Breweries,No,No,LIC Beer Project,Long Island City,No,Street,(917) 832-6840,No,No,Yes,Yes,91,4,$,2,45.5
+Casual,N/A,Wine Bars,No,Yes,Cello Wine Bar,Midtown East,No,Street,(917) 475-1131,Yes,Yes,N/A,Yes,179,4,$$,2,89.5
+N/A,"Thu, Fri, Sat",Pubs,N/A,N/A,Walter’s Bar,"Chelsea, Midtown West",No,Street,(212) 502-4023,N/A,Yes,N/A,Yes,64,3.5,$,2.5,25.6
+Casual,N/A,Burgers,No,N/A,Bravest,"Murray Hill, Midtown East",No,Street,(212) 683-3766,No,Yes,N/A,Yes,179,4,$$,2,89.5
+N/A,Thu,Lounges,No,No,Grand Salon,Midtown West,No,N/A,(212) 790-8800,Yes,No,N/A,Yes,20,4,$$$$,2,10
+N/A,N/A,Dive Bars,N/A,N/A,Dave’s Tavern,"Midtown West, Hell's Kitchen, Theater District",No,Street,(212) 244-4408,No,Yes,N/A,Yes,61,3.5,$$,2.5,24.4
+N/A,N/A,Brewpubs,N/A,Yes,Braven Brewing,"East Williamsburg, Bushwick",N/A,Street,(929) 295-6673,N/A,N/A,Yes,Yes,7,5,$,1,7
+N/A,"Thu, Fri, Sat",Lounges,Yes,Yes,Monarch Rooftop,Midtown West,Yes,Street,(212) 630-9993,Yes,Yes,Yes,Yes,421,3,$$,3,140.3333333
+N/A,N/A,Bars,N/A,N/A,Liquid Assets,Financial District,No,N/A,(212) 693-2001,N/A,N/A,N/A,Yes,4,3,$$,3,1.333333333
+Casual,"Thu, Fri, Sat",Sports Bars,N/A,N/A,Taproom No. 307,Kips Bay,Yes,Street,(212) 725-4766,Yes,Yes,N/A,Yes,440,3.5,$$,2.5,176
+N/A,N/A,Pubs,N/A,Yes,Josie Woods Pub,Greenwich Village,No,Street,(212) 228-9909,N/A,Yes,N/A,Yes,118,3.5,$$,2.5,47.2
+N/A,"Mon, Fri, Sat",Beer Gardens,Yes,N/A,The Well,East Williamsburg,Yes,Street,(347) 338-3612,N/A,No,N/A,Yes,118,4,$$,2,59
+Casual,N/A,American (Traditional),No,N/A,SoHo Room,South Village,No,Street,(212) 334-3855,Yes,Yes,N/A,Yes,144,3,$$,3,48
+N/A,N/A,Breweries,N/A,N/A,Big aLICe Brewing,Long Island City,N/A,Street,(347) 688-2337,N/A,N/A,N/A,Yes,91,4.5,$,1.5,60.66666667
+Casual,"Fri, Sat, Sun",Beer Bar,No,Yes,Bierocracy,"Hunters Point, Long Island City",No,Street,(718) 361-9333,Yes,Yes,Yes,Yes,238,4,$$,2,119
+Casual,N/A,American (New),No,Yes,Nickel & Diner,"Little Italy, SoHo",Yes,Street,(646) 870-6100,Yes,No,Yes,Yes,323,4,$$,2,161.5
+Formal (Jacket Required),"Thu, Fri, Sat",French,No,No,Daniel,Upper East Side,No,N/A,(212) 288-0033,Yes,No,Yes,Yes,1439,4.5,$$$$,1.5,959.3333333
+Casual,Fri,Mexican,No,Yes,La Contenta Oeste,Greenwich Village,Yes,Street,(212) 533-2233,Yes,No,N/A,Yes,98,4,$$,2,49
+N/A,"Thu, Fri, Sat",Pubs,N/A,Yes,O’Reilly’s Pub,"Koreatown, Midtown West",Yes,Street,(212) 684-4244,No,Yes,N/A,Yes,193,3,$$,3,64.33333333
+Casual,N/A,American (New),No,No,The Eddy,East Village,No,Street,(646) 895-9884,Yes,No,N/A,Yes,343,4.5,$$$,1.5,228.6666667
+Casual,"Thu, Fri, Sat",Cocktail Bars,No,Yes,The Daisy,"Yorkville, Upper East Side",Yes,"Garage, Street",(646) 964-5756,Yes,No,Yes,Yes,186,3.5,$$,2.5,74.4
+N/A,Sat,Cocktail Bars,No,Yes,Fresh Kills Bar,Williamsburg - North Side,No,N/A,(718) 599-7888,No,No,N/A,Yes,80,4.5,$$,1.5,53.33333333
+Casual,"Wed, Fri, Sun",Bars,No,Yes,Crompton Ale House,Chelsea,No,Street,(212) 658-0089,Yes,Yes,Yes,Yes,142,3.5,$$,2.5,56.8
+N/A,"Wed, Fri, Sat",Bars,N/A,Yes,Ace Bar,"East Village, Alphabet City",No,Street,(212) 979-8476,Yes,Yes,Yes,Yes,349,3.5,$,2.5,139.6
+Dressy,N/A,American (New),N/A,Yes,The Musket Room,Nolita,No,Street,(212) 219-0764,Yes,No,N/A,Yes,368,4.5,$$$,1.5,245.3333333
+N/A,Sat,Cocktail Bars,No,Yes,Sweet Polly,Prospect Heights,No,Street,(718) 484-9600,Yes,No,Yes,Yes,85,4.5,$$,1.5,56.66666667
+N/A,N/A,Lounges,N/A,Yes,The Emerson,"Clinton Hill, Bedford Stuyvesant",Yes,Street,(347) 763-1310,No,Yes,N/A,No,72,4,$$,2,36
+N/A,N/A,Dive Bars,Yes,Yes,Lone Wolf,"Bushwick, Bedford Stuyvesant",No,Street,(347) 240-9542,No,No,N/A,Yes,96,4,$,2,48
+N/A,N/A,Cocktail Bars,No,Yes,The Holler,"Clinton Hill, Bedford Stuyvesant",Yes,Street,(917) 966-5723,No,No,No,Yes,13,5,$$,1,13
+Casual,N/A,Beer Bar,No,Yes,BeerZaar,South Village,No,N/A,(212) 256-0014,No,No,N/A,Yes,25,4,$$,2,12.5
+Dressy,"Thu, Fri, Sat",Bars,No,No,Gabriel Kreuther,Midtown West,No,N/A,(212) 257-5826,Yes,No,Yes,Yes,299,4.5,$$$$,1.5,199.3333333
+Casual,"Thu, Fri, Sat",Sports Bars,No,N/A,House of Brews,"Theater District, Midtown West, Hell's Kitchen",Yes,"Garage, Street",(212) 541-7080,Yes,Yes,N/A,Yes,417,4,$$,2,208.5
+Casual,"Wed, Thu, Fri",Cocktail Bars,No,Yes,Conmigo,"Yorkville, Upper East Side",No,Street,(212) 256-0056,Yes,No,Yes,Yes,129,4,$$,2,64.5
+Casual,Mon,American (New),N/A,Yes,Prospect,Fort Greene,Yes,Street,(718) 596-6826,Yes,No,N/A,Yes,215,4,$$$,2,107.5
+N/A,"Thu, Fri, Sat",Dive Bars,No,Yes,Boobie Trap,Bushwick,No,N/A,(347) 240-9105,N/A,No,Yes,Yes,217,4,$,2,108.5
+Dressy,N/A,French,No,Yes,Amelie,Upper West Side,Yes,N/A,(646) 422-7167,Yes,No,No,Yes,81,4.5,$$$,1.5,54
+Casual,N/A,Bars,N/A,N/A,Maggie’s Place,Midtown East,No,Street,(212) 753-5757,Yes,Yes,N/A,Yes,114,3.5,$$,2.5,45.6
+N/A,N/A,Cocktail Bars,No,Yes,Le Boudoir,"Cobble Hill, Brooklyn Heights",No,N/A,(347) 227-8337,Yes,No,No,Yes,46,4,$$,2,23
+N/A,"Wed, Fri, Sat",Dive Bars,N/A,Yes,Double Down Saloon,"East Village, Alphabet City",Yes,Street,(212) 982-0543,No,Yes,N/A,Yes,311,3.5,$,2.5,124.4
+N/A,N/A,Dive Bars,N/A,N/A,The Jar Bar,Sunnyside,Yes,Street,(718) 784-9616,No,Yes,N/A,No,21,4,$,2,10.5
+N/A,"Thu, Fri, Sat",Pubs,Yes,Yes,The Red Lion,Greenwich Village,Yes,Street,(212) 260-9797,Yes,Yes,N/A,Yes,297,3.5,$$,2.5,118.8
+N/A,N/A,Performing Arts,N/A,No,Park Avenue Armory,Upper East Side,No,N/A,(212) 616-3930,N/A,No,N/A,Yes,65,4.5,$$,1.5,43.33333333
+Casual,"Thu, Fri, Sat",American (Traditional),No,N/A,Jakes Dilemma,Upper West Side,Yes,Street,(212) 580-0556,No,Yes,N/A,Yes,427,3.5,$$,2.5,170.8
+N/A,N/A,Sports Bars,N/A,Yes,The Sports Bar,East Village,No,N/A,(917) 803-3866,N/A,Yes,N/A,Yes,3,4,$,2,1.5
+Casual,"Fri, Sat",Tiki Bars,Yes,No,Make Believe,Lower East Side,Yes,Street,(212) 460-5300,No,No,No,Yes,75,3,$$,3,25
+Casual,"Thu, Fri, Sat",Pubs,No,N/A,Merrion Square Pub,"Yorkville, Upper East Side",No,"Garage, Street",(212) 831-7696,No,Yes,N/A,Yes,206,3.5,$,2.5,82.4
+N/A,N/A,Sports Bars,No,Yes,Triona’s,Greenwich Village,No,Street,(212) 982-5222,No,Yes,N/A,Yes,108,4,$,2,54
+N/A,N/A,Wine Bars,N/A,Yes,Vanguard Wine Bar,"Kips Bay, Midtown East",No,Street,(212) 447-9463,No,Yes,N/A,Yes,66,4,$$,2,33
+N/A,N/A,Bars,No,Yes,Bookmarks,"Midtown East, Murray Hill",Yes,Street,(212) 204-5498,Yes,No,N/A,Yes,173,3.5,$$$,2.5,69.2
+Casual,"Thu, Fri, Sat",Pubs,No,N/A,Pig n Whistle,Midtown West,No,Street,(212) 239-4820,Yes,Yes,N/A,Yes,160,3.5,$$,2.5,64
+N/A,N/A,Beer Bar,No,No,BierWax,Prospect Heights,Yes,Street,(347) 533-8449,No,No,Yes,Yes,39,4.5,$$,1.5,26
+Casual,"Wed, Fri, Sat",Irish,No,N/A,Blarney Rock Pub,Midtown West,No,Street,(212) 947-0825,No,Yes,N/A,Yes,172,3.5,$$,2.5,68.8
+Casual,"Thu, Fri, Sat",Cocktail Bars,No,No,Mother of Pearl,"East Village, Alphabet City",No,Street,(212) 614-6818,Yes,No,No,Yes,328,4,$$,2,164
+Casual,Sat,Mexican,No,Yes,El Centro,"Theater District, Hell's Kitchen, Midtown West",Yes,Street,(646) 763-6585,No,No,N/A,Yes,769,4,$$,2,384.5
+Casual,N/A,Bars,No,N/A,Faces & Names,"Theater District, Midtown West",No,"Garage, Street",(212) 586-9311,Yes,Yes,N/A,Yes,324,3.5,$$,2.5,129.6
+N/A,N/A,Bars,N/A,Yes,Westside Tavern,Chelsea,No,Street,(212) 366-3738,No,Yes,N/A,Yes,69,3,$$,3,23
+N/A,"Sat, Sun",Gay Bars,Yes,Yes,Dive Bar Lounge,"Hell's Kitchen, Midtown West",Yes,N/A,(646) 756-5230,No,Yes,N/A,Yes,49,3,$,3,16.33333333
+Casual,"Thu, Fri, Sat",Wine Bars,No,No,Wine:34,"Murray Hill, Midtown East",Yes,N/A,(212) 213-1700,Yes,No,N/A,Yes,57,4.5,$$,1.5,38
+Casual,Wed,Wine Bars,No,No,Le Botaniste,Upper East Side,No,Street,(917) 262-0766,No,No,No,Yes,329,4.5,$$,1.5,219.3333333
+Casual,"Thu, Fri, Sat",Bars,No,N/A,Eastwood,Lower East Side,No,Street,(212) 233-0124,No,No,N/A,Yes,131,4,$$,2,65.5
+N/A,N/A,American (New),N/A,Yes,Copinette,Midtown East,No,N/A,(212) 903-4001,Yes,Yes,Yes,Yes,36,4,$$,2,18
+Casual,"Thu, Fri, Sat",Cocktail Bars,No,Yes,Black Crescent,Lower East Side,No,Street,(212) 477-1771,No,No,N/A,Yes,142,4,$$,2,71
+Casual,N/A,Bars,No,Yes,Boat Basin Café,Upper West Side,Yes,Street,(212) 496-5542,No,Yes,N/A,Yes,660,3.5,$$,2.5,264
+Dressy,"Thu, Fri, Sat",Bars,Yes,Yes,Common Ground,"Meatpacking District, West Village",Yes,Street,(212) 255-7484,Yes,Yes,No,Yes,53,3,$$$,3,17.66666667
+Casual,N/A,Italian,No,No,Mercato,"Midtown West, Hell's Kitchen",No,Street,(212) 643-2000,Yes,No,N/A,Yes,746,4,$$,2,373
+N/A,N/A,Lounges,Yes,Yes,et al.,Lower East Side,N/A,N/A,(917) 341-6856,Yes,No,N/A,Yes,14,4,$$$$,2,7
+N/A,"Tue, Fri, Sat",Cocktail Bars,No,Yes,Ramona,Greenpoint,No,Street,(347) 227-8164,No,No,N/A,Yes,107,4.5,$$,1.5,71.33333333
+Casual,"Tue, Fri, Sat",Bars,N/A,N/A,One Mile House,Lower East Side,Yes,Street,(646) 559-0702,Yes,No,N/A,Yes,208,4,$$,2,104
+N/A,N/A,Beer Bar,No,Yes,The Beerkeeper,Woodside,No,Street,(718) 899-1678,Yes,Yes,Yes,Yes,36,4,$$,2,18
+N/A,N/A,Dive Bars,N/A,Yes,Fish Bar,East Village,No,Street,(212) 475-4949,No,No,N/A,No,76,4,$,2,38
+N/A,"Thu, Fri, Sat",Beer Bar,No,N/A,Beer Authority,"Midtown West, Theater District, Hell's Kitchen",Yes,"Garage, Street",(212) 510-8415,Yes,Yes,N/A,Yes,561,3.5,$$,2.5,224.4
+N/A,N/A,American (New),N/A,Yes,BLVD Bistro & Bar,Rego Park,N/A,N/A,(917) 832-6015,Yes,Yes,N/A,Yes,15,4.5,$$,1.5,10
+N/A,"Wed, Thu",Dive Bars,No,Yes,Subway Inn,Upper East Side,No,N/A,(212) 758-0900,No,Yes,Yes,Yes,49,3.5,$$,2.5,19.6
+N/A,"Wed, Fri, Sat",Sports Bars,No,Yes,The Irish Pub,"Theater District, Midtown West",Yes,Street,(212) 664-9364,Yes,Yes,Yes,Yes,177,3.5,$$,2.5,70.8
+N/A,N/A,German,No,Yes,GRÜNHAUS,Lower East Side,N/A,Street,(212) 228-0027,No,No,N/A,Yes,23,4,$$,2,11.5
+N/A,N/A,Gay Bars,N/A,Yes,Suite,Manhattan Valley,No,Street,(212) 222-4600,No,Yes,N/A,Yes,50,3.5,$$,2.5,20
+N/A,N/A,Bars,No,Yes,Black & White,East Village,No,Street,(212) 253-0246,No,No,N/A,Yes,119,3.5,$$,2.5,47.6
+N/A,"Mon, Fri, Sat",Wine Bars,No,No,Wine Escape,"Midtown West, Hell's Kitchen",No,Street,(212) 262-7000,Yes,No,N/A,Yes,163,4.5,$$,1.5,108.6666667
+Casual,"Thu, Fri, Sat",Sports Bars,No,N/A,Murphy’s Law,Upper East Side,No,Street,(212) 628-3724,Yes,Yes,N/A,Yes,78,3.5,$$,2.5,31.2
+Dressy,N/A,Italian,No,Yes,Ristorante Morini,Upper East Side,Yes,"Garage, Street",(212) 249-0444,Yes,No,Yes,Yes,246,4,$$$,2,123
+Casual,Wed,Breakfast & Brunch,No,Yes,Pig ‘N’ Whistle,"Theater District, Midtown West",No,Garage,(917) 639-3864,No,Yes,Yes,Yes,73,3.5,$$,2.5,29.2
+N/A,"Thu, Fri, Sat",Bars,N/A,Yes,Marshall Stack,Lower East Side,No,Street,(212) 228-4667,No,Yes,N/A,No,222,4,$$,2,111
+Casual,"Fri, Sat, Sun",American (Traditional),N/A,N/A,Lips,Midtown East,No,"Garage, Street",(212) 675-7710,Yes,No,N/A,Yes,570,4,$$,2,285
+N/A,Tue,Cocktail Bars,No,Yes,Baby Jane,Clinton Hill,No,Street,(646) 469-3333,No,Yes,No,Yes,42,4.5,$$,1.5,28
+Casual,"Thu, Fri, Sat",American (Traditional),N/A,Yes,The Parlour,Upper West Side,No,Street,(212) 580-8923,No,Yes,No,Yes,138,3,$$,3,46
+N/A,"Thu, Fri, Sat",Dive Bars,Yes,N/A,Mama’s Bar,"Alphabet City, East Village",No,Street,(212) 777-5729,No,Yes,N/A,Yes,105,3.5,$,2.5,42
+N/A,N/A,Lounges,N/A,N/A,Rarities,Midtown East,N/A,N/A,(917) 202-8379,Yes,N/A,N/A,Yes,1,5,$$$$,1,1
+N/A,"Thu, Fri, Sat",Pubs,N/A,Yes,Gabby O’Hara’s,Midtown West,No,Street,(212) 278-8984,No,Yes,N/A,Yes,99,3.5,$$,2.5,39.6
+N/A,N/A,Pizza,No,Yes,Hop House Harlem,Harlem,Yes,Street,(646) 858-0252,No,Yes,Yes,Yes,91,4,$$,2,45.5
+N/A,N/A,Lounges,No,N/A,Flûte Midtown,Midtown West,No,Street,(212) 265-5169,Yes,No,N/A,Yes,248,3.5,$$$,2.5,99.2
+N/A,"Thu, Fri, Sat",Lounges,N/A,Yes,Cibar,Gramercy,Yes,Street,(212) 460-5656,Yes,No,N/A,Yes,282,4,$$$,2,141
+Casual,"Fri, Sat, Sun",Sports Bars,Yes,Yes,The Grayson,East Village,No,Street,(212) 510-8726,No,Yes,Yes,Yes,185,4,$$,2,92.5
+Casual,N/A,American (New),No,Yes,Villanelle,"Union Square, Greenwich Village",No,Street,(212) 989-2474,Yes,No,Yes,Yes,57,4.5,$$$,1.5,38
+Casual,N/A,Gastropubs,No,N/A,The Malt House,Greenwich Village,Yes,Street,(212) 228-7713,Yes,Yes,N/A,Yes,382,4,$$,2,191
+N/A,"Thu, Fri, Sat",Wine Bars,No,N/A,The Immigrant,East Village,No,Street,(646) 308-1724,N/A,No,N/A,Yes,351,4,$$,2,175.5
+N/A,"Fri, Sat, Sun",Sports Bars,No,Yes,At the Wallace,Harlem,No,Street,(212) 234-6896,No,Yes,Yes,Yes,161,4.5,$$,1.5,107.3333333
+Casual,"Fri, Sat, Sun",Bars,No,No,49 Monroe,Two Bridges,No,Street,(917) 472-7732,No,No,Yes,Yes,137,4.5,$$,1.5,91.33333333
+N/A,Fri,Cocktail Bars,No,Yes,Elsa,Cobble Hill,Yes,N/A,(917) 882-7395,No,No,N/A,Yes,66,4.5,$$,1.5,44
+Casual,N/A,Cocktail Bars,No,Yes,W XYZ Bar,Downtown Brooklyn,No,N/A,(718) 256-3833,No,Yes,N/A,Yes,5,4.5,$$,1.5,3.333333333
+Casual,N/A,American (New),N/A,N/A,The East Pole,Upper East Side,Yes,Street,(212) 249-2222,Yes,No,N/A,Yes,217,3.5,$$$,2.5,86.8
+N/A,N/A,American (New),No,Yes,Monk Mcginn’s,TriBeCa,N/A,N/A,(917) 265-8961,Yes,N/A,N/A,Yes,29,4.5,$$$,1.5,19.33333333
+Casual,N/A,Pubs,N/A,N/A,Cassidy’s Ale House,Jackson Heights,No,Street,(718) 424-6549,No,Yes,N/A,Yes,57,4,$$,2,28.5
+Casual,"Wed, Fri, Sat",Bars,No,Yes,The Keep,Bushwick,No,Street,(718) 381-0400,No,No,N/A,No,50,4,$$,2,25
+N/A,N/A,Lounges,N/A,N/A,Bar Bella,Midtown West,N/A,N/A,(212) 247-8000,N/A,N/A,N/A,N/A,1,4,$$,2,0.5
+Casual,N/A,French,No,Yes,Little Prince,South Village,Yes,Street,(212) 335-0566,Yes,No,N/A,Yes,280,3.5,$$$,2.5,112
+N/A,N/A,Cocktail Bars,No,No,Underdog,Financial District,Yes,N/A,(917) 409-0251,No,No,N/A,Yes,50,3.5,$$,2.5,20
+Casual,"Thu, Fri, Sat",Mexican,No,Yes,Casa Neta,Flatiron,No,N/A,(212) 529-7870,Yes,No,Yes,Yes,98,4,$$,2,49
+N/A,N/A,Bars,No,Yes,Cardiff Giant,Clinton Hill,Yes,Street,(929) 337-7873,No,No,Yes,Yes,35,4,$$,2,17.5
